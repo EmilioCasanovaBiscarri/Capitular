@@ -9,7 +9,7 @@ Es una PWA estática (HTML, CSS y JavaScript sin frameworks ni compilación) pen
 | Archivo | Qué es |
 |---|---|
 | `index.html` | La página del juego |
-| `styles.css` | Estilos (paleta del logo, tema oscuro automático) |
+| `styles.css` | Estilos (paleta del logo; tema luminoso por defecto y oscuro a elegir en la ayuda) |
 | `app.js` | Lógica del juego, guardado y estadísticas |
 | `partidas.json` | Las partidas, una por día |
 | `manifest.webmanifest` | Manifiesto de la PWA |

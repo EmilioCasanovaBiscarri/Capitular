@@ -28,25 +28,25 @@
   --sans: 'Source Sans 3', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   --radio: 12px;
 
-  color-scheme: light dark;
+  color-scheme: light;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --fondo: var(--tinta);
-    --texto: var(--crema);
-    --texto-suave: #BEB19E;
-    --superficie: #28221E;
-    --superficie-2: #342C26;
-    --borde: #4D4239;
-    --casilla: #211C19;
-    --acento: var(--oro);
-    --oro-borde: #E2B95E;
-    --error: #FF9C90;
-    --error-fondo: #4B2420;
-    --sombra: none;
-    --velo: rgb(0 0 0 / .6);
-  }
+/* Tema oscuro: se elige en la ayuda (por defecto, luminoso) */
+:root[data-tema="oscuro"] {
+  --fondo: var(--tinta);
+  --texto: var(--crema);
+  --texto-suave: #BEB19E;
+  --superficie: #28221E;
+  --superficie-2: #342C26;
+  --borde: #4D4239;
+  --casilla: #211C19;
+  --acento: var(--oro);
+  --oro-borde: #E2B95E;
+  --error: #FF9C90;
+  --error-fondo: #4B2420;
+  --sombra: none;
+  --velo: rgb(0 0 0 / .6);
+  color-scheme: dark;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -509,6 +509,59 @@ dialog[open] { animation: aparecer .2s ease-out; }
 .reglas { margin: 12px 0 18px; padding-left: 1.2em; }
 .reglas li { margin-bottom: 6px; }
 .reglas li::marker { color: var(--acento); }
+
+/* Selector de tema, al pie de la ayuda */
+.tema {
+  margin: 18px 0 0;
+  padding: 14px 0 0;
+  border: 0;
+  border-top: 1px solid var(--borde);
+}
+.tema legend {
+  float: left;
+  width: 100%;
+  margin-bottom: 8px;
+  padding: 0;
+  font-weight: 600;
+  font-size: .95rem;
+}
+.tema-opciones {
+  clear: both;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;
+  padding: 4px;
+  border-radius: 12px;
+  background: var(--superficie-2);
+}
+.tema label {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+  border-radius: 9px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.tema input {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+.tema label:has(input:checked) {
+  background: var(--superficie);
+  box-shadow: var(--sombra);
+  color: var(--acento);
+}
+.tema label:has(input:focus-visible) { outline: 3px solid var(--acento); outline-offset: 2px; }
+.tema svg {
+  width: 20px; height: 20px;
+  fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round;
+}
 
 /* Ejemplo animado de la ayuda */
 .ejemplo {

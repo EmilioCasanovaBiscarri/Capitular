@@ -939,6 +939,27 @@ async function animarEjemplo() {
   }
 }
 
+/* Tema luminoso u oscuro (se elige al pie de la ayuda) */
+
+const CLAVE_TEMA = 'capitular-tema';
+
+function aplicarTema(tema) {
+  const oscuro = tema === 'oscuro';
+  if (oscuro) document.documentElement.dataset.tema = 'oscuro';
+  else delete document.documentElement.dataset.tema;
+  $('meta[name="theme-color"]').content = oscuro ? '#1E1A17' : '#F5EBD8';
+  for (const r of $$('input[name="tema"]')) r.checked = r.value === (oscuro ? 'oscuro' : 'luminoso');
+}
+
+for (const r of $$('input[name="tema"]')) {
+  r.addEventListener('change', () => {
+    aplicarTema(r.value);
+    try { localStorage.setItem(CLAVE_TEMA, r.value); } catch { /* sin almacenamiento */ }
+  });
+}
+
+aplicarTema(document.documentElement.dataset.tema === 'oscuro' ? 'oscuro' : 'luminoso');
+
 function abrirAyuda() {
   montarEjemplo();
   abrir(dlgAyuda);
