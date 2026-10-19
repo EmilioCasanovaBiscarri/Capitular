@@ -421,5 +421,2720 @@
         ]
       }
     }
+  },
+  {
+    "fecha": "2026-10-29",
+    "niveles": {
+      "facil": {
+        "palabra": "HOJAS",
+        "pista": "Caen de los árboles en otoño",
+        "filas": [
+          { "definicion": "Lo pone la gallina", "pista": "Se fríe o se cuece", "respuesta": "HUEVO" },
+          { "definicion": "Ave parecida al ganso", "pista": "Da nombre a un juego de tablero en espiral", "respuesta": "OCA" },
+          { "definicion": "Animal de cuello larguísimo", "pista": "Mamífero africano con manchas", "respuesta": "JIRAFA" },
+          { "definicion": "Lo que hay en la playa y en el desierto", "pista": "Con ella se hacen castillos", "respuesta": "ARENA" },
+          { "definicion": "Hongo con sombrero", "pista": "Se busca en el bosque en otoño", "respuesta": "SETA" }
+        ]
+      },
+      "medio": {
+        "palabra": "BELLOTA",
+        "pista": "Fruto de la encina",
+        "filas": [
+          { "definicion": "Lugar poblado de árboles", "pista": "Caperucita lo cruzó", "respuesta": "BOSQUE" },
+          { "definicion": "Arma defensiva que se lleva en el brazo", "pista": "También, emblema de un club", "respuesta": "ESCUDO" },
+          { "definicion": "Bebida blanca que da la vaca", "pista": "Con galletas en el desayuno", "respuesta": "LECHE" },
+          { "definicion": "Animal que aúlla a la luna", "pista": "El de Caperucita", "respuesta": "LOBO" },
+          { "definicion": "Borde del río o del mar", "pista": "Donde rompen las olas", "respuesta": "ORILLA" },
+          { "definicion": "Cereal con el que se hace el pan", "pista": "Espiga dorada", "respuesta": "TRIGO" },
+          { "definicion": "Roedor de cola peluda que vive en los árboles", "pista": "Guarda frutos para el invierno", "respuesta": "ARDILLA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "VENDIMIA",
+        "pista": "Recogida de la uva",
+        "filas": [
+          { "definicion": "Terreno plantado de vides", "pista": "Donde crecen las uvas", "respuesta": "VIÑEDO" },
+          { "definicion": "Daño grave causado por algo", "pista": "Hacer ___: causar destrozos", "respuesta": "ESTRAGO" },
+          { "definicion": "Superviviente de un barco hundido", "pista": "Llega a una isla desierta tras el hundimiento", "respuesta": "NÁUFRAGO" },
+          { "definicion": "Lugar de la casa donde se guardan los alimentos", "pista": "Armario de las provisiones", "respuesta": "DESPENSA" },
+          { "definicion": "Que no se deja domar", "pista": "Rebelde, salvaje", "respuesta": "INDÓMITO" },
+          { "definicion": "Zumo de uva sin fermentar", "pista": "Vino sin alcohol", "respuesta": "MOSTO" },
+          { "definicion": "Recinto cerrado para cultivar plantas protegidas del frío", "pista": "De cristal o de plástico", "respuesta": "INVERNADERO" },
+          { "definicion": "Depósito de agua para riego", "pista": "Estanque artificial", "respuesta": "ALBERCA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-10-30",
+    "niveles": {
+      "facil": {
+        "palabra": "SUSTO",
+        "pista": "Lo que te dan si te gritan «¡Bu!»",
+        "filas": [
+          { "definicion": "Anfibio que se convierte en príncipe en los cuentos", "pista": "Pariente de la rana", "respuesta": "SAPO" },
+          { "definicion": "El primer número", "pista": "Juego de cartas de colores", "respuesta": "UNO" },
+          { "definicion": "Plato caliente que se toma con cuchara", "pista": "Caldo con fideos", "respuesta": "SOPA" },
+          { "definicion": "Felino de rayas", "pista": "Shere Khan en El libro de la selva", "respuesta": "TIGRE" },
+          { "definicion": "Metal precioso amarillo", "pista": "Medalla del primer puesto", "respuesta": "ORO" }
+        ]
+      },
+      "medio": {
+        "palabra": "CRIPTA",
+        "pista": "Lugar subterráneo de una iglesia",
+        "filas": [
+          { "definicion": "Serie de eslabones unidos", "pista": "Sujeta el ancla o la bici", "respuesta": "CADENA" },
+          { "definicion": "Monarca", "pista": "Pieza principal del ajedrez", "respuesta": "REY" },
+          { "definicion": "Figura o representación de algo", "pista": "Vale más que mil palabras", "respuesta": "IMAGEN" },
+          { "definicion": "Se abre para entrar en casa", "pista": "Tiene pomo y cerradura", "respuesta": "PUERTA" },
+          { "definicion": "Red que teje la araña", "pista": "Se acumula en los rincones", "respuesta": "TELARAÑA" },
+          { "definicion": "Camino más corto", "pista": "Lo toma quien tiene prisa", "respuesta": "ATAJO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ESPECTRO",
+        "pista": "Fantasma, aparición",
+        "filas": [
+          { "definicion": "Temblor repentino de frío o de miedo", "pista": "Recorre la espalda", "respuesta": "ESCALOFRÍO" },
+          { "definicion": "Parte de la casa bajo tierra", "pista": "Debajo de la planta baja", "respuesta": "SÓTANO" },
+          { "definicion": "Sombra débil entre la luz y la oscuridad", "pista": "Media luz", "respuesta": "PENUMBRA" },
+          { "definicion": "Que pone los pelos de punta", "pista": "Terrorífico", "respuesta": "ESPELUZNANTE" },
+          { "definicion": "Cueva profunda", "pista": "La del mito de Platón", "respuesta": "CAVERNA" },
+          { "definicion": "Triste, sombrío y lúgubre", "pista": "Ambiente de cementerio", "respuesta": "TÉTRICO" },
+          { "definicion": "Hacer un ruido agudo al rozar", "pista": "Lo hacen los dientes o una puerta vieja", "respuesta": "RECHINAR" },
+          { "definicion": "De mal agüero", "pista": "Que anuncia una desgracia", "respuesta": "OMINOSO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-10-31",
+    "niveles": {
+      "facil": {
+        "palabra": "BRUJA",
+        "pista": "Vuela en escoba",
+        "filas": [
+          { "definicion": "Por ella comemos", "pista": "Tiene dientes y lengua", "respuesta": "BOCA" },
+          { "definicion": "Lo que provoca un chiste", "pista": "Ja, ja, ja", "respuesta": "RISA" },
+          { "definicion": "Caja donde se echan los votos", "pista": "Se usa en las elecciones", "respuesta": "URNA" },
+          { "definicion": "Casa de un pájaro, con barrotes", "pista": "Encierra al canario", "respuesta": "JAULA" },
+          { "definicion": "Espíritu de una persona", "pista": "Ánima", "respuesta": "ALMA" }
+        ]
+      },
+      "medio": {
+        "palabra": "VAMPIRO",
+        "pista": "Le asusta el ajo",
+        "filas": [
+          { "definicion": "Sustancia que mata o enferma", "pista": "La manzana de Blancanieves lo llevaba", "respuesta": "VENENO" },
+          { "definicion": "Grito largo del lobo", "pista": "Se oye en luna llena", "respuesta": "AULLIDO" },
+          { "definicion": "Mamífero que vuela de noche", "pista": "Duerme boca abajo", "respuesta": "MURCIÉLAGO" },
+          { "definicion": "Sin color en la cara", "pista": "Como quien ha visto un fantasma", "respuesta": "PÁLIDO" },
+          { "definicion": "Templo cristiano", "pista": "Tiene campanario", "respuesta": "IGLESIA" },
+          { "definicion": "Chispa de luz de la tormenta", "pista": "Cae del cielo", "respuesta": "RAYO" },
+          { "definicion": "Falta de luz", "pista": "Lo que hay al apagar la lámpara", "respuesta": "OSCURIDAD" }
+        ]
+      },
+      "dificil": {
+        "palabra": "CALABAZA",
+        "pista": "Se vacía y se le tallan ojos",
+        "filas": [
+          { "definicion": "Cráneo sin carne", "pista": "Símbolo de los piratas", "respuesta": "CALAVERA" },
+          { "definicion": "Reunión nocturna de brujas", "pista": "Junta de brujería", "respuesta": "AQUELARRE" },
+          { "definicion": "Triste, fúnebre", "pista": "Sombrío", "respuesta": "LÚGUBRE" },
+          { "definicion": "Grito fuerte de dolor o de miedo", "pista": "Chillido", "respuesta": "ALARIDO" },
+          { "definicion": "Bebida de aspecto desagradable", "pista": "Lo prepara una bruja en su caldero", "respuesta": "BREBAJE" },
+          { "definicion": "Objeto que protege de males", "pista": "Talismán", "respuesta": "AMULETO" },
+          { "definicion": "Inquietud, angustia", "pista": "También, el hundimiento de un barco", "respuesta": "ZOZOBRA" },
+          { "definicion": "Espera vigilante para atacar", "pista": "Al ___: observando a escondidas", "respuesta": "ACECHO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-01",
+    "niveles": {
+      "facil": {
+        "palabra": "SANTO",
+        "pista": "Se celebra el día de Todos los ___",
+        "filas": [
+          { "definicion": "Lo toca el árbitro", "pista": "Pita", "respuesta": "SILBATO" },
+          { "definicion": "Color del cielo", "pista": "Del mar también", "respuesta": "AZUL" },
+          { "definicion": "Pareja de la novia", "pista": "Se casa en la boda", "respuesta": "NOVIO" },
+          { "definicion": "Instrumento que se golpea", "pista": "Se toca con palillos", "respuesta": "TAMBOR" },
+          { "definicion": "Cetáceo blanco y negro", "pista": "La llaman ballena asesina", "respuesta": "ORCA" }
+        ]
+      },
+      "medio": {
+        "palabra": "CASTAÑA",
+        "pista": "Se asa en otoño",
+        "filas": [
+          { "definicion": "Fruta roja pequeña con hueso", "pista": "Suele ir de dos en dos", "respuesta": "CEREZA" },
+          { "definicion": "Mes de las lluvias mil", "pista": "Cuarto mes del año", "respuesta": "ABRIL" },
+          { "definicion": "Prenda para la cabeza", "pista": "Tiene ala", "respuesta": "SOMBRERO" },
+          { "definicion": "Rampa para deslizarse", "pista": "Está en el parque infantil", "respuesta": "TOBOGÁN" },
+          { "definicion": "Flor roja del campo", "pista": "Crece entre el trigo", "respuesta": "AMAPOLA" },
+          { "definicion": "Bolita de pasta de patata", "pista": "Pasta italiana", "respuesta": "ÑOQUI" },
+          { "definicion": "Legumbre, también llamada judía", "pista": "La de la fabada", "respuesta": "ALUBIA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "BUÑUELOS",
+        "pista": "De viento, típicos de este día",
+        "filas": [
+          { "definicion": "Antiguo farmacéutico", "pista": "Preparaba remedios en su botica", "respuesta": "BOTICARIO" },
+          { "definicion": "Plan ideal pero irrealizable", "pista": "Sueño imposible", "respuesta": "UTOPÍA" },
+          { "definicion": "Pimiento seco y redondo", "pista": "Típico de Murcia, para el arroz", "respuesta": "ÑORA" },
+          { "definicion": "Pomada que se unta", "pista": "Remedio que se aplica en la piel", "respuesta": "UNGÜENTO" },
+          { "definicion": "Inscripción sobre una tumba", "pista": "Texto de una lápida", "respuesta": "EPITAFIO" },
+          { "definicion": "Losa con inscripción que cubre una tumba", "pista": "Piedra del nicho", "respuesta": "LÁPIDA" },
+          { "definicion": "Lo que se da en señal de respeto o devoción", "pista": "Se deja en el altar", "respuesta": "OFRENDA" },
+          { "definicion": "Entierro", "pista": "Inhumación", "respuesta": "SEPELIO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-02",
+    "niveles": {
+      "facil": {
+        "palabra": "VERSO",
+        "pista": "Línea de un poema",
+        "filas": [
+          { "definicion": "Recipiente para beber", "pista": "De agua o de leche", "respuesta": "VASO" },
+          { "definicion": "Primer mes del año", "pista": "Empieza tras las uvas", "respuesta": "ENERO" },
+          { "definicion": "Esposa del rey", "pista": "En el ajedrez también se llama dama", "respuesta": "REINA" },
+          { "definicion": "Sazona la comida", "pista": "Blanca, en el salero", "respuesta": "SAL" },
+          { "definicion": "Sentido para oír", "pista": "Está dentro de la oreja", "respuesta": "OÍDO" }
+        ]
+      },
+      "medio": {
+        "palabra": "TENORIO",
+        "pista": "Don Juan",
+        "filas": [
+          { "definicion": "Sirven para cortar papel", "pista": "Dos hojas unidas por un tornillo", "respuesta": "TIJERAS" },
+          { "definicion": "Arma de hoja larga", "pista": "La de los mosqueteros", "respuesta": "ESPADA" },
+          { "definicion": "Fruto seco de cáscara dura", "pista": "Por dentro parece un cerebro", "respuesta": "NUEZ" },
+          { "definicion": "Exceso de estima propia", "pista": "Sentimiento del vanidoso", "respuesta": "ORGULLO" },
+          { "definicion": "Desafío", "pista": "Se lanza a otro: «te ___»", "respuesta": "RETO" },
+          { "definicion": "Doña ___, la amada de don Juan", "pista": "Nombre de mujer", "respuesta": "INÉS" },
+          { "definicion": "Atrevimiento", "pista": "Valentía con descaro", "respuesta": "OSADÍA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ZORRILLA",
+        "pista": "Autor del Tenorio",
+        "filas": [
+          { "definicion": "Persona que arregla zapatos", "pista": "Oficio del calzado", "respuesta": "ZAPATERO" },
+          { "definicion": "Terco", "pista": "Que no da su brazo a torcer", "respuesta": "OBSTINADO" },
+          { "definicion": "Competencia entre dos que aspiran a lo mismo", "pista": "Enemistad entre rivales", "respuesta": "RIVALIDAD" },
+          { "definicion": "Pesar por algo mal hecho", "pista": "Inquietud de la conciencia", "respuesta": "REMORDIMIENTO" },
+          { "definicion": "Que persiste en una costumbre sin arrepentirse", "pista": "Incorregible", "respuesta": "IMPENITENTE" },
+          { "definicion": "Que lleva una vida licenciosa", "pista": "Calavera, mujeriego", "respuesta": "LIBERTINO" },
+          { "definicion": "Episodio, suceso; también, un duelo", "pista": "___ de honor", "respuesta": "LANCE" },
+          { "definicion": "Aventura, peripecia", "pista": "Correría", "respuesta": "ANDANZA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-03",
+    "niveles": {
+      "facil": {
+        "palabra": "QUESO",
+        "pista": "Se hace con leche cuajada",
+        "filas": [
+          { "definicion": "Puesto donde se venden periódicos", "pista": "Caseta en la calle", "respuesta": "QUIOSCO" },
+          { "definicion": "Ropa igual para todos los de un colegio", "pista": "Lo llevan los policías", "respuesta": "UNIFORME" },
+          { "definicion": "Lugar donde se aprende", "pista": "Colegio", "respuesta": "ESCUELA" },
+          { "definicion": "Asiento grande y cómodo", "pista": "Butaca del salón", "respuesta": "SILLÓN" },
+          { "definicion": "Lugar de trabajo con mesas y ordenadores", "pista": "Despacho", "respuesta": "OFICINA" }
+        ]
+      },
+      "medio": {
+        "palabra": "MOSTAZA",
+        "pista": "Salsa amarilla y picante",
+        "filas": [
+          { "definicion": "La hacen las abejas", "pista": "Dulce y dorada", "respuesta": "MIEL" },
+          { "definicion": "Flor exótica y elegante", "pista": "Planta de flores vistosas", "respuesta": "ORQUÍDEA" },
+          { "definicion": "Embutido del perrito caliente", "pista": "Larga y fina", "respuesta": "SALCHICHA" },
+          { "definicion": "Hierba aromática", "pista": "Se usa en la cocina mediterránea", "respuesta": "TOMILLO" },
+          { "definicion": "Fruto verde con un hueso grande", "pista": "Base del guacamole", "respuesta": "AGUACATE" },
+          { "definicion": "Hortaliza naranja", "pista": "Les encanta a los conejos", "respuesta": "ZANAHORIA" },
+          { "definicion": "Hierba aromática del pesto", "pista": "Planta de hojas verdes muy olorosa", "respuesta": "ALBAHACA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "TOSTADAS",
+        "pista": "Pan dorado del desayuno",
+        "filas": [
+          { "definicion": "Panadería", "pista": "Horno de pan", "respuesta": "TAHONA" },
+          { "definicion": "Hierba aromática de la pizza", "pista": "Condimento italiano", "respuesta": "ORÉGANO" },
+          { "definicion": "Semilla pequeña y oleaginosa", "pista": "¡Ábrete, ___!", "respuesta": "SÉSAMO" },
+          { "definicion": "Cedazo muy fino", "pista": "Pasar por el ___: examinar a fondo", "respuesta": "TAMIZ" },
+          { "definicion": "Azúcar disuelto en agua y espesado al fuego", "pista": "Melocotones en ___", "respuesta": "ALMÍBAR" },
+          { "definicion": "Primera comida del día", "pista": "Café con tostadas", "respuesta": "DESAYUNO" },
+          { "definicion": "Fruto del olivo", "pista": "Se aliña y se toma de aperitivo", "respuesta": "ACEITUNA" },
+          { "definicion": "Agua muy salada para conservar alimentos", "pista": "Para encurtir", "respuesta": "SALMUERA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-04",
+    "niveles": {
+      "facil": {
+        "palabra": "HORNO",
+        "pista": "Donde se cuece el pan",
+        "filas": [
+          { "definicion": "Personaje mágico con varita", "pista": "La madrina de Cenicienta", "respuesta": "HADA" },
+          { "definicion": "Punto cardinal por donde se pone el sol", "pista": "Lo contrario del este", "respuesta": "OESTE" },
+          { "definicion": "Sirve para trazar líneas rectas", "pista": "Mide en centímetros", "respuesta": "REGLA" },
+          { "definicion": "Persona de pocos años", "pista": "Lo contrario de adulto", "respuesta": "NIÑO" },
+          { "definicion": "Pieza de teatro", "pista": "___ de arte", "respuesta": "OBRA" }
+        ]
+      },
+      "medio": {
+        "palabra": "HOGAZA",
+        "pista": "Pan grande y redondo",
+        "filas": [
+          { "definicion": "Polvo de trigo molido", "pista": "Para hacer pan", "respuesta": "HARINA" },
+          { "definicion": "Árbol de hoja caduca", "pista": "No se le pueden pedir peras", "respuesta": "OLMO" },
+          { "definicion": "Dulce seco y crujiente", "pista": "Se moja en la leche", "respuesta": "GALLETA" },
+          { "definicion": "Trabajar la masa con las manos", "pista": "Lo hace el panadero", "respuesta": "AMASAR" },
+          { "definicion": "Arbusto con espinas", "pista": "Da moras", "respuesta": "ZARZA" },
+          { "definicion": "Fruto seco del turrón", "pista": "Con ella se hace el mazapán", "respuesta": "ALMENDRA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "LEVADURA",
+        "pista": "Hace subir la masa",
+        "filas": [
+          { "definicion": "Persona que corta árboles", "pista": "Lleva hacha", "respuesta": "LEÑADOR" },
+          { "definicion": "Parte del cereal donde están los granos", "pista": "La del trigo", "respuesta": "ESPIGA" },
+          { "definicion": "Lugar donde se tira la basura", "pista": "Basurero", "respuesta": "VERTEDERO" },
+          { "definicion": "Mortero de metal", "pista": "Para machacar ajos", "respuesta": "ALMIREZ" },
+          { "definicion": "De color de oro", "pista": "Así sale el pan bien cocido", "respuesta": "DORADO" },
+          { "definicion": "Sombrío, donde da poco el sol", "pista": "Lugar de sombra", "respuesta": "UMBRÍO" },
+          { "definicion": "Brasa que queda bajo la ceniza", "pista": "Lo que queda de una hoguera", "respuesta": "RESCOLDO" },
+          { "definicion": "Cajón para amasar el pan", "pista": "Recipiente del panadero", "respuesta": "ARTESA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-05",
+    "niveles": {
+      "facil": {
+        "palabra": "MUSGO",
+        "pista": "Planta verde y suave que cubre las piedras",
+        "filas": [
+          { "definicion": "Mueble donde se come", "pista": "Tiene cuatro patas", "respuesta": "MESA" },
+          { "definicion": "Todo lo que existe", "pista": "Cosmos", "respuesta": "UNIVERSO" },
+          { "definicion": "Reptil sin patas", "pista": "Se arrastra", "respuesta": "SERPIENTE" },
+          { "definicion": "Se infla con aire", "pista": "Si tiene helio, flota", "respuesta": "GLOBO" },
+          { "definicion": "Molusco que puede tener una perla", "pista": "Concha", "respuesta": "OSTRA" }
+        ]
+      },
+      "medio": {
+        "palabra": "HELECHO",
+        "pista": "Planta sin flores de hojas muy divididas",
+        "filas": [
+          { "definicion": "Red colgada para descansar", "pista": "Se tiende entre dos árboles", "respuesta": "HAMACA" },
+          { "definicion": "Árbol que da bellotas", "pista": "Árbol del monte mediterráneo", "respuesta": "ENCINA" },
+          { "definicion": "Reptil pequeño que toma el sol", "pista": "Si pierde la cola, le vuelve a crecer", "respuesta": "LAGARTIJA" },
+          { "definicion": "Insecto de caparazón duro", "pista": "Pelotero", "respuesta": "ESCARABAJO" },
+          { "definicion": "Animal con cornamenta", "pista": "Venado", "respuesta": "CIERVO" },
+          { "definicion": "Organismo como la seta", "pista": "¡Qué ___!", "respuesta": "HONGO" },
+          { "definicion": "Planta que pica al tocarla", "pista": "Urticante", "respuesta": "ORTIGA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ARBOLEDA",
+        "pista": "Conjunto de árboles",
+        "filas": [
+          { "definicion": "Arbusto de hojas con pinchos y bolitas rojas", "pista": "Adorno navideño", "respuesta": "ACEBO" },
+          { "definicion": "Parte de la planta bajo tierra", "pista": "Absorbe el agua", "respuesta": "RAÍZ" },
+          { "definicion": "Hebra muy fina", "pista": "___ de hierba", "respuesta": "BRIZNA" },
+          { "definicion": "Propio del otoño", "pista": "Así es un paisaje de hojas caídas", "respuesta": "OTOÑAL" },
+          { "definicion": "Organismo que crece en rocas y troncos", "pista": "Asociación de hongo y alga", "respuesta": "LIQUEN" },
+          { "definicion": "Lugar muy poblado de árboles y matorrales", "pista": "Frondosidad", "respuesta": "ESPESURA" },
+          { "definicion": "Tierra con encinas destinada a pastos", "pista": "Paisaje del cerdo ibérico", "respuesta": "DEHESA" },
+          { "definicion": "Paseo con álamos", "pista": "Arboleda de álamos", "respuesta": "ALAMEDA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-06",
+    "niveles": {
+      "facil": {
+        "palabra": "REDES",
+        "pista": "Con ellas se pesca",
+        "filas": [
+          { "definicion": "Lo que nos ponemos para vestir", "pista": "Pantalón, camisa...", "respuesta": "ROPA" },
+          { "definicion": "Aparato que da calor", "pista": "Calefacción", "respuesta": "ESTUFA" },
+          { "definicion": "Lo usamos para morder", "pista": "Se lava con cepillo", "respuesta": "DIENTE" },
+          { "definicion": "Construcción con varios pisos", "pista": "Bloque de viviendas", "respuesta": "EDIFICIO" },
+          { "definicion": "Siete días", "pista": "De lunes a domingo", "respuesta": "SEMANA" }
+        ]
+      },
+      "medio": {
+        "palabra": "SARDINA",
+        "pista": "Pez pequeño que se come asado",
+        "filas": [
+          { "definicion": "Mitad mujer, mitad pez", "pista": "Ariel es una", "respuesta": "SIRENA" },
+          { "definicion": "Gancho para pescar", "pista": "Picar el ___", "respuesta": "ANZUELO" },
+          { "definicion": "Piedra grande", "pista": "Abunda en la costa", "respuesta": "ROCA" },
+          { "definicion": "Montaña de arena", "pista": "En el desierto", "respuesta": "DUNA" },
+          { "definicion": "Dedo que señala", "pista": "Lista al principio del libro", "respuesta": "ÍNDICE" },
+          { "definicion": "Relativo a la navegación", "pista": "Club ___", "respuesta": "NÁUTICO" },
+          { "definicion": "Planta marina", "pista": "Verde, en la playa", "respuesta": "ALGA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "PESQUERO",
+        "pista": "Barco de pesca",
+        "filas": [
+          { "definicion": "Animal marino de ocho brazos", "pista": "A la gallega", "respuesta": "PULPO" },
+          { "definicion": "Roca peligrosa bajo el agua", "pista": "Obstáculo", "respuesta": "ESCOLLO" },
+          { "definicion": "Sal que deja el mar", "pista": "Olor del puerto", "respuesta": "SALITRE" },
+          { "definicion": "Pieza del fondo del barco", "pista": "Columna vertebral del casco", "respuesta": "QUILLA" },
+          { "definicion": "Lugar al otro lado del mar", "pista": "Productos de ___", "respuesta": "ULTRAMAR" },
+          { "definicion": "Longitud de un barco", "pista": "De proa a popa", "respuesta": "ESLORA" },
+          { "definicion": "Arrastre de un vehículo por otro", "pista": "Lo hace la grúa", "respuesta": "REMOLQUE" },
+          { "definicion": "Sucesión de olas", "pista": "Mar movida", "respuesta": "OLEAJE" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-07",
+    "niveles": {
+      "facil": {
+        "palabra": "ÁTOMO",
+        "pista": "La parte más pequeña de la materia",
+        "filas": [
+          { "definicion": "Sirve para coser", "pista": "Tiene ojo", "respuesta": "AGUJA" },
+          { "definicion": "Se escribe con ella en la pizarra", "pista": "Blanca", "respuesta": "TIZA" },
+          { "definicion": "Movimiento que se propaga", "pista": "Se forma al tirar una piedra al agua", "respuesta": "ONDA" },
+          { "definicion": "Vehículo de dos ruedas con motor", "pista": "Hay que llevar casco", "respuesta": "MOTO" },
+          { "definicion": "Figura con forma de huevo", "pista": "Curva cerrada y alargada", "respuesta": "ÓVALO" }
+        ]
+      },
+      "medio": {
+        "palabra": "QUÍMICA",
+        "pista": "Ciencia de la materia",
+        "filas": [
+          { "definicion": "Sala de operaciones", "pista": "Donde opera el cirujano", "respuesta": "QUIRÓFANO" },
+          { "definicion": "Elemento radiactivo", "pista": "Combustible nuclear", "respuesta": "URANIO" },
+          { "definicion": "Algo nuevo creado", "pista": "Lo patenta su autor", "respuesta": "INVENTO" },
+          { "definicion": "Aparato para ver lo diminuto", "pista": "En el laboratorio", "respuesta": "MICROSCOPIO" },
+          { "definicion": "Profesional que diseña máquinas o puentes", "pista": "Estudió ingeniería", "respuesta": "INGENIERO" },
+          { "definicion": "Vidrio transparente", "pista": "El de la ventana", "respuesta": "CRISTAL" },
+          { "definicion": "Sustancia de sabor agrio", "pista": "El limón lo es", "respuesta": "ÁCIDO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ELEMENTO",
+        "pista": "Cada casilla de la tabla periódica",
+        "filas": [
+          { "definicion": "Prueba para comprobar algo", "pista": "Se hace en el laboratorio", "respuesta": "EXPERIMENTO" },
+          { "definicion": "Lugar de investigación científica", "pista": "Con probetas", "respuesta": "LABORATORIO" },
+          { "definicion": "Partícula de carga negativa", "pista": "Gira en torno al núcleo", "respuesta": "ELECTRÓN" },
+          { "definicion": "Recipiente de vidrio de cuello largo", "pista": "Se usa en química", "respuesta": "MATRAZ" },
+          { "definicion": "Prueba, experimento", "pista": "También, un género literario", "respuesta": "ENSAYO" },
+          { "definicion": "Partícula sin carga del núcleo", "pista": "Ni positiva ni negativa", "respuesta": "NEUTRÓN" },
+          { "definicion": "Mide la temperatura", "pista": "Se pone bajo el brazo", "respuesta": "TERMÓMETRO" },
+          { "definicion": "Gas que respiramos", "pista": "Su símbolo es O", "respuesta": "OXÍGENO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-08",
+    "niveles": {
+      "facil": {
+        "palabra": "CALLE",
+        "pista": "Por ella pasan coches y peatones",
+        "filas": [
+          { "definicion": "Vehículo grande de carga", "pista": "Tráiler", "respuesta": "CAMIÓN" },
+          { "definicion": "Parte de la calle para peatones", "pista": "Junto al bordillo", "respuesta": "ACERA" },
+          { "definicion": "Cuaderno pequeño", "pista": "Para apuntar cosas", "respuesta": "LIBRETA" },
+          { "definicion": "Pájaro que habla", "pista": "Verde y parlanchín", "respuesta": "LORO" },
+          { "definicion": "Donde se juntan dos calles", "pista": "Ángulo", "respuesta": "ESQUINA" }
+        ]
+      },
+      "medio": {
+        "palabra": "BARRIO",
+        "pista": "Zona de una ciudad",
+        "filas": [
+          { "definicion": "Donde se echan las cartas", "pista": "Amarillo en España", "respuesta": "BUZÓN" },
+          { "definicion": "Transporte público grande", "pista": "Para en las paradas", "respuesta": "AUTOBÚS" },
+          { "definicion": "Descanso entre clases", "pista": "En el patio", "respuesta": "RECREO" },
+          { "definicion": "Edificio altísimo", "pista": "Abundan en Nueva York", "respuesta": "RASCACIELOS" },
+          { "definicion": "Centro de enseñanza secundaria", "pista": "Después del colegio", "respuesta": "INSTITUTO" },
+          { "definicion": "Médico de los ojos", "pista": "Oftalmólogo", "respuesta": "OCULISTA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ALCALDÍA",
+        "pista": "Ayuntamiento",
+        "filas": [
+          { "definicion": "Calle ancha", "pista": "Bulevar", "respuesta": "AVENIDA" },
+          { "definicion": "Edificio donde se comercia", "pista": "La del pescado", "respuesta": "LONJA" },
+          { "definicion": "Miembro del ayuntamiento", "pista": "Edil", "respuesta": "CONCEJAL" },
+          { "definicion": "Barrio a las afueras", "pista": "Suburbio", "respuesta": "ARRABAL" },
+          { "definicion": "Pendiente de una montaña", "pista": "Falda del monte", "respuesta": "LADERA" },
+          { "definicion": "Casa donde vive alguien", "pista": "Dirección", "respuesta": "DOMICILIO" },
+          { "definicion": "Tributo que se paga", "pista": "Lo recauda Hacienda", "respuesta": "IMPUESTO" },
+          { "definicion": "Conducto subterráneo de aguas", "pista": "Por ahí se va el agua de lluvia", "respuesta": "ALCANTARILLA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-09",
+    "niveles": {
+      "facil": {
+        "palabra": "VALLA",
+        "pista": "Cerca que separa terrenos",
+        "filas": [
+          { "definicion": "Aire en movimiento", "pista": "Mueve los molinos", "respuesta": "VIENTO" },
+          { "definicion": "Ave enorme que no vuela", "pista": "Dicen que esconde la cabeza", "respuesta": "AVESTRUZ" },
+          { "definicion": "Agua rodeada de tierra", "pista": "Hay patos", "respuesta": "LAGO" },
+          { "definicion": "Abre la puerta", "pista": "Va en el llavero", "respuesta": "LLAVE" },
+          { "definicion": "Tejido que cubre el suelo", "pista": "Persa o mágica", "respuesta": "ALFOMBRA" }
+        ]
+      },
+      "medio": {
+        "palabra": "BERLÍN",
+        "pista": "Capital de Alemania",
+        "filas": [
+          { "definicion": "Dos ruedas y pedales", "pista": "Bici", "respuesta": "BICICLETA" },
+          { "definicion": "Gobernante de un imperio", "pista": "Napoleón lo fue", "respuesta": "EMPERADOR" },
+          { "definicion": "Destello de la tormenta", "pista": "Antes del trueno", "respuesta": "RELÁMPAGO" },
+          { "definicion": "Facultad de obrar como uno quiere", "pista": "Tiene estatua en Nueva York", "respuesta": "LIBERTAD" },
+          { "definicion": "Lengua de un pueblo", "pista": "Español, alemán...", "respuesta": "IDIOMA" },
+          { "definicion": "Información sobre algo reciente", "pista": "Sale en el periódico", "respuesta": "NOTICIA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "FRONTERA",
+        "pista": "Línea que separa dos países",
+        "filas": [
+          { "definicion": "Que huye", "pista": "Escapado", "respuesta": "FUGITIVO" },
+          { "definicion": "Acción de volver a unir lo separado", "pista": "La de Alemania en 1990", "respuesta": "REUNIFICACIÓN" },
+          { "definicion": "Oeste", "pista": "Donde se pone el sol", "respuesta": "OCCIDENTE" },
+          { "definicion": "Mes en que cayó el Muro", "pista": "Penúltimo mes del año", "respuesta": "NOVIEMBRE" },
+          { "definicion": "Cortina del teatro", "pista": "___ de acero", "respuesta": "TELÓN" },
+          { "definicion": "Resto de un derribo", "pista": "Cascote", "respuesta": "ESCOMBRO" },
+          { "definicion": "Persona que huye a otro país", "pista": "Busca asilo", "respuesta": "REFUGIADO" },
+          { "definicion": "Control de mercancías en la frontera", "pista": "Donde se declara lo que se trae", "respuesta": "ADUANA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-10",
+    "niveles": {
+      "facil": {
+        "palabra": "GOTAS",
+        "pista": "Así cae la lluvia, de una en una",
+        "filas": [
+          { "definicion": "Animal blando que se arrastra", "pista": "Vive dentro de la manzana", "respuesta": "GUSANO" },
+          { "definicion": "Lo que se percibe con la nariz", "pista": "El perfume tiene uno muy agradable", "respuesta": "OLOR" },
+          { "definicion": "Parte de arriba de una habitación", "pista": "De ahí cuelga la lámpara", "respuesta": "TECHO" },
+          { "definicion": "Abertura redonda", "pista": "El queso gruyer está lleno de ellos", "respuesta": "AGUJERO" },
+          { "definicion": "Asiento largo y mullido del salón", "pista": "Para ver la tele", "respuesta": "SOFÁ" }
+        ]
+      },
+      "medio": {
+        "palabra": "TRUENO",
+        "pista": "Ruido de la tormenta",
+        "filas": [
+          { "definicion": "Edificio alto y estrecho", "pista": "También es una pieza del ajedrez", "respuesta": "TORRE" },
+          { "definicion": "Gotitas de agua sobre las plantas al amanecer", "pista": "Humedad de la mañana", "respuesta": "ROCÍO" },
+          { "definicion": "El que va al final", "pista": "Lo contrario de primero", "respuesta": "ÚLTIMO" },
+          { "definicion": "Charca artificial de un jardín", "pista": "Con patos y peces", "respuesta": "ESTANQUE" },
+          { "definicion": "Nube a ras de suelo", "pista": "No deja ver la carretera", "respuesta": "NIEBLA" },
+          { "definicion": "Obra de teatro cantada", "pista": "La Traviata es una", "respuesta": "ÓPERA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "PARAGUAS",
+        "pista": "Se abre cuando llueve",
+        "filas": [
+          { "definicion": "Lluvia, nieve o granizo que cae", "pista": "Agua caída del cielo", "respuesta": "PRECIPITACIÓN" },
+          { "definicion": "Laguna junto al mar", "pista": "La de Valencia", "respuesta": "ALBUFERA" },
+          { "definicion": "Río pequeño", "pista": "Arroyo", "respuesta": "RIACHUELO" },
+          { "definicion": "Cubierto de agua", "pista": "Inundado", "respuesta": "ANEGADO" },
+          { "definicion": "Bolitas de hielo que caen del cielo", "pista": "Pedrisco", "respuesta": "GRANIZO" },
+          { "definicion": "Que tiene el apoyo de todos", "pista": "Sin ningún voto en contra", "respuesta": "UNÁNIME" },
+          { "definicion": "Perder fuerza el viento o la lluvia", "pista": "Calmarse la tormenta", "respuesta": "AMAINAR" },
+          { "definicion": "Larga temporada sin lluvia", "pista": "Los embalses se vacían", "respuesta": "SEQUÍA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-11",
+    "niveles": {
+      "facil": {
+        "palabra": "CERDO",
+        "pista": "A cada uno le llega su San Martín",
+        "filas": [
+          { "definicion": "Recipiente con asa para el agua", "pista": "Va con la fregona", "respuesta": "CUBO" },
+          { "definicion": "Agente secreto", "pista": "James Bond lo es", "respuesta": "ESPÍA" },
+          { "definicion": "Barrotes de una ventana", "pista": "Hierro de la ventana", "respuesta": "REJA" },
+          { "definicion": "Agua que cae para lavarse", "pista": "Está en el baño", "respuesta": "DUCHA" },
+          { "definicion": "Sacerdote que lleva mitra", "pista": "Pastor de una diócesis", "respuesta": "OBISPO" }
+        ]
+      },
+      "medio": {
+        "palabra": "CHORIZO",
+        "pista": "Embutido rojo con pimentón",
+        "filas": [
+          { "definicion": "Cubierto para cortar", "pista": "Tiene filo", "respuesta": "CUCHILLO" },
+          { "definicion": "Fuego hecho al aire libre", "pista": "La de San Juan", "respuesta": "HOGUERA" },
+          { "definicion": "Parte del cuerpo con una función", "pista": "El corazón es uno", "respuesta": "ÓRGANO" },
+          { "definicion": "Cola de un animal", "pista": "El del toro se guisa", "respuesta": "RABO" },
+          { "definicion": "Lugar de castigo eterno", "pista": "Lo contrario del cielo", "respuesta": "INFIERNO" },
+          { "definicion": "Calzado cómodo", "pista": "Para estar en casa o para correr", "respuesta": "ZAPATILLA" },
+          { "definicion": "Momento oportuno", "pista": "La ___ la pintan calva", "respuesta": "OCASIÓN" }
+        ]
+      },
+      "dificil": {
+        "palabra": "EMBUTIDO",
+        "pista": "Chorizo o salchichón",
+        "filas": [
+          { "definicion": "Paleta plana para extender o raspar", "pista": "Utensilio de cocina o de pintor", "respuesta": "ESPÁTULA" },
+          { "definicion": "Sacrificio del cerdo para hacer embutidos", "pista": "Fiesta rural de invierno", "respuesta": "MATANZA" },
+          { "definicion": "Techo curvo", "pista": "La de una catedral", "respuesta": "BÓVEDA" },
+          { "definicion": "Quien presta dinero con intereses abusivos", "pista": "Prestamista codicioso", "respuesta": "USURERO" },
+          { "definicion": "Grasa del cerdo", "pista": "___ de cielo", "respuesta": "TOCINO" },
+          { "definicion": "Huella, marca", "pista": "Sello que deja algo", "respuesta": "IMPRONTA" },
+          { "definicion": "División de un animal en piezas", "pista": "Lo hace el carnicero", "respuesta": "DESPIECE" },
+          { "definicion": "Secar al aire", "pista": "Poner a ___ el jamón", "respuesta": "OREAR" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-12",
+    "niveles": {
+      "facil": {
+        "palabra": "LIBRO",
+        "pista": "Tiene páginas y portada",
+        "filas": [
+          { "definicion": "Lente para ver las cosas más grandes", "pista": "La usa Sherlock Holmes", "respuesta": "LUPA" },
+          { "definicion": "Aparato que imprime", "pista": "Conectada al ordenador", "respuesta": "IMPRESORA" },
+          { "definicion": "Parte del cuerpo entre el hombro y la mano", "pista": "Tiene codo", "respuesta": "BRAZO" },
+          { "definicion": "Articulación de la pierna", "pista": "Se apoya en el suelo al arrodillarse", "respuesta": "RODILLA" },
+          { "definicion": "Computadora", "pista": "Tiene teclado y pantalla", "respuesta": "ORDENADOR" }
+        ]
+      },
+      "medio": {
+        "palabra": "NOVELA",
+        "pista": "Libro que cuenta una historia larga",
+        "filas": [
+          { "definicion": "Quien cuenta la historia", "pista": "La voz del relato", "respuesta": "NARRADOR" },
+          { "definicion": "Reglas para escribir correctamente", "pista": "Escribir sin faltas", "respuesta": "ORTOGRAFÍA" },
+          { "definicion": "Cada libro de una colección", "pista": "Tomo", "respuesta": "VOLUMEN" },
+          { "definicion": "Empresa que publica libros", "pista": "Casa editora", "respuesta": "EDITORIAL" },
+          { "definicion": "Persona que lee", "pista": "Le gusta leer", "respuesta": "LECTOR" },
+          { "definicion": "Quien escribe una obra", "pista": "Firma el libro", "respuesta": "AUTOR" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ESCRITOR",
+        "pista": "Cervantes lo era",
+        "filas": [
+          { "definicion": "Parte final de una obra", "pista": "Lo contrario de prólogo", "respuesta": "EPÍLOGO" },
+          { "definicion": "Resumen breve de una obra", "pista": "Se lee en la contraportada", "respuesta": "SINOPSIS" },
+          { "definicion": "Cada parte en que se divide un libro", "pista": "___ uno", "respuesta": "CAPÍTULO" },
+          { "definicion": "Igualdad de sonidos al final de los versos", "pista": "Asonante o consonante", "respuesta": "RIMA" },
+          { "definicion": "Que no se ha publicado", "pista": "Manuscrito sin publicar", "respuesta": "INÉDITO" },
+          { "definicion": "Argumento de una historia", "pista": "El hilo de la novela", "respuesta": "TRAMA" },
+          { "definicion": "Obra breve, científica o literaria", "pista": "Folleto corto", "respuesta": "OPÚSCULO" },
+          { "definicion": "Narración breve", "pista": "Cuento", "respuesta": "RELATO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-13",
+    "niveles": {
+      "facil": {
+        "palabra": "AMIGO",
+        "pista": "Persona en quien confías",
+        "filas": [
+          { "definicion": "Ave rapaz de vista aguda", "pista": "Aparece en muchos escudos", "respuesta": "ÁGUILA" },
+          { "definicion": "Tiene cinco dedos", "pista": "Se da para saludar", "respuesta": "MANO" },
+          { "definicion": "Pensamiento que se te ocurre", "pista": "Bombilla que se enciende", "respuesta": "IDEA" },
+          { "definicion": "Persona enorme de los cuentos", "pista": "Lo contrario de enano", "respuesta": "GIGANTE" },
+          { "definicion": "Que ve el lado bueno de las cosas", "pista": "Ve el vaso medio lleno", "respuesta": "OPTIMISTA" }
+        ]
+      },
+      "medio": {
+        "palabra": "BONDAD",
+        "pista": "Cualidad de quien hace el bien",
+        "filas": [
+          { "definicion": "Muestra de cariño con los labios", "pista": "Se da en la mejilla", "respuesta": "BESO" },
+          { "definicion": "Regalo", "pista": "Detalle que se ofrece", "respuesta": "OBSEQUIO" },
+          { "definicion": "Cualidad de quien es honrado y generoso", "pista": "La tiene quien es de corazón noble", "respuesta": "NOBLEZA" },
+          { "definicion": "Lo que se da de forma gratuita", "pista": "Se hace de sangre", "respuesta": "DONACIÓN" },
+          { "definicion": "Cariño", "pista": "Lo que se siente por alguien querido", "respuesta": "AFECTO" },
+          { "definicion": "Suavidad y delicadeza en el trato", "pista": "Cualidad de lo dulce", "respuesta": "DULZURA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "GENEROSO",
+        "pista": "Que da sin esperar nada a cambio",
+        "filas": [
+          { "definicion": "Agradecimiento", "pista": "Lo que se siente al recibir un favor", "respuesta": "GRATITUD" },
+          { "definicion": "Capacidad de ponerse en el lugar del otro", "pista": "Sentir lo que siente el otro", "respuesta": "EMPATÍA" },
+          { "definicion": "Que anda o vive de noche", "pista": "Trasnochador", "respuesta": "NOCTÁMBULO" },
+          { "definicion": "Generoso, desprendido; también, magnífico", "pista": "Dadivoso", "respuesta": "ESPLÉNDIDO" },
+          { "definicion": "Consideración hacia alguien", "pista": "Trato debido", "respuesta": "RESPETO" },
+          { "definicion": "Pequeña cantidad con que se contribuye a algo", "pista": "Donativo pequeño", "respuesta": "ÓBOLO" },
+          { "definicion": "Apoyo a una causa o a otras personas", "pista": "Ayuda mutua", "respuesta": "SOLIDARIDAD" },
+          { "definicion": "Que no trabaja o no tiene ocupación", "pista": "Desocupado", "respuesta": "OCIOSO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-14",
+    "niveles": {
+      "facil": {
+        "palabra": "SALUD",
+        "pista": "Lo que se desea al estornudar",
+        "filas": [
+          { "definicion": "Calzado abierto de verano", "pista": "Se lleva en la playa", "respuesta": "SANDALIA" },
+          { "definicion": "Suceso emocionante", "pista": "Lo que viven los exploradores", "respuesta": "AVENTURA" },
+          { "definicion": "Pelo de la oveja", "pista": "Se teje", "respuesta": "LANA" },
+          { "definicion": "Teta de la vaca", "pista": "De ella se ordeña la leche", "respuesta": "UBRE" },
+          { "definicion": "Día de descanso", "pista": "Último día de la semana", "respuesta": "DOMINGO" }
+        ]
+      },
+      "medio": {
+        "palabra": "MÉDICO",
+        "pista": "Te receta medicinas",
+        "filas": [
+          { "definicion": "Insecto de alas de colores", "pista": "Antes fue oruga", "respuesta": "MARIPOSA" },
+          { "definicion": "Órgano donde se digiere la comida", "pista": "Duele si comes demasiado", "respuesta": "ESTÓMAGO" },
+          { "definicion": "Sensación de que algo duele", "pista": "Lo calma un analgésico", "respuesta": "DOLOR" },
+          { "definicion": "Pinchazo con medicina", "pista": "Se pone con jeringuilla", "respuesta": "INYECCIÓN" },
+          { "definicion": "Cama portátil para enfermos", "pista": "La llevan los camilleros", "respuesta": "CAMILLA" },
+          { "definicion": "Intervención quirúrgica", "pista": "La hace el cirujano", "respuesta": "OPERACIÓN" }
+        ]
+      },
+      "dificil": {
+        "palabra": "INSULINA",
+        "pista": "Hormona que regula el azúcar en la sangre",
+        "filas": [
+          { "definicion": "Falta de sueño", "pista": "No poder dormir", "respuesta": "INSOMNIO" },
+          { "definicion": "Alimentación del organismo", "pista": "Ciencia de la dieta", "respuesta": "NUTRICIÓN" },
+          { "definicion": "Señal de una enfermedad", "pista": "La fiebre o la tos", "respuesta": "SÍNTOMA" },
+          { "definicion": "Servicio del hospital para lo inmediato", "pista": "Allí llega la ambulancia", "respuesta": "URGENCIAS" },
+          { "definicion": "Golpe del corazón", "pista": "Pulsación", "respuesta": "LATIDO" },
+          { "definicion": "Que no puede contraer una enfermedad", "pista": "Protegido por la vacuna", "respuesta": "INMUNE" },
+          { "definicion": "Infección del pulmón", "pista": "Pulmonía", "respuesta": "NEUMONÍA" },
+          { "definicion": "Reacción del cuerpo ante el polen, el polvo…", "pista": "Produce estornudos", "respuesta": "ALERGIA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-15",
+    "niveles": {
+      "facil": {
+        "palabra": "GATOS",
+        "pista": "Maúllan",
+        "filas": [
+          { "definicion": "Ave de corral que pone huevos", "pista": "Cacarea", "respuesta": "GALLINA" },
+          { "definicion": "Instrumento con fuelle", "pista": "Se estira y se encoge", "respuesta": "ACORDEÓN" },
+          { "definicion": "Aparato para llamar", "pista": "Suena el ___", "respuesta": "TELÉFONO" },
+          { "definicion": "Instrumento de viento de madera", "pista": "Suena parecido al clarinete", "respuesta": "OBOE" },
+          { "definicion": "Lo que se tiene antes de dormir", "pista": "Da bostezos", "respuesta": "SUEÑO" }
+        ]
+      },
+      "medio": {
+        "palabra": "HÁMSTER",
+        "pista": "Roedor pequeño que corre en una rueda",
+        "filas": [
+          { "definicion": "Animal enorme de río", "pista": "Abre mucho la boca", "respuesta": "HIPOPÓTAMO" },
+          { "definicion": "Insecto grande y peludo que zumba", "pista": "Pariente gordito de la abeja", "respuesta": "ABEJORRO" },
+          { "definicion": "Sonido del gato", "pista": "Miau", "respuesta": "MAULLIDO" },
+          { "definicion": "Sonido que se hace soplando con los labios", "pista": "Fiu, fiu", "respuesta": "SILBIDO" },
+          { "definicion": "Animal que vive bajo tierra", "pista": "Ve muy poco", "respuesta": "TOPO" },
+          { "definicion": "Lámina que cubre a los peces", "pista": "También la tienen las serpientes", "respuesta": "ESCAMA" },
+          { "definicion": "Cría de la rana", "pista": "Tiene cola y vive en el agua", "respuesta": "RENACUAJO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "MASCOTAS",
+        "pista": "Animales de compañía",
+        "filas": [
+          { "definicion": "Cueva de algunos animales", "pista": "Donde vive el conejo", "respuesta": "MADRIGUERA" },
+          { "definicion": "Enseñar a un animal", "pista": "Amaestrar", "respuesta": "ADIESTRAR" },
+          { "definicion": "Perro de olfato fino", "pista": "También, un detective", "respuesta": "SABUESO" },
+          { "definicion": "Cría del perro", "pista": "Perrito recién nacido", "respuesta": "CACHORRO" },
+          { "definicion": "Cumplimiento de lo que se manda", "pista": "Escuela canina de ___", "respuesta": "OBEDIENCIA" },
+          { "definicion": "Correa para llevar atado al perro", "pista": "Correa", "respuesta": "TRAÍLLA" },
+          { "definicion": "Pecera grande", "pista": "Hay peces de colores", "respuesta": "ACUARIO" },
+          { "definicion": "Enfermedad de la piel que pica", "pista": "___ con gusto no pica", "respuesta": "SARNA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-16",
+    "niveles": {
+      "facil": {
+        "palabra": "CANTE",
+        "pista": "Flamenco o jondo",
+        "filas": [
+          { "definicion": "Órgano que late", "pista": "Símbolo del amor", "respuesta": "CORAZÓN" },
+          { "definicion": "Atiende a los pasajeros del avión", "pista": "Trabaja entre las nubes", "respuesta": "AZAFATA" },
+          { "definicion": "Persona que nada", "pista": "Compite en la piscina", "respuesta": "NADADOR" },
+          { "definicion": "Cubierta de la casa", "pista": "Tiene tejas", "respuesta": "TEJADO" },
+          { "definicion": "Conjunto de huesos", "pista": "Lo enseñan en clase de ciencias", "respuesta": "ESQUELETO" }
+        ]
+      },
+      "medio": {
+        "palabra": "TABLAO",
+        "pista": "Local de espectáculos flamencos",
+        "filas": [
+          { "definicion": "Parte alta del zapato", "pista": "Lo hace sonar la bailaora", "respuesta": "TACÓN" },
+          { "definicion": "Estado de ánimo contento", "pista": "En plural, también es un palo flamenco", "respuesta": "ALEGRÍA" },
+          { "definicion": "___ de cola, traje de flamenca", "pista": "Prenda para estar en casa", "respuesta": "BATA" },
+          { "definicion": "Acción de llorar", "pista": "Lamento del cante", "respuesta": "LLANTO" },
+          { "definicion": "Región donde nació el flamenco", "pista": "Sevilla, Cádiz, Granada…", "respuesta": "ANDALUCÍA" },
+          { "definicion": "Grito de ánimo del flamenco", "pista": "Se grita en la plaza de toros", "respuesta": "OLÉ" }
+        ]
+      },
+      "dificil": {
+        "palabra": "BAILAORA",
+        "pista": "Mujer que baila flamenco",
+        "filas": [
+          { "definicion": "Palo flamenco de ritmo vivo", "pista": "Cante festivo de Jerez", "respuesta": "BULERÍAS" },
+          { "definicion": "Arranque repentino de pasión", "pista": "Furor", "respuesta": "ARREBATO" },
+          { "definicion": "Lo que se hace sin preparar", "pista": "Repentización", "respuesta": "IMPROVISACIÓN" },
+          { "definicion": "Queja dolorida", "pista": "Quejido", "respuesta": "LAMENTO" },
+          { "definicion": "Notas de un acorde tocadas una tras otra", "pista": "Se hace en la guitarra", "respuesta": "ARPEGIO" },
+          { "definicion": "Aplauso muy fuerte", "pista": "El público en pie", "respuesta": "OVACIÓN" },
+          { "definicion": "Toque rápido con varios dedos en la guitarra", "pista": "Rasgado de cuerdas", "respuesta": "RASGUEO" },
+          { "definicion": "Gusto por algo", "pista": "Seguidores de un arte", "respuesta": "AFICIÓN" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-17",
+    "niveles": {
+      "facil": {
+        "palabra": "CLASE",
+        "pista": "Aula del colegio",
+        "filas": [
+          { "definicion": "Tiene cuatro ruedas", "pista": "Automóvil", "respuesta": "COCHE" },
+          { "definicion": "Se enciende con el interruptor", "pista": "La da el sol", "respuesta": "LUZ" },
+          { "definicion": "Todas las letras en orden", "pista": "De la A a la Z", "respuesta": "ABECEDARIO" },
+          { "definicion": "Afila los lápices", "pista": "Saca punta", "respuesta": "SACAPUNTAS" },
+          { "definicion": "Bolsa para los lápices", "pista": "Lo llevas en la mochila", "respuesta": "ESTUCHE" }
+        ]
+      },
+      "medio": {
+        "palabra": "ALUMNO",
+        "pista": "Quien aprende en clase",
+        "filas": [
+          { "definicion": "Materia que se estudia", "pista": "Matemáticas o Lengua", "respuesta": "ASIGNATURA" },
+          { "definicion": "Lo que se aprende en una clase", "pista": "Tema del libro", "respuesta": "LECCIÓN" },
+          { "definicion": "Donde se estudia una carrera", "pista": "Campus", "respuesta": "UNIVERSIDAD" },
+          { "definicion": "Persona que enseña en la escuela", "pista": "La seño", "respuesta": "MAESTRA" },
+          { "definicion": "Grado alcanzado en algo", "pista": "___ de inglés", "respuesta": "NIVEL" },
+          { "definicion": "Falta de memoria", "pista": "Lo contrario de recuerdo", "respuesta": "OLVIDO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "CUADERNO",
+        "pista": "Libreta de clase",
+        "filas": [
+          { "definicion": "Arte de escribir con letra bonita", "pista": "Buena letra", "respuesta": "CALIGRAFÍA" },
+          { "definicion": "Herramientas o instrumentos para una tarea", "pista": "Los ___ escolares", "respuesta": "ÚTILES" },
+          { "definicion": "Notas que se toman en clase", "pista": "Lo que se copia de lo que dice el profesor", "respuesta": "APUNTES" },
+          { "definicion": "Ejercicio de escribir lo que otro lee", "pista": "Para practicar ortografía", "respuesta": "DICTADO" },
+          { "definicion": "Pizarra", "pista": "Se borra con el borrador", "respuesta": "ENCERADO" },
+          { "definicion": "Escrito sobre un tema", "pista": "Composición", "respuesta": "REDACCIÓN" },
+          { "definicion": "Principiante", "pista": "El nuevo de la clase", "respuesta": "NOVATO" },
+          { "definicion": "Examen para obtener una plaza pública", "pista": "Hay que opositar", "respuesta": "OPOSICIÓN" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-18",
+    "niveles": {
+      "facil": {
+        "palabra": "TINTA",
+        "pista": "La de los bolígrafos",
+        "filas": [
+          { "definicion": "De patatas", "pista": "Se le da la vuelta en la sartén", "respuesta": "TORTILLA" },
+          { "definicion": "Abrigo para la lluvia", "pista": "Chubasquero", "respuesta": "IMPERMEABLE" },
+          { "definicion": "Uno, dos, tres…", "pista": "Sirve para contar", "respuesta": "NÚMERO" },
+          { "definicion": "Chaqueta y pantalón a juego", "pista": "Lo lleva el novio", "respuesta": "TRAJE" },
+          { "definicion": "Aguja pequeña con cabeza", "pista": "Sujeta la tela", "respuesta": "ALFILER" }
+        ]
+      },
+      "medio": {
+        "palabra": "VIÑETA",
+        "pista": "Cada recuadro de un cómic",
+        "filas": [
+          { "definicion": "Cowboy", "pista": "También, un pantalón de tela azul", "respuesta": "VAQUERO" },
+          { "definicion": "Distintivo, emblema", "pista": "La placa del sheriff", "respuesta": "INSIGNIA" },
+          { "definicion": "Antílope africano", "pista": "Viaja en grandes manadas por la sabana", "respuesta": "ÑU" },
+          { "definicion": "¡Bum!", "pista": "Estallido", "respuesta": "EXPLOSIÓN" },
+          { "definicion": "Revista de historietas", "pista": "Cómic", "respuesta": "TEBEO" },
+          { "definicion": "Amante de las aventuras", "pista": "Tintín lo es", "respuesta": "AVENTURERO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "PINCELES",
+        "pista": "Para pintar",
+        "filas": [
+          { "definicion": "Tabla donde el pintor mezcla colores", "pista": "También, la del albañil", "respuesta": "PALETA" },
+          { "definicion": "Dibujo que acompaña a un texto", "pista": "La de un libro infantil", "respuesta": "ILUSTRACIÓN" },
+          { "definicion": "Arte de contar historias", "pista": "Género de novelas y cuentos", "respuesta": "NARRATIVA" },
+          { "definicion": "Dibujo que exagera los rasgos", "pista": "Retrato cómico", "respuesta": "CARICATURA" },
+          { "definicion": "Dibujo inicial y provisional", "pista": "Boceto", "respuesta": "ESBOZO" },
+          { "definicion": "Tela sobre la que se pinta", "pista": "Cuadro", "respuesta": "LIENZO" },
+          { "definicion": "Cada parte de una obra o película", "pista": "Lugar donde actúan", "respuesta": "ESCENA" },
+          { "definicion": "Personaje con poderes", "pista": "Lleva capa", "respuesta": "SUPERHÉROE" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-19",
+    "niveles": {
+      "facil": {
+        "palabra": "JABÓN",
+        "pista": "Hace espuma",
+        "filas": [
+          { "definicion": "Lugar con flores y césped", "pista": "Se riega", "respuesta": "JARDÍN" },
+          { "definicion": "Mueble para guardar la ropa", "pista": "Tiene perchas", "respuesta": "ARMARIO" },
+          { "definicion": "Abrocha la camisa", "pista": "Se cose", "respuesta": "BOTÓN" },
+          { "definicion": "Recipiente para orinar", "pista": "Bacinilla de los niños", "respuesta": "ORINAL" },
+          { "definicion": "Lazo apretado", "pista": "Se hace con una cuerda", "respuesta": "NUDO" }
+        ]
+      },
+      "medio": {
+        "palabra": "TOALLA",
+        "pista": "Para secarse",
+        "filas": [
+          { "definicion": "Tapa del desagüe", "pista": "Tapa de la bañera", "respuesta": "TAPÓN" },
+          { "definicion": "Colocación de las cosas en su sitio", "pista": "Lo contrario de desorden", "respuesta": "ORDEN" },
+          { "definicion": "Bata de tela de toalla", "pista": "Se pone al salir de la ducha", "respuesta": "ALBORNOZ" },
+          { "definicion": "Electrodoméstico para lavar la ropa", "pista": "Centrifuga", "respuesta": "LAVADORA" },
+          { "definicion": "Producto para desinfectar", "pista": "Blanquea la ropa", "respuesta": "LEJÍA" },
+          { "definicion": "Baldosa de la pared del baño", "pista": "Cerámica vidriada", "respuesta": "AZULEJO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "GRIFERÍA",
+        "pista": "Conjunto de grifos",
+        "filas": [
+          { "definicion": "Caída de gotas", "pista": "Lo hace el grifo mal cerrado", "respuesta": "GOTEO" },
+          { "definicion": "Lo que queda inservible", "pista": "Desecho", "respuesta": "RESIDUO" },
+          { "definicion": "Que no tiene olor; también, el váter", "pista": "Taza del baño", "respuesta": "INODORO" },
+          { "definicion": "Arregla tuberías", "pista": "Lo llamas si hay una fuga", "respuesta": "FONTANERO" },
+          { "definicion": "Yeso para techos y para inmovilizar huesos", "pista": "Molduras de ___", "respuesta": "ESCAYOLA" },
+          { "definicion": "Váter", "pista": "Excusado", "respuesta": "RETRETE" },
+          { "definicion": "Muy personal y reservado", "pista": "Diario ___", "respuesta": "ÍNTIMO" },
+          { "definicion": "Cuarto de baño", "pista": "Limpieza personal", "respuesta": "ASEO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-20",
+    "niveles": {
+      "facil": {
+        "palabra": "JUEGO",
+        "pista": "Escondite o pilla-pilla",
+        "filas": [
+          { "definicion": "Prenda de punto que abriga", "pista": "Se pone por la cabeza", "respuesta": "JERSEY" },
+          { "definicion": "Pájaro blanco y negro que se lleva objetos brillantes", "pista": "Ladrona de cosas que brillan", "respuesta": "URRACA" },
+          { "definicion": "Cuida de los enfermos", "pista": "Trabaja junto al médico", "respuesta": "ENFERMERA" },
+          { "definicion": "Legumbre verde y redonda", "pista": "La princesa lo notó bajo los colchones", "respuesta": "GUISANTE" },
+          { "definicion": "___ de peluche", "pista": "Juguete blandito", "respuesta": "OSITO" }
+        ]
+      },
+      "medio": {
+        "palabra": "MUÑECA",
+        "pista": "Juguete con forma de persona",
+        "filas": [
+          { "definicion": "Muñeco movido con hilos", "pista": "Pinocho lo era", "respuesta": "MARIONETA" },
+          { "definicion": "Objeto útil de uso manual", "pista": "Herramienta de cocina", "respuesta": "UTENSILIO" },
+          { "definicion": "Ave corredora americana", "pista": "Parecida al avestruz", "respuesta": "ÑANDÚ" },
+          { "definicion": "Juego en que unos se ocultan", "pista": "Uno cuenta y los demás se esconden", "respuesta": "ESCONDITE" },
+          { "definicion": "Cuerda para saltar", "pista": "Juego del patio", "respuesta": "COMBA" },
+          { "definicion": "Cajón de arena del parque", "pista": "Donde se juega con pala y cubo", "respuesta": "ARENERO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "INFANCIA",
+        "pista": "Primera etapa de la vida",
+        "filas": [
+          { "definicion": "Sin malicia", "pista": "Cándido", "respuesta": "INGENUO" },
+          { "definicion": "Mujer que amamanta a un hijo ajeno", "pista": "Ama de cría", "respuesta": "NODRIZA" },
+          { "definicion": "Imaginación", "pista": "Mundo de ___", "respuesta": "FANTASÍA" },
+          { "definicion": "Jaleo, griterío", "pista": "Ruido de niños en el recreo", "respuesta": "ALBOROTO" },
+          { "definicion": "Persona que cuida niños", "pista": "Hace de canguro", "respuesta": "NIÑERA" },
+          { "definicion": "Bolita de cristal para jugar", "pista": "Se juega en el suelo", "respuesta": "CANICA" },
+          { "definicion": "Que no puede defenderse", "pista": "Desvalido", "respuesta": "INDEFENSO" },
+          { "definicion": "Etapa entre la niñez y la edad adulta", "pista": "Pubertad", "respuesta": "ADOLESCENCIA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-21",
+    "niveles": {
+      "facil": {
+        "palabra": "MANDO",
+        "pista": "Cambia de canal",
+        "filas": [
+          { "definicion": "Dibujo de un territorio", "pista": "Se juntan en un atlas", "respuesta": "MAPA" },
+          { "definicion": "Viaja al espacio", "pista": "Lleva escafandra", "respuesta": "ASTRONAUTA" },
+          { "definicion": "Planta acuática de hojas flotantes", "pista": "Las ranas se sientan en ella", "respuesta": "NENÚFAR" },
+          { "definicion": "Lo que se hace con lápices de colores", "pista": "Retrato o paisaje", "respuesta": "DIBUJO" },
+          { "definicion": "Mes anterior a noviembre", "pista": "Décimo mes del año", "respuesta": "OCTUBRE" }
+        ]
+      },
+      "medio": {
+        "palabra": "ANTENA",
+        "pista": "Recibe la señal",
+        "filas": [
+          { "definicion": "Se pone en la oreja para escuchar", "pista": "Cascos", "respuesta": "AURICULAR" },
+          { "definicion": "Mamífero que nada en los ríos", "pista": "Flota boca arriba", "respuesta": "NUTRIA" },
+          { "definicion": "Quien ve la televisión", "pista": "Televidente", "respuesta": "TELESPECTADOR" },
+          { "definicion": "Estación de radio o televisión", "pista": "Emite programas", "respuesta": "EMISORA" },
+          { "definicion": "Que ocurre de noche", "pista": "Lo contrario de diurno", "respuesta": "NOCTURNO" },
+          { "definicion": "Publicidad en la tele", "pista": "Interrumpe la película", "respuesta": "ANUNCIO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "PANTALLA",
+        "pista": "Donde se ven las imágenes",
+        "filas": [
+          { "definicion": "Quien conduce un programa", "pista": "Da paso a los invitados", "respuesta": "PRESENTADOR" },
+          { "definicion": "Público que ve un programa", "pista": "Se mide en índices", "respuesta": "AUDIENCIA" },
+          { "definicion": "Claro, bien definido", "pista": "Imagen sin borrones", "respuesta": "NÍTIDO" },
+          { "definicion": "Serie sentimental de muchos capítulos", "pista": "Culebrón", "respuesta": "TELENOVELA" },
+          { "definicion": "Aparato que amplifica el sonido", "pista": "Por donde sale el sonido", "respuesta": "ALTAVOZ" },
+          { "definicion": "Quien habla por la radio o la televisión", "pista": "La voz del programa", "respuesta": "LOCUTOR" },
+          { "definicion": "Película de más de una hora", "pista": "Lo contrario de un corto", "respuesta": "LARGOMETRAJE" },
+          { "definicion": "Que combina sonido e imagen", "pista": "Medio para el oído y la vista", "respuesta": "AUDIOVISUAL" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-22",
+    "niveles": {
+      "facil": {
+        "palabra": "PIANO",
+        "pista": "Tiene teclas blancas y negras",
+        "filas": [
+          { "definicion": "Ave que hace cuac", "pista": "Nada en el estanque", "respuesta": "PATO" },
+          { "definicion": "Persona muy admirada", "pista": "Estrella del pop para sus fans", "respuesta": "ÍDOLO" },
+          { "definicion": "Mes de vacaciones de verano", "pista": "Octavo mes del año", "respuesta": "AGOSTO" },
+          { "definicion": "Hijo de tu hijo", "pista": "Lo mima la abuela", "respuesta": "NIETO" },
+          { "definicion": "Instrumento de viento pequeño y ovalado", "pista": "De barro, con agujeros", "respuesta": "OCARINA" }
+        ]
+      },
+      "medio": {
+        "palabra": "CANCIÓN",
+        "pista": "Se canta",
+        "filas": [
+          { "definicion": "Instrumento de dos piezas que se entrechocan", "pista": "Se tocan con los dedos", "respuesta": "CASTAÑUELAS" },
+          { "definicion": "Pieza para una voz solista en una ópera", "pista": "Canto solista", "respuesta": "ARIA" },
+          { "definicion": "Canción para dormir a un bebé", "pista": "Arrorró", "respuesta": "NANA" },
+          { "definicion": "Grupo de personas que cantan juntas", "pista": "Canta en la iglesia", "respuesta": "CORO" },
+          { "definicion": "Objeto que produce música", "pista": "La guitarra lo es", "respuesta": "INSTRUMENTO" },
+          { "definicion": "Intervalo de ocho notas", "pista": "De do a do", "respuesta": "OCTAVA" },
+          { "definicion": "Figura musical que dura un tiempo", "pista": "La mitad de una blanca", "respuesta": "NEGRA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "SINFONÍA",
+        "pista": "Obra para orquesta",
+        "filas": [
+          { "definicion": "Quien canta o toca solo", "pista": "Destaca sobre la orquesta", "respuesta": "SOLISTA" },
+          { "definicion": "Quien toca o canta una obra", "pista": "Músico que la ejecuta", "respuesta": "INTÉRPRETE" },
+          { "definicion": "La sinfonía de Beethoven con el Himno de la Alegría", "pista": "Número nueve", "respuesta": "NOVENA" },
+          { "definicion": "Instrumento de viento grave, de madera", "pista": "Pariente grande del oboe", "respuesta": "FAGOT" },
+          { "definicion": "Pieza que abre una ópera", "pista": "Introducción musical", "respuesta": "OBERTURA" },
+          { "definicion": "Relativo a la boda", "pista": "Marcha ___", "respuesta": "NUPCIAL" },
+          { "definicion": "Pieza breve entre dos partes", "pista": "Intermedio", "respuesta": "INTERLUDIO" },
+          { "definicion": "Movimiento musical de tempo rápido", "pista": "Aire alegre", "respuesta": "ALLEGRO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-23",
+    "niveles": {
+      "facil": {
+        "palabra": "VAGÓN",
+        "pista": "Cada coche de un tren",
+        "filas": [
+          { "definicion": "Se abre para que entre aire", "pista": "Tiene cristales", "respuesta": "VENTANA" },
+          { "definicion": "Rodear a alguien con los brazos", "pista": "Muestra de cariño", "respuesta": "ABRAZO" },
+          { "definicion": "Instrumento de seis cuerdas", "pista": "Se toca en el flamenco", "respuesta": "GUITARRA" },
+          { "definicion": "Gigante que come personas en los cuentos", "pista": "Shrek lo es", "respuesta": "OGRO" },
+          { "definicion": "Crema de la leche", "pista": "Se monta para los postres", "respuesta": "NATA" }
+        ]
+      },
+      "medio": {
+        "palabra": "BILLETE",
+        "pista": "Hay que pagarlo para viajar",
+        "filas": [
+          { "definicion": "Ventana con barandilla que sobresale", "pista": "Para asomarse a la calle", "respuesta": "BALCÓN" },
+          { "definicion": "Revisa los billetes en el tren", "pista": "Revisor", "respuesta": "INTERVENTOR" },
+          { "definicion": "Máquina que arrastra el tren", "pista": "Echa humo", "respuesta": "LOCOMOTORA" },
+          { "definicion": "Cama de un tren nocturno", "pista": "Cama de dos pisos", "respuesta": "LITERA" },
+          { "definicion": "Conexión entre dos trenes", "pista": "Transbordo", "respuesta": "ENLACE" },
+          { "definicion": "Ventanilla donde se venden billetes", "pista": "Allí se compra la entrada", "respuesta": "TAQUILLA" },
+          { "definicion": "Tren rápido", "pista": "Orient ___", "respuesta": "EXPRESO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ESTACIÓN",
+        "pista": "Donde para el tren",
+        "filas": [
+          { "definicion": "Subida de los pasajeros", "pista": "Puerta de ___", "respuesta": "EMBARQUE" },
+          { "definicion": "Conjunto de señales", "pista": "Indicaciones del tráfico", "respuesta": "SEÑALIZACIÓN" },
+          { "definicion": "Viaje, sobre todo por mar", "pista": "Cruce", "respuesta": "TRAVESÍA" },
+          { "definicion": "Plataforma junto a la vía", "pista": "Donde esperan los viajeros", "respuesta": "ANDÉN" },
+          { "definicion": "Tren de trayectos cortos", "pista": "Une la ciudad con las afueras", "respuesta": "CERCANÍAS" },
+          { "definicion": "Estación que conecta varios transportes", "pista": "Para cambiar de línea", "respuesta": "INTERCAMBIADOR" },
+          { "definicion": "Tren que para en todas las estaciones", "pista": "Vehículo colectivo", "respuesta": "ÓMNIBUS" },
+          { "definicion": "Rueda de goma", "pista": "Se pincha", "respuesta": "NEUMÁTICO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-24",
+    "niveles": {
+      "facil": {
+        "palabra": "TALLO",
+        "pista": "Sostiene la flor",
+        "filas": [
+          { "definicion": "Flor típica de Holanda", "pista": "Sale de un bulbo", "respuesta": "TULIPÁN" },
+          { "definicion": "Lo que se echa a la tierra para fertilizarla", "pista": "Fertilizante", "respuesta": "ABONO" },
+          { "definicion": "Nudo con dos lazadas", "pista": "Adorna un regalo", "respuesta": "LAZO" },
+          { "definicion": "Hortaliza verde de la ensalada", "pista": "Tiene muchas hojas", "respuesta": "LECHUGA" },
+          { "definicion": "Agujero por donde pasa el botón", "pista": "Está en la camisa", "respuesta": "OJAL" }
+        ]
+      },
+      "medio": {
+        "palabra": "MACETA",
+        "pista": "Recipiente para plantas",
+        "filas": [
+          { "definicion": "Flor blanca de centro amarillo", "pista": "Me quiere, no me quiere", "respuesta": "MARGARITA" },
+          { "definicion": "Herramienta para cavar", "pista": "La usa el agricultor", "respuesta": "AZADA" },
+          { "definicion": "Hierba corta del jardín", "pista": "Se corta con cortacésped", "respuesta": "CÉSPED" },
+          { "definicion": "Trozo de planta que se planta para que arraigue", "pista": "Para multiplicar una planta", "respuesta": "ESQUEJE" },
+          { "definicion": "Nuestro planeta; también, el suelo", "pista": "Se pone en la maceta", "respuesta": "TIERRA" },
+          { "definicion": "Planta leñosa baja", "pista": "Mata", "respuesta": "ARBUSTO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "REGADERA",
+        "pista": "Para regar",
+        "filas": [
+          { "definicion": "Herramienta con púas para recoger hojas", "pista": "Se usa en otoño", "respuesta": "RASTRILLO" },
+          { "definicion": "Planta que trepa", "pista": "Como la hiedra", "respuesta": "ENREDADERA" },
+          { "definicion": "Brotar una semilla", "pista": "Empezar a crecer", "respuesta": "GERMINAR" },
+          { "definicion": "Aparato que riega girando", "pista": "Riego automático", "respuesta": "ASPERSOR" },
+          { "definicion": "Limpiar de maleza", "pista": "Quitar matorrales", "respuesta": "DESBROZAR" },
+          { "definicion": "Enrejado para plantas trepadoras", "pista": "Celosía del jardín", "respuesta": "ESPALDERA" },
+          { "definicion": "Acción de regar", "pista": "Por goteo o por aspersión", "respuesta": "RIEGO" },
+          { "definicion": "Flor del naranjo", "pista": "Blanca y perfumada", "respuesta": "AZAHAR" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-25",
+    "niveles": {
+      "facil": {
+        "palabra": "MARTE",
+        "pista": "El planeta rojo",
+        "filas": [
+          { "definicion": "Fruta grande de verano", "pista": "Se corta en tajadas", "respuesta": "MELÓN" },
+          { "definicion": "Deportista que corre o salta", "pista": "Compite en las olimpiadas", "respuesta": "ATLETA" },
+          { "definicion": "Piedra preciosa roja", "pista": "Joya roja", "respuesta": "RUBÍ" },
+          { "definicion": "Coche que te lleva a cambio de dinero", "pista": "Tiene una luz verde", "respuesta": "TAXI" },
+          { "definicion": "Prueba de clase", "pista": "Se aprueba o se suspende", "respuesta": "EXAMEN" }
+        ]
+      },
+      "medio": {
+        "palabra": "PLANETA",
+        "pista": "La Tierra lo es",
+        "filas": [
+          { "definicion": "Ave que no vuela y vive en el frío", "pista": "Va de esmoquin", "respuesta": "PINGÜINO" },
+          { "definicion": "Estrella muy brillante", "pista": "El del alba", "respuesta": "LUCERO" },
+          { "definicion": "Capa de gases que rodea un planeta", "pista": "El aire", "respuesta": "ATMÓSFERA" },
+          { "definicion": "___ espacial", "pista": "Vehículo para viajar", "respuesta": "NAVE" },
+          { "definicion": "La Luna tapa el Sol", "pista": "Oscurece en pleno día", "respuesta": "ECLIPSE" },
+          { "definicion": "Aparato para ver lo lejano", "pista": "Lo usan los astrónomos", "respuesta": "TELESCOPIO" },
+          { "definicion": "Roca que flota en el espacio", "pista": "Pequeño cuerpo rocoso", "respuesta": "ASTEROIDE" }
+        ]
+      },
+      "dificil": {
+        "palabra": "GALAXIAS",
+        "pista": "La Vía Láctea es una",
+        "filas": [
+          { "definicion": "Que tiene la Tierra como centro", "pista": "El sistema de Ptolomeo", "respuesta": "GEOCÉNTRICO" },
+          { "definicion": "Científico que estudia los astros", "pista": "Mira por el telescopio", "respuesta": "ASTRÓNOMO" },
+          { "definicion": "Que da luz", "pista": "Brillante", "respuesta": "LUMINOSO" },
+          { "definicion": "Punto de la órbita más alejado del Sol", "pista": "Lo contrario del perihelio", "respuesta": "AFELIO" },
+          { "definicion": "Instrumento de láminas que se golpean", "pista": "Suena tin, tin", "respuesta": "XILÓFONO" },
+          { "definicion": "Que no tiene fin", "pista": "∞", "respuesta": "INFINITO" },
+          { "definicion": "Acción de posarse en la Luna", "pista": "Lo del Apolo 11", "respuesta": "ALUNIZAJE" },
+          { "definicion": "Cuerpo que gira alrededor de un planeta", "pista": "La Luna lo es", "respuesta": "SATÉLITE" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-26",
+    "niveles": {
+      "facil": {
+        "palabra": "CACAO",
+        "pista": "Semilla del chocolate",
+        "filas": [
+          { "definicion": "Asiento colgante del parque", "pista": "Te empujan para subir alto", "respuesta": "COLUMPIO" },
+          { "definicion": "Fruta naranja de hueso", "pista": "Parecida al melocotón", "respuesta": "ALBARICOQUE" },
+          { "definicion": "Dulce de azúcar", "pista": "Se chupa", "respuesta": "CARAMELO" },
+          { "definicion": "Máscara que tapa los ojos", "pista": "Lo llevan los superhéroes", "respuesta": "ANTIFAZ" },
+          { "definicion": "Número entre el diez y el doce", "pista": "Los jugadores de un equipo de fútbol", "respuesta": "ONCE" }
+        ]
+      },
+      "medio": {
+        "palabra": "BOMBÓN",
+        "pista": "Chocolate relleno",
+        "filas": [
+          { "definicion": "Pastel esponjoso", "pista": "Se moja en el café", "respuesta": "BIZCOCHO" },
+          { "definicion": "Hoja fina de masa", "pista": "La del barquillo", "respuesta": "OBLEA" },
+          { "definicion": "Dulce de fruta cocida", "pista": "Se unta en la tostada", "respuesta": "MERMELADA" },
+          { "definicion": "Pieza de bollería", "pista": "Magdalena o cruasán", "respuesta": "BOLLO" },
+          { "definicion": "Cada porción de una tableta de chocolate", "pista": "Cuadradito", "respuesta": "ONZA" },
+          { "definicion": "Postre de leche, huevo y azúcar", "pista": "Con una galleta encima", "respuesta": "NATILLAS" }
+        ]
+      },
+      "dificil": {
+        "palabra": "GOLOSINA",
+        "pista": "Chuchería",
+        "filas": [
+          { "definicion": "Cobertura brillante de azúcar", "pista": "La del dónut", "respuesta": "GLASEADO" },
+          { "definicion": "Exceso de peso", "pista": "Sobrepeso", "respuesta": "OBESIDAD" },
+          { "definicion": "Goloso", "pista": "Que le encantan los dulces", "respuesta": "LAMINERO" },
+          { "definicion": "Abundante y espléndido (dicho de una comida)", "pista": "Banquete ___", "respuesta": "OPÍPARO" },
+          { "definicion": "Azúcar común", "pista": "Azúcar de mesa", "respuesta": "SACAROSA" },
+          { "definicion": "Malestar por comer demasiado", "pista": "Empacho", "respuesta": "INDIGESTIÓN" },
+          { "definicion": "Jugo dulce de las flores", "pista": "Lo liban las abejas", "respuesta": "NÉCTAR" },
+          { "definicion": "Dulce de almendras, nueces y miel", "pista": "Dulce navideño o argentino", "respuesta": "ALFAJOR" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-27",
+    "niveles": {
+      "facil": {
+        "palabra": "SALDO",
+        "pista": "Lo que queda en la cuenta",
+        "filas": [
+          { "definicion": "Para freír", "pista": "Tiene mango", "respuesta": "SARTÉN" },
+          { "definicion": "Vehículo con sirena que lleva enfermos", "pista": "Va al hospital", "respuesta": "AMBULANCIA" },
+          { "definicion": "Insecto que brilla de noche", "pista": "Bichito de luz", "respuesta": "LUCIÉRNAGA" },
+          { "definicion": "Lugar de arena y sin agua", "pista": "El Sahara", "respuesta": "DESIERTO" },
+          { "definicion": "Trabajador manual", "pista": "Trabaja en la obra", "respuesta": "OBRERO" }
+        ]
+      },
+      "medio": {
+        "palabra": "REBAJA",
+        "pista": "Descuento en el precio",
+        "filas": [
+          { "definicion": "Papel que justifica un pago", "pista": "Tique", "respuesta": "RECIBO" },
+          { "definicion": "Lleva el precio", "pista": "Cuelga de la ropa", "respuesta": "ETIQUETA" },
+          { "definicion": "Para llevar la compra", "pista": "De plástico o de tela", "respuesta": "BOLSA" },
+          { "definicion": "Dinero que se guarda", "pista": "Hucha", "respuesta": "AHORRO" },
+          { "definicion": "Tienda de juguetes", "pista": "Se llena en Navidad", "respuesta": "JUGUETERÍA" },
+          { "definicion": "Local donde se guarda mercancía", "pista": "Grandes ___", "respuesta": "ALMACÉN" }
+        ]
+      },
+      "dificil": {
+        "palabra": "MERCADER",
+        "pista": "Comerciante",
+        "filas": [
+          { "definicion": "Pieza de metal que sirve de dinero", "pista": "Cara o cruz", "respuesta": "MONEDA" },
+          { "definicion": "Centro de comercio", "pista": "Gran negocio", "respuesta": "EMPORIO" },
+          { "definicion": "Discusión del precio", "pista": "Lo que se hace en el zoco", "respuesta": "REGATEO" },
+          { "definicion": "Conjunto de clientes", "pista": "Compradores habituales", "respuesta": "CLIENTELA" },
+          { "definicion": "Impuesto de aduana", "pista": "Tasa a la importación", "respuesta": "ARANCEL" },
+          { "definicion": "Persona que atiende en una tienda", "pista": "Vendedor", "respuesta": "DEPENDIENTE" },
+          { "definicion": "Comercio ilegal", "pista": "Mercado negro", "respuesta": "ESTRAPERLO" },
+          { "definicion": "Que da beneficios", "pista": "Lucrativo", "respuesta": "RENTABLE" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-28",
+    "niveles": {
+      "facil": {
+        "palabra": "GORRO",
+        "pista": "Abriga la cabeza",
+        "filas": [
+          { "definicion": "Sirve para borrar", "pista": "Borrador", "respuesta": "GOMA" },
+          { "definicion": "Gas que forma una capa protectora en la atmósfera", "pista": "Su capa tiene un agujero", "respuesta": "OZONO" },
+          { "definicion": "Mechón de pelo ondulado", "pista": "Pelo rizado", "respuesta": "RIZO" },
+          { "definicion": "Instrucciones para cocinar un plato", "pista": "También la del médico", "respuesta": "RECETA" },
+          { "definicion": "Principio de algo", "pista": "Comienzo", "respuesta": "ORIGEN" }
+        ]
+      },
+      "medio": {
+        "palabra": "ABRIGO",
+        "pista": "Prenda gruesa para el frío",
+        "filas": [
+          { "definicion": "Chaqueta impermeable con capucha", "pista": "Chubasquero acolchado", "respuesta": "ANORAK" },
+          { "definicion": "Prenda para el cuello", "pista": "Se enrolla al cuello", "respuesta": "BUFANDA" },
+          { "definicion": "Chaqueta de punto con botones", "pista": "Jersey abierto", "respuesta": "REBECA" },
+          { "definicion": "Al aire libre, sin techo", "pista": "Dormir a la ___", "respuesta": "INTEMPERIE" },
+          { "definicion": "Prenda para la mano", "pista": "Tiene cinco dedos", "respuesta": "GUANTE" },
+          { "definicion": "Que no deja pasar la luz", "pista": "Lo contrario de transparente", "respuesta": "OPACO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "CALCETÍN",
+        "pista": "Prenda para el pie",
+        "filas": [
+          { "definicion": "Abrigo corto", "pista": "Tres cuartos", "respuesta": "CHAQUETÓN" },
+          { "definicion": "Calzado de esparto", "pista": "Zapatilla de lona", "respuesta": "ALPARGATA" },
+          { "definicion": "Ropa interior", "pista": "Tienda de ropa íntima", "respuesta": "LENCERÍA" },
+          { "definicion": "Cierre de dientes", "pista": "Sube y baja", "respuesta": "CREMALLERA" },
+          { "definicion": "Hilo de lana; también, órgano de la flor", "pista": "Lana para tejer", "respuesta": "ESTAMBRE" },
+          { "definicion": "Tiras que sujetan el pantalón", "pista": "Se pasan por los hombros", "respuesta": "TIRANTES" },
+          { "definicion": "Conjunto de prendas de vestir", "pista": "Vestimenta", "respuesta": "INDUMENTARIA" },
+          { "definicion": "Bolitas contra las polillas", "pista": "Olor de armario viejo", "respuesta": "NAFTALINA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-29",
+    "niveles": {
+      "facil": {
+        "palabra": "CALDO",
+        "pista": "Sopa sin tropezones",
+        "filas": [
+          { "definicion": "Animal de orejas largas", "pista": "Come zanahorias", "respuesta": "CONEJO" },
+          { "definicion": "Fruto seco pequeño y redondo", "pista": "Del avellano", "respuesta": "AVELLANA" },
+          { "definicion": "Hoja aromática para los guisos", "pista": "Corona de los vencedores", "respuesta": "LAUREL" },
+          { "definicion": "Piedra preciosa muy dura", "pista": "Brilla en el anillo", "respuesta": "DIAMANTE" },
+          { "definicion": "Sin luz", "pista": "Lo contrario de claro", "respuesta": "OSCURO" }
+        ]
+      },
+      "medio": {
+        "palabra": "COCIDO",
+        "pista": "Garbanzos, carne y verduras",
+        "filas": [
+          { "definicion": "Verdura de hojas apretadas", "pista": "Repollo", "respuesta": "COL" },
+          { "definicion": "Aguardiente hecho con los restos de la uva", "pista": "Típico de Galicia", "respuesta": "ORUJO" },
+          { "definicion": "Cuchara grande para servir", "pista": "Cazo", "respuesta": "CUCHARÓN" },
+          { "definicion": "Cada cosa que lleva un plato", "pista": "Lo pide la receta", "respuesta": "INGREDIENTE" },
+          { "definicion": "Probar un alimento con atención", "pista": "Catar", "respuesta": "DEGUSTAR" },
+          { "definicion": "Vasija de barro para conservar alimentos", "pista": "Lomo de ___", "respuesta": "ORZA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "CAZUELAS",
+        "pista": "Recipientes de barro para guisar",
+        "filas": [
+          { "definicion": "Cerdito asado", "pista": "El de Segovia", "respuesta": "COCHINILLO" },
+          { "definicion": "Lo que se añade para condimentar", "pista": "Aliño", "respuesta": "ADEREZO" },
+          { "definicion": "Plato de pescados en salsa; también, género lírico", "pista": "De marisco o en el teatro", "respuesta": "ZARZUELA" },
+          { "definicion": "Grasiento, suave al tacto", "pista": "Pringoso", "respuesta": "UNTUOSO" },
+          { "definicion": "Guiso a fuego lento", "pista": "Carne guisada", "respuesta": "ESTOFADO" },
+          { "definicion": "Fuego", "pista": "Al amor de la ___", "respuesta": "LUMBRE" },
+          { "definicion": "Especia que da color a la paella", "pista": "Oro rojo", "respuesta": "AZAFRÁN" },
+          { "definicion": "Base de cebolla y tomate", "pista": "Primero se hace el ___", "respuesta": "SOFRITO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-11-30",
+    "niveles": {
+      "facil": {
+        "palabra": "CLAVE",
+        "pista": "Contraseña",
+        "filas": [
+          { "definicion": "Hortaliza que hace llorar", "pista": "Tiene capas", "respuesta": "CEBOLLA" },
+          { "definicion": "Gota que sale del ojo al llorar", "pista": "Llanto", "respuesta": "LÁGRIMA" },
+          { "definicion": "Pintura que se disuelve en agua", "pista": "Se pinta con pincel", "respuesta": "ACUARELA" },
+          { "definicion": "Se gira para conducir", "pista": "Lo agarra el conductor", "respuesta": "VOLANTE" },
+          { "definicion": "Figura esculpida", "pista": "De mármol o de bronce", "respuesta": "ESTATUA" }
+        ]
+      },
+      "medio": {
+        "palabra": "TECLADO",
+        "pista": "Tiene teclas",
+        "filas": [
+          { "definicion": "Lugar donde se compra", "pista": "Comercio", "respuesta": "TIENDA" },
+          { "definicion": "Que está funcionando", "pista": "Lo contrario de apagado", "respuesta": "ENCENDIDO" },
+          { "definicion": "Hilo que conduce la electricidad", "pista": "Conecta aparatos", "respuesta": "CABLE" },
+          { "definicion": "Cada signo del abecedario", "pista": "La A es una", "respuesta": "LETRA" },
+          { "definicion": "Programa del móvil", "pista": "App", "respuesta": "APLICACIÓN" },
+          { "definicion": "___ duro", "pista": "Guarda los datos del ordenador", "respuesta": "DISCO" },
+          { "definicion": "Cada posibilidad entre las que elegir", "pista": "Alternativa", "respuesta": "OPCIÓN" }
+        ]
+      },
+      "dificil": {
+        "palabra": "PROGRAMA",
+        "pista": "Conjunto de instrucciones para el ordenador",
+        "filas": [
+          { "definicion": "Ladrón del mar; también, informático", "pista": "Lleva parche", "respuesta": "PIRATA" },
+          { "definicion": "Apagar y volver a encender", "pista": "Lo primero que te recomiendan", "respuesta": "REINICIAR" },
+          { "definicion": "Anticuado, que ya no se usa", "pista": "Pasado de moda", "respuesta": "OBSOLETO" },
+          { "definicion": "Unidad de memoria de unos mil megas", "pista": "GB", "respuesta": "GIGABYTE" },
+          { "definicion": "Copia de seguridad; también, parte de la silla", "pista": "Donde apoyas la espalda", "respuesta": "RESPALDO" },
+          { "definicion": "Serie de pasos para resolver un problema", "pista": "Receta informática", "respuesta": "ALGORITMO" },
+          { "definicion": "Capacidad de recordar; también, la del ordenador", "pista": "RAM", "respuesta": "MEMORIA" },
+          { "definicion": "Símbolo @", "pista": "Está en las direcciones de correo", "respuesta": "ARROBA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-01",
+    "niveles": {
+      "facil": {
+        "palabra": "VELAS",
+        "pista": "Se encienden en la tarta",
+        "filas": [
+          { "definicion": "Color de la hierba", "pista": "Color del semáforo para pasar", "respuesta": "VERDE" },
+          { "definicion": "Burbujas del jabón", "pista": "La de las olas", "respuesta": "ESPUMA" },
+          { "definicion": "Persona que roba", "pista": "Lo persigue la policía", "respuesta": "LADRÓN" },
+          { "definicion": "Lo que mueve al pez", "pista": "Se pone para bucear", "respuesta": "ALETA" },
+          { "definicion": "Insecto que salta", "pista": "Verde, con patas largas", "respuesta": "SALTAMONTES" }
+        ]
+      },
+      "medio": {
+        "palabra": "CORONA",
+        "pista": "La lleva el rey",
+        "filas": [
+          { "definicion": "Cría de la oveja", "pista": "Asado en Navidad", "respuesta": "CORDERO" },
+          { "definicion": "Por donde sale el sol", "pista": "Este", "respuesta": "ORIENTE" },
+          { "definicion": "Conjunto de uvas", "pista": "De uvas o de plátanos", "respuesta": "RACIMO" },
+          { "definicion": "Capa rojiza que sale en el hierro", "pista": "Herrumbre", "respuesta": "ÓXIDO" },
+          { "definicion": "Recién hecho, sin estrenar", "pista": "Lo contrario de viejo", "respuesta": "NUEVO" },
+          { "definicion": "Traje de metal del caballero", "pista": "Protege en la batalla", "respuesta": "ARMADURA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ADVIENTO",
+        "pista": "Las cuatro semanas antes de Navidad",
+        "filas": [
+          { "definicion": "Regalo de Navidad", "pista": "Se pedía cantando villancicos", "respuesta": "AGUINALDO" },
+          { "definicion": "Último mes del año", "pista": "El mes de la Navidad", "respuesta": "DICIEMBRE" },
+          { "definicion": "Víspera de una fiesta", "pista": "Noche en vela", "respuesta": "VIGILIA" },
+          { "definicion": "Luces que adornan las calles", "pista": "Alumbrado navideño", "respuesta": "ILUMINACIÓN" },
+          { "definicion": "Tiempo de aguardar", "pista": "Lo que significa «adviento», en el fondo", "respuesta": "ESPERA" },
+          { "definicion": "Representación del portal de Belén", "pista": "Venida al mundo", "respuesta": "NACIMIENTO" },
+          { "definicion": "Dulce navideño de almendra", "pista": "De Jijona o de Alicante", "respuesta": "TURRÓN" },
+          { "definicion": "Adorno", "pista": "Decoración", "respuesta": "ORNAMENTO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-02",
+    "niveles": {
+      "facil": {
+        "palabra": "NAIPE",
+        "pista": "Carta de la baraja",
+        "filas": [
+          { "definicion": "Cuchillo plegable", "pista": "Se dobla", "respuesta": "NAVAJA" },
+          { "definicion": "Insecto que pica, amarillo y negro", "pista": "Pariente de la abeja", "respuesta": "AVISPA" },
+          { "definicion": "Parte de color del ojo", "pista": "Puede ser azul o marrón", "respuesta": "IRIS" },
+          { "definicion": "Fruta con forma de bombilla", "pista": "No se le pide al olmo", "respuesta": "PERA" },
+          { "definicion": "Bollo en espiral de Mallorca", "pista": "Lleva azúcar glas", "respuesta": "ENSAIMADA" }
+        ]
+      },
+      "medio": {
+        "palabra": "BARAJA",
+        "pista": "Conjunto de cartas",
+        "filas": [
+          { "definicion": "Palo de la baraja española con garrotes", "pista": "Oros, copas, espadas y ___", "respuesta": "BASTOS" },
+          { "definicion": "Carta que vale uno", "pista": "Lo tienes en la manga", "respuesta": "AS" },
+          { "definicion": "Vuelta de cartas o de bebidas", "pista": "Te toca la ___", "respuesta": "RONDA" },
+          { "definicion": "Lo que se juega", "pista": "«Te ___ a que gano»", "respuesta": "APUESTA" },
+          { "definicion": "Sota de la baraja francesa; también, baile aragonés", "pista": "J", "respuesta": "JOTA" },
+          { "definicion": "Casualidad", "pista": "Juegos de ___", "respuesta": "AZAR" }
+        ]
+      },
+      "dificil": {
+        "palabra": "PARTIDAS",
+        "pista": "Lo que se juega cada día en Capitular",
+        "filas": [
+          { "definicion": "Juego de cartas con faroles", "pista": "Escalera de color", "respuesta": "PÓQUER" },
+          { "definicion": "Rival", "pista": "Contrincante", "respuesta": "ADVERSARIO" },
+          { "definicion": "Nueva partida para desquitarse", "pista": "Desquite", "respuesta": "REVANCHA" },
+          { "definicion": "Que hace trampas", "pista": "Tahúr", "respuesta": "TRAMPOSO" },
+          { "definicion": "Saber algo sin razonarlo", "pista": "Corazonada", "respuesta": "INTUICIÓN" },
+          { "definicion": "Juego de fichas con puntos", "pista": "Se dice «cierro» al acabar", "respuesta": "DOMINÓ" },
+          { "definicion": "Quien recibe a los invitados", "pista": "Organiza la partida en su casa", "respuesta": "ANFITRIÓN" },
+          { "definicion": "Juego de cartas para una persona", "pista": "Venía con el ordenador", "respuesta": "SOLITARIO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-03",
+    "niveles": {
+      "facil": {
+        "palabra": "ESQUÍ",
+        "pista": "Deporte de nieve con tablas",
+        "filas": [
+          { "definicion": "Pincho de la rosa; también, hueso del pez", "pista": "Pincha", "respuesta": "ESPINA" },
+          { "definicion": "Pez de carne rosada", "pista": "Remonta los ríos", "respuesta": "SALMÓN" },
+          { "definicion": "Apuesta de fútbol", "pista": "1 X 2", "respuesta": "QUINIELA" },
+          { "definicion": "Acción de juntar", "pista": "La ___ hace la fuerza", "respuesta": "UNIÓN" },
+          { "definicion": "Comienzo", "pista": "Lo contrario del final", "respuesta": "INICIO" }
+        ]
+      },
+      "medio": {
+        "palabra": "NEVADA",
+        "pista": "Cuando cae mucha nieve",
+        "filas": [
+          { "definicion": "Punto cardinal", "pista": "Lo señala la brújula", "respuesta": "NORTE" },
+          { "definicion": "Columna que cuelga del techo de una cueva", "pista": "Formación de roca o hielo", "respuesta": "ESTALACTITA" },
+          { "definicion": "Vapor del aliento en el frío", "pista": "Empaña los cristales", "respuesta": "VAHO" },
+          { "definicion": "Avalancha de nieve", "pista": "Cae de la montaña", "respuesta": "ALUD" },
+          { "definicion": "Derretimiento de la nieve", "pista": "Llega en primavera", "respuesta": "DESHIELO" },
+          { "definicion": "Continente helado del polo sur", "pista": "Hay pingüinos", "respuesta": "ANTÁRTIDA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "VENTISCA",
+        "pista": "Tormenta de viento y nieve",
+        "filas": [
+          { "definicion": "Viento muy fuerte", "pista": "Huracán", "respuesta": "VENDAVAL" },
+          { "definicion": "Rígido por el frío", "pista": "Agarrotado", "respuesta": "ENTUMECIDO" },
+          { "definicion": "Del norte de Europa", "pista": "Escandinavo", "respuesta": "NÓRDICO" },
+          { "definicion": "Temblar de frío", "pista": "Castañetean los dientes", "respuesta": "TIRITAR" },
+          { "definicion": "Rigor del tiempo", "pista": "Frío extremo", "respuesta": "INCLEMENCIA" },
+          { "definicion": "Inflamación por el frío en dedos y orejas", "pista": "Pica en invierno", "respuesta": "SABAÑÓN" },
+          { "definicion": "Temporal de agua y nieve muy menuda", "pista": "Aguanieve con viento", "respuesta": "CELLISCA" },
+          { "definicion": "Refugio de montaña", "pista": "Hostal", "respuesta": "ALBERGUE" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-04",
+    "niveles": {
+      "facil": {
+        "palabra": "MINAS",
+        "pista": "De ellas se saca el carbón",
+        "filas": [
+          { "definicion": "Cereal de las palomitas", "pista": "Mazorca", "respuesta": "MAÍZ" },
+          { "definicion": "Idioma de Londres", "pista": "Hello", "respuesta": "INGLÉS" },
+          { "definicion": "Árbol que da nueces", "pista": "Madera noble", "respuesta": "NOGAL" },
+          { "definicion": "Palo con fuego para alumbrar", "pista": "La olímpica", "respuesta": "ANTORCHA" },
+          { "definicion": "Herramienta de dientes para cortar madera", "pista": "También, una cordillera", "respuesta": "SIERRA" }
+        ]
+      },
+      "medio": {
+        "palabra": "CARBÓN",
+        "pista": "Mineral negro que arde",
+        "filas": [
+          { "definicion": "Protege la cabeza", "pista": "Lo llevan los mineros", "respuesta": "CASCO" },
+          { "definicion": "Piedra preciosa morada", "pista": "Cuarzo violeta", "respuesta": "AMATISTA" },
+          { "definicion": "Barra de hierro por la que van los trenes", "pista": "Vía", "respuesta": "RAÍL" },
+          { "definicion": "Herramienta para taladrar", "pista": "Barreno", "respuesta": "BARRENA" },
+          { "definicion": "Roca volcánica negra y brillante", "pista": "Vidrio volcánico", "respuesta": "OBSIDIANA" },
+          { "definicion": "Metal plateado de algunas monedas", "pista": "Ni", "respuesta": "NÍQUEL" }
+        ]
+      },
+      "dificil": {
+        "palabra": "GALERÍAS",
+        "pista": "Túneles de una mina",
+        "filas": [
+          { "definicion": "Gas explosivo de las minas", "pista": "Peligro del minero", "respuesta": "GRISÚ" },
+          { "definicion": "Región minera del norte", "pista": "Principado", "respuesta": "ASTURIAS" },
+          { "definicion": "Barra de metal fundido", "pista": "De oro", "respuesta": "LINGOTE" },
+          { "definicion": "Acción de cavar", "pista": "Hoyo", "respuesta": "EXCAVACIÓN" },
+          { "definicion": "Lleno de rocas", "pista": "Pedregoso", "respuesta": "ROCOSO" },
+          { "definicion": "Actividad de fabricar", "pista": "Fábricas", "respuesta": "INDUSTRIA" },
+          { "definicion": "Experto en explosivos", "pista": "Desactiva bombas", "respuesta": "ARTIFICIERO" },
+          { "definicion": "Lo que hay bajo la superficie", "pista": "Bajo tierra", "respuesta": "SUBSUELO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-05",
+    "niveles": {
+      "facil": {
+        "palabra": "AYUDA",
+        "pista": "Lo que pides cuando gritas «¡Socorro!»",
+        "filas": [
+          { "definicion": "Comida de media mañana o de mediodía", "pista": "Bocadillo de las once", "respuesta": "ALMUERZO" },
+          { "definicion": "Postre de leche fermentada", "pista": "Natural o de fresa", "respuesta": "YOGUR" },
+          { "definicion": "Solo uno", "pista": "Sin otro igual", "respuesta": "ÚNICO" },
+          { "definicion": "Protege el dedo al coser", "pista": "De metal", "respuesta": "DEDAL" },
+          { "definicion": "Salida del sol", "pista": "Alba", "respuesta": "AMANECER" }
+        ]
+      },
+      "medio": {
+        "palabra": "SOCORRO",
+        "pista": "¡Ayuda!",
+        "filas": [
+          { "definicion": "Flotador", "pista": "Rosco que flota", "respuesta": "SALVAVIDAS" },
+          { "definicion": "Quien escucha", "pista": "Público de la radio", "respuesta": "OYENTE" },
+          { "definicion": "___ Roja", "pista": "Signo de sumar", "respuesta": "CRUZ" },
+          { "definicion": "Momento adecuado", "pista": "Ocasión", "respuesta": "OPORTUNIDAD" },
+          { "definicion": "Salvamento", "pista": "Lo hacen los bomberos", "respuesta": "RESCATE" },
+          { "definicion": "Lugar donde protegerse", "pista": "Cobijo", "respuesta": "REFUGIO" },
+          { "definicion": "Sentido para ubicarse", "pista": "Brújula y mapa", "respuesta": "ORIENTACIÓN" }
+        ]
+      },
+      "dificil": {
+        "palabra": "VOLUNTAD",
+        "pista": "Ganas, deseo de hacer algo",
+        "filas": [
+          { "definicion": "Valor", "pista": "Coraje", "respuesta": "VALENTÍA" },
+          { "definicion": "Acción de ofrecer", "pista": "Oferta de ayuda", "respuesta": "OFRECIMIENTO" },
+          { "definicion": "Fidelidad", "pista": "Cualidad del leal", "respuesta": "LEALTAD" },
+          { "definicion": "Provecho", "pista": "Cualidad de lo útil", "respuesta": "UTILIDAD" },
+          { "definicion": "Que necesita ayuda", "pista": "Pobre", "respuesta": "NECESITADO" },
+          { "definicion": "Firmeza en un propósito", "pista": "Constancia", "respuesta": "TENACIDAD" },
+          { "definicion": "Hacer el bien a los demás sin interés", "pista": "Lo contrario del egoísmo", "respuesta": "ALTRUISMO" },
+          { "definicion": "Que no busca beneficio propio", "pista": "Generoso", "respuesta": "DESINTERESADO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-06",
+    "niveles": {
+      "facil": {
+        "palabra": "LEYES",
+        "pista": "Normas que aprueba el Parlamento",
+        "filas": [
+          { "definicion": "Electrodoméstico que friega los platos", "pista": "Está en la cocina", "respuesta": "LAVAVAJILLAS" },
+          { "definicion": "Conjunto de soldados", "pista": "Las fuerzas armadas", "respuesta": "EJÉRCITO" },
+          { "definicion": "Parte amarilla del huevo", "pista": "Lo contrario de la clara", "respuesta": "YEMA" },
+          { "definicion": "Piedra preciosa verde", "pista": "Joya verde", "respuesta": "ESMERALDA" },
+          { "definicion": "Se pega en el sobre de una carta", "pista": "También estampa una marca", "respuesta": "SELLO" }
+        ]
+      },
+      "medio": {
+        "palabra": "CORTES",
+        "pista": "Congreso y Senado",
+        "filas": [
+          { "definicion": "Cámara de los diputados", "pista": "El edificio de los leones", "respuesta": "CONGRESO" },
+          { "definicion": "Persona que habla en público", "pista": "Da discursos", "respuesta": "ORADOR" },
+          { "definicion": "Votación popular sobre una cuestión", "pista": "Consulta al pueblo", "respuesta": "REFERÉNDUM" },
+          { "definicion": "Lugar donde se juzga", "pista": "Juzgado", "respuesta": "TRIBUNAL" },
+          { "definicion": "Asiento de un parlamentario", "pista": "Sitio en el hemiciclo", "respuesta": "ESCAÑO" },
+          { "definicion": "Cámara alta", "pista": "Lo forman los senadores", "respuesta": "SENADO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "DIPUTADO",
+        "pista": "Miembro del Congreso",
+        "filas": [
+          { "definicion": "Gobierno del pueblo", "pista": "Se vota", "respuesta": "DEMOCRACIA" },
+          { "definicion": "Votación para elegir al presidente del Gobierno", "pista": "Debate de ___", "respuesta": "INVESTIDURA" },
+          { "definicion": "Introducción de un texto legal", "pista": "Lo que va antes del articulado", "respuesta": "PREÁMBULO" },
+          { "definicion": "Que es para todos", "pista": "Sufragio ___", "respuesta": "UNIVERSAL" },
+          { "definicion": "Paso de un régimen a otro", "pista": "La española, tras 1975", "respuesta": "TRANSICIÓN" },
+          { "definicion": "Cada parte numerada de una ley", "pista": "El primero de la Constitución", "respuesta": "ARTÍCULO" },
+          { "definicion": "Disposición del Gobierno", "pista": "Real ___", "respuesta": "DECRETO" },
+          { "definicion": "Lo que hay que cumplir", "pista": "Deber", "respuesta": "OBLIGACIÓN" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-07",
+    "niveles": {
+      "facil": {
+        "palabra": "VIAJE",
+        "pista": "Se hace al ir de vacaciones",
+        "filas": [
+          { "definicion": "Persona que vive al lado", "pista": "El del quinto", "respuesta": "VECINO" },
+          { "definicion": "Enciende la luz", "pista": "Botón de la pared", "respuesta": "INTERRUPTOR" },
+          { "definicion": "Molusco de dos conchas", "pista": "Va en la paella", "respuesta": "ALMEJA" },
+          { "definicion": "Pata de cerdo curada", "pista": "Serrano o ibérico", "respuesta": "JAMÓN" },
+          { "definicion": "Animal con pinzas y cola venenosa", "pista": "Alacrán", "respuesta": "ESCORPIÓN" }
+        ]
+      },
+      "medio": {
+        "palabra": "MALETA",
+        "pista": "Se lleva al viajar",
+        "filas": [
+          { "definicion": "Edificio o escultura de valor histórico", "pista": "Se visita en un viaje", "respuesta": "MONUMENTO" },
+          { "definicion": "Donde despegan los aviones", "pista": "Terminal", "respuesta": "AEROPUERTO" },
+          { "definicion": "Acción de llegar", "pista": "Lo contrario de salida", "respuesta": "LLEGADA" },
+          { "definicion": "Salida corta para conocer un lugar", "pista": "Con el colegio", "respuesta": "EXCURSIÓN" },
+          { "definicion": "Quien viaja por placer", "pista": "Hace muchas fotos", "respuesta": "TURISTA" },
+          { "definicion": "Lugar donde hospedarse", "pista": "Hotel o apartamento", "respuesta": "ALOJAMIENTO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "EQUIPAJE",
+        "pista": "Lo que se lleva en un viaje",
+        "filas": [
+          { "definicion": "Tiempo que se pasa en un lugar", "pista": "Permanencia", "respuesta": "ESTANCIA" },
+          { "definicion": "Lesión por el sol o el fuego", "pista": "Lo que pasa si no te pones crema", "respuesta": "QUEMADURA" },
+          { "definicion": "Lugar donde está algo", "pista": "Localización", "respuesta": "UBICACIÓN" },
+          { "definicion": "Ruta prevista para un viaje", "pista": "Recorrido", "respuesta": "ITINERARIO" },
+          { "definicion": "Documento para viajar al extranjero", "pista": "Se sella en la frontera", "respuesta": "PASAPORTE" },
+          { "definicion": "Que anda mucho de un lado a otro", "pista": "Viajero incansable", "respuesta": "ANDARIEGO" },
+          { "definicion": "Persona retirada del trabajo", "pista": "Viaja con el Imserso", "respuesta": "JUBILADO" },
+          { "definicion": "Viaje para explorar", "pista": "Al Polo Sur", "respuesta": "EXPEDICIÓN" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-08",
+    "niveles": {
+      "facil": {
+        "palabra": "ÁNGEL",
+        "pista": "Tiene alas y vela por ti",
+        "filas": [
+          { "definicion": "Persona muy mayor", "pista": "Abuelo", "respuesta": "ANCIANO" },
+          { "definicion": "Atracción de feria que gira", "pista": "Rueda gigante", "respuesta": "NORIA" },
+          { "definicion": "Por él sale el agua", "pista": "Se abre y se cierra", "respuesta": "GRIFO" },
+          { "definicion": "Brote verde que se come", "pista": "Trigueros", "respuesta": "ESPÁRRAGO" },
+          { "definicion": "Gusano de tierra", "pista": "Cebo de pescador", "respuesta": "LOMBRIZ" }
+        ]
+      },
+      "medio": {
+        "palabra": "AUREOLA",
+        "pista": "Círculo de luz sobre la cabeza",
+        "filas": [
+          { "definicion": "Instrumento de cuerdas que tocan los ángeles", "pista": "Triangular", "respuesta": "ARPA" },
+          { "definicion": "Cantidad de uno", "pista": "El número 1", "respuesta": "UNIDAD" },
+          { "definicion": "Concentración, apartamiento", "pista": "Estado de oración", "respuesta": "RECOGIMIENTO" },
+          { "definicion": "Imagen impresa", "pista": "Lámina con un santo", "respuesta": "ESTAMPA" },
+          { "definicion": "Rezo", "pista": "Plegaria", "respuesta": "ORACIÓN" },
+          { "definicion": "Orden de los oficios religiosos", "pista": "Ritual", "respuesta": "LITURGIA" },
+          { "definicion": "Canto de alegría", "pista": "Grito de júbilo", "respuesta": "ALELUYA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "QUERUBÍN",
+        "pista": "Ángel con cara de niño",
+        "filas": [
+          { "definicion": "Ilusión imposible; también, monstruo mitológico", "pista": "Sueño irrealizable", "respuesta": "QUIMERA" },
+          { "definicion": "Que está en todas partes", "pista": "Omnipresente", "respuesta": "UBICUO" },
+          { "definicion": "Alma, ser inmaterial", "pista": "Ánima", "respuesta": "ESPÍRITU" },
+          { "definicion": "Conjunto de pinturas o tallas detrás de un altar", "pista": "En las iglesias", "respuesta": "RETABLO" },
+          { "definicion": "Devoción, fervor", "pista": "Acción de ungir", "respuesta": "UNCIÓN" },
+          { "definicion": "Sereno y plácido", "pista": "Sonrisa ___", "respuesta": "BEATÍFICO" },
+          { "definicion": "Imagen religiosa pintada en tabla", "pista": "También, el dibujito de una app", "respuesta": "ICONO" },
+          { "definicion": "Aureola, círculo de luz", "pista": "También, un tipo de nube", "respuesta": "NIMBO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-09",
+    "niveles": {
+      "facil": {
+        "palabra": "ABETO",
+        "pista": "Árbol de Navidad",
+        "filas": [
+          { "definicion": "Verdura con hojas en capas", "pista": "Corazón de ___", "respuesta": "ALCACHOFA" },
+          { "definicion": "Sirve para escribir con tinta", "pista": "Boli", "respuesta": "BOLÍGRAFO" },
+          { "definicion": "Billete para el cine", "pista": "Puerta para entrar", "respuesta": "ENTRADA" },
+          { "definicion": "Asiento sin respaldo", "pista": "Banqueta", "respuesta": "TABURETE" },
+          { "definicion": "Figura de ocho lados", "pista": "La señal de stop lo es", "respuesta": "OCTÓGONO" }
+        ]
+      },
+      "medio": {
+        "palabra": "ADORNO",
+        "pista": "Lo que se cuelga del árbol",
+        "filas": [
+          { "definicion": "Instrumento que se toca soplando", "pista": "Se toca con la boca", "respuesta": "ARMÓNICA" },
+          { "definicion": "Adorno para el pelo", "pista": "Corona pequeña", "respuesta": "DIADEMA" },
+          { "definicion": "Foto de grupo de fin de curso; también, un borde", "pista": "La del colegio", "respuesta": "ORLA" },
+          { "definicion": "Trozo redondo y plano", "pista": "De limón", "respuesta": "RODAJA" },
+          { "definicion": "Número entre el ocho y el diez", "pista": "Tres por tres", "respuesta": "NUEVE" },
+          { "definicion": "Arte japonés de doblar papel", "pista": "Pajaritas de papel", "respuesta": "ORIGAMI" }
+        ]
+      },
+      "dificil": {
+        "palabra": "BOMBILLA",
+        "pista": "Da luz",
+        "filas": [
+          { "definicion": "Que brilla; también, diamante tallado", "pista": "Reluciente", "respuesta": "BRILLANTE" },
+          { "definicion": "Monumento alto de piedra en forma de pilar", "pista": "Como el de la plaza de la Concordia", "respuesta": "OBELISCO" },
+          { "definicion": "Adorno alargado en relieve", "pista": "Remate del techo", "respuesta": "MOLDURA" },
+          { "definicion": "Fuego artificial que se sostiene en la mano", "pista": "Chisporrotea", "respuesta": "BENGALA" },
+          { "definicion": "Que brilla por estar muy caliente", "pista": "Al rojo vivo", "respuesta": "INCANDESCENTE" },
+          { "definicion": "Luz que adorna las calles en las fiestas", "pista": "Farolillo", "respuesta": "LUMINARIA" },
+          { "definicion": "Ventana en el techo", "pista": "Claraboya", "respuesta": "LUCERNARIO" },
+          { "definicion": "Conjunto de luces", "pista": "El de Navidad", "respuesta": "ALUMBRADO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-10",
+    "niveles": {
+      "facil": {
+        "palabra": "LIBRE",
+        "pista": "Que no está preso",
+        "filas": [
+          { "definicion": "Agua que cae de las nubes", "pista": "Moja", "respuesta": "LLUVIA" },
+          { "definicion": "Tarjeta para ir a una fiesta", "pista": "Convite", "respuesta": "INVITACIÓN" },
+          { "definicion": "Sirve para pesar", "pista": "Símbolo de la justicia", "respuesta": "BALANZA" },
+          { "definicion": "Conjunto de flores", "pista": "Lo lanza la novia", "respuesta": "RAMO" },
+          { "definicion": "Obra de arte tallada", "pista": "Estatua", "respuesta": "ESCULTURA" }
+        ]
+      },
+      "medio": {
+        "palabra": "DERECHO",
+        "pista": "Lo que corresponde a cada persona",
+        "filas": [
+          { "definicion": "Obligación", "pista": "Lo contrario de derecho", "respuesta": "DEBER" },
+          { "definicion": "Falta total de libertad", "pista": "Cadenas", "respuesta": "ESCLAVITUD" },
+          { "definicion": "Creencia en lo divino", "pista": "Fe", "respuesta": "RELIGIÓN" },
+          { "definicion": "Enseñanza", "pista": "Derecho de todo niño", "respuesta": "EDUCACIÓN" },
+          { "definicion": "Habitante de un país, con sus derechos", "pista": "Vecino de una ciudad", "respuesta": "CIUDADANO" },
+          { "definicion": "Conjunto de los seres humanos", "pista": "Género humano", "respuesta": "HUMANIDAD" },
+          { "definicion": "Lo que se piensa de algo", "pista": "Libertad de ___", "respuesta": "OPINIÓN" }
+        ]
+      },
+      "dificil": {
+        "palabra": "JUSTICIA",
+        "pista": "Dar a cada uno lo que le corresponde",
+        "filas": [
+          { "definicion": "Experto en derecho", "pista": "Abogado o juez", "respuesta": "JURISTA" },
+          { "definicion": "Ofensa grave", "pista": "Insulto", "respuesta": "ULTRAJE" },
+          { "definicion": "Decisión del juez", "pista": "Fallo", "respuesta": "SENTENCIA" },
+          { "definicion": "Respeto a las ideas ajenas", "pista": "Lo contrario de la intolerancia", "respuesta": "TOLERANCIA" },
+          { "definicion": "Mismos derechos para todos", "pista": "Equidad", "respuesta": "IGUALDAD" },
+          { "definicion": "Conocimiento del bien y del mal", "pista": "Pepito Grillo", "respuesta": "CONCIENCIA" },
+          { "definicion": "Que no se puede quitar ni ceder", "pista": "Derecho ___", "respuesta": "INALIENABLE" },
+          { "definicion": "Perdón de delitos", "pista": "___ Internacional", "respuesta": "AMNISTÍA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-11",
+    "niveles": {
+      "facil": {
+        "palabra": "PICOS",
+        "pista": "Cumbres de las montañas",
+        "filas": [
+          { "definicion": "Ave de la paz", "pista": "Blanca, con una rama de olivo", "respuesta": "PALOMA" },
+          { "definicion": "Número que no es par", "pista": "El tres lo es", "respuesta": "IMPAR" },
+          { "definicion": "Animal que trepa por las rocas", "pista": "Tira al monte", "respuesta": "CABRA" },
+          { "definicion": "Que hace caso", "pista": "Lo contrario de desobediente", "respuesta": "OBEDIENTE" },
+          { "definicion": "Camino estrecho", "pista": "Senda", "respuesta": "SENDERO" }
+        ]
+      },
+      "medio": {
+        "palabra": "MOCHILA",
+        "pista": "Se lleva a la espalda",
+        "filas": [
+          { "definicion": "Persona que sube montañas", "pista": "Alpinista", "respuesta": "MONTAÑERO" },
+          { "definicion": "Mirar a lo lejos desde un lugar alto", "pista": "Escudriñar el horizonte", "respuesta": "OTEAR" },
+          { "definicion": "Casita de madera", "pista": "Refugio en el monte", "respuesta": "CABAÑA" },
+          { "definicion": "Marca que deja el pie", "pista": "Pisada", "respuesta": "HUELLA" },
+          { "definicion": "Bloque de hielo flotante", "pista": "Hundió el Titanic", "respuesta": "ICEBERG" },
+          { "definicion": "Lago pequeño", "pista": "Charca grande", "respuesta": "LAGUNA" },
+          { "definicion": "Altura sobre el nivel del mar", "pista": "Metros sobre el mar", "respuesta": "ALTITUD" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ESCALADA",
+        "pista": "Subida por una pared de roca",
+        "filas": [
+          { "definicion": "Muy empinado", "pista": "Abrupto", "respuesta": "ESCARPADO" },
+          { "definicion": "Guía del Himalaya", "pista": "Ayuda a subir el Everest", "respuesta": "SHERPA" },
+          { "definicion": "Cadena de montañas", "pista": "Los Andes", "respuesta": "CORDILLERA" },
+          { "definicion": "Correaje que sujeta al escalador", "pista": "Se engancha a la cuerda", "respuesta": "ARNÉS" },
+          { "definicion": "Altura pequeña y alargada", "pista": "Colina", "respuesta": "LOMA" },
+          { "definicion": "Montañero de alta montaña", "pista": "Sube los Alpes", "respuesta": "ALPINISTA" },
+          { "definicion": "Precipicio", "pista": "Barranco profundo", "respuesta": "DESPEÑADERO" },
+          { "definicion": "Alud", "pista": "Masa de nieve que cae", "respuesta": "AVALANCHA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-12",
+    "niveles": {
+      "facil": {
+        "palabra": "DULCE",
+        "pista": "Lo contrario de salado",
+        "filas": [
+          { "definicion": "Monstruo que echa fuego", "pista": "San Jorge lo venció", "respuesta": "DRAGÓN" },
+          { "definicion": "Que no es nuevo", "pista": "De segunda mano", "respuesta": "USADO" },
+          { "definicion": "Pariente del conejo que corre mucho", "pista": "Perdió la carrera contra la tortuga", "respuesta": "LIEBRE" },
+          { "definicion": "Camita del bebé", "pista": "Se mece", "respuesta": "CUNA" },
+          { "definicion": "Masa rellena y horneada", "pista": "La gallega", "respuesta": "EMPANADA" }
+        ]
+      },
+      "medio": {
+        "palabra": "MAZAPÁN",
+        "pista": "Dulce de almendra de Toledo",
+        "filas": [
+          { "definicion": "Cítrico pequeño y fácil de pelar", "pista": "Pariente de la naranja", "respuesta": "MANDARINA" },
+          { "definicion": "Licor y semilla de sabor dulce", "pista": "Se toca rascando la botella en los villancicos", "respuesta": "ANÍS" },
+          { "definicion": "Jugo de fruta", "pista": "De naranja", "respuesta": "ZUMO" },
+          { "definicion": "Mosto cocido hasta espesar", "pista": "Jarabe de uva", "respuesta": "ARROPE" },
+          { "definicion": "Tienda de pasteles", "pista": "Confitería", "respuesta": "PASTELERÍA" },
+          { "definicion": "Lo contrario de dulce", "pista": "Sabor del café sin azúcar", "respuesta": "AMARGO" },
+          { "definicion": "Fruta pequeña y anaranjada de primavera", "pista": "Tiene huesos grandes", "respuesta": "NÍSPERO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "POLVORÓN",
+        "pista": "Dulce navideño que se deshace en la boca",
+        "filas": [
+          { "definicion": "Crema de almendra o avellana con azúcar", "pista": "Relleno de bombones", "respuesta": "PRALINÉ" },
+          { "definicion": "Arco formado por dos curvas que se cortan en punta", "pista": "Arco gótico", "respuesta": "OJIVA" },
+          { "definicion": "Bebida alcohólica dulce", "pista": "De hierbas o de café", "respuesta": "LICOR" },
+          { "definicion": "Especia aromática de una orquídea", "pista": "Sabor de helado", "respuesta": "VAINILLA" },
+          { "definicion": "Pintura al aceite", "pista": "Cuadro al ___", "respuesta": "ÓLEO" },
+          { "definicion": "Lo que se obtiene al rallar", "pista": "De limón", "respuesta": "RALLADURA" },
+          { "definicion": "Celebración del santo", "pista": "Día del santo", "respuesta": "ONOMÁSTICA" },
+          { "definicion": "Que alimenta", "pista": "Alimenticio", "respuesta": "NUTRITIVO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-13",
+    "niveles": {
+      "facil": {
+        "palabra": "LUCES",
+        "pista": "Adornan las calles en Navidad",
+        "filas": [
+          { "definicion": "Cítrico verde; también, herramienta para las uñas", "pista": "Pariente del limón", "respuesta": "LIMA" },
+          { "definicion": "Que corre prisa", "pista": "Muy importante y rápido", "respuesta": "URGENTE" },
+          { "definicion": "Animal que camina de lado", "pista": "Tiene pinzas", "respuesta": "CANGREJO" },
+          { "definicion": "Pequeña iglesia en el campo", "pista": "Capilla", "respuesta": "ERMITA" },
+          { "definicion": "Barco que navega bajo el agua", "pista": "Amarillo, según los Beatles", "respuesta": "SUBMARINO" }
+        ]
+      },
+      "medio": {
+        "palabra": "CANDELA",
+        "pista": "Vela",
+        "filas": [
+          { "definicion": "Palito que se enciende al frotarlo", "pista": "Fósforo", "respuesta": "CERILLA" },
+          { "definicion": "Cuando se hace de noche", "pista": "Lo contrario de amanecer", "respuesta": "ANOCHECER" },
+          { "definicion": "Gas de los letreros luminosos", "pista": "Cartel de ___", "respuesta": "NEÓN" },
+          { "definicion": "Brillo breve", "pista": "Chispazo de luz", "respuesta": "DESTELLO" },
+          { "definicion": "Ilusión óptica en el desierto", "pista": "Ver agua donde no la hay", "respuesta": "ESPEJISMO" },
+          { "definicion": "Rayo de luz concentrado", "pista": "Puntero de luz", "respuesta": "LÁSER" },
+          { "definicion": "Luz antes de la salida del sol", "pista": "___ boreal", "respuesta": "AURORA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "LINTERNA",
+        "pista": "Luz portátil",
+        "filas": [
+          { "definicion": "Claridad mental", "pista": "Clarividencia", "respuesta": "LUCIDEZ" },
+          { "definicion": "Despedir rayos de luz o calor", "pista": "Emitir", "respuesta": "IRRADIAR" },
+          { "definicion": "Cualidad de nocturno", "pista": "Con alevosía y ___", "respuesta": "NOCTURNIDAD" },
+          { "definicion": "Oscuro, sombrío", "pista": "Lleno de tinieblas", "respuesta": "TENEBROSO" },
+          { "definicion": "Brillo intenso", "pista": "Magnificencia", "respuesta": "ESPLENDOR" },
+          { "definicion": "Luz muy clara", "pista": "Brillo", "respuesta": "RESPLANDOR" },
+          { "definicion": "Oscuridad total", "pista": "Color negro intenso", "respuesta": "NEGRURA" },
+          { "definicion": "Color rojo de las nubes al amanecer o al atardecer", "pista": "Rojo del cielo", "respuesta": "ARREBOL" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-14",
+    "niveles": {
+      "facil": {
+        "palabra": "MONOS",
+        "pista": "Animales que trepan y comen plátanos",
+        "filas": [
+          { "definicion": "Fruta de piel aterciopelada", "pista": "En almíbar", "respuesta": "MELOCOTÓN" },
+          { "definicion": "Juegos de deportistas de todo el mundo", "pista": "Cada cuatro años", "respuesta": "OLIMPIADAS" },
+          { "definicion": "Parte de atrás del cuello", "pista": "Cogote", "respuesta": "NUCA" },
+          { "definicion": "Mono grande de pelo rojizo", "pista": "Vive en Borneo", "respuesta": "ORANGUTÁN" },
+          { "definicion": "Paraguas para el sol", "pista": "En la playa", "respuesta": "SOMBRILLA" }
+        ]
+      },
+      "medio": {
+        "palabra": "GORILA",
+        "pista": "El mayor de los primates",
+        "filas": [
+          { "definicion": "Pájaro pequeño de ciudad", "pista": "Pía en los tejados", "respuesta": "GORRIÓN" },
+          { "definicion": "Que come de todo", "pista": "Ni carnívoro ni herbívoro", "respuesta": "OMNÍVORO" },
+          { "definicion": "Animal con un cuerno en la nariz", "pista": "Piel gruesa", "respuesta": "RINOCERONTE" },
+          { "definicion": "Copia", "pista": "Lo que hacen los monos", "respuesta": "IMITACIÓN" },
+          { "definicion": "Planta trepadora de la selva", "pista": "Tarzán se colgaba de ellas", "respuesta": "LIANA" },
+          { "definicion": "Río y selva de Sudamérica", "pista": "El río más caudaloso", "respuesta": "AMAZONAS" }
+        ]
+      },
+      "dificil": {
+        "palabra": "PRIMATES",
+        "pista": "Orden de mamíferos al que pertenecemos",
+        "filas": [
+          { "definicion": "Dedo gordo de la mano", "pista": "El oponible", "respuesta": "PULGAR" },
+          { "definicion": "Que recoge frutos", "pista": "Cazador y ___", "respuesta": "RECOLECTOR" },
+          { "definicion": "Impulso natural", "pista": "Lo que guía a los animales", "respuesta": "INSTINTO" },
+          { "definicion": "Mono de cara colorida", "pista": "Hocico rojo y azul", "respuesta": "MANDRIL" },
+          { "definicion": "Mono semejante al ser humano", "pista": "Simio", "respuesta": "ANTROPOIDE" },
+          { "definicion": "Mono pequeño de América", "pista": "Monito diminuto", "respuesta": "TITÍ" },
+          { "definicion": "Cambio de las especies", "pista": "Darwin", "respuesta": "EVOLUCIÓN" },
+          { "definicion": "Mono", "pista": "Antropoide", "respuesta": "SIMIO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-15",
+    "niveles": {
+      "facil": {
+        "palabra": "POLEO",
+        "pista": "Infusión de menta",
+        "filas": [
+          { "definicion": "Se fabrica con madera y en él se escribe", "pista": "Folio", "respuesta": "PAPEL" },
+          { "definicion": "Ocho decenas", "pista": "Entre setenta y noventa", "respuesta": "OCHENTA" },
+          { "definicion": "Primer día de la semana", "pista": "Después del domingo", "respuesta": "LUNES" },
+          { "definicion": "Lo contrario de amigo", "pista": "Rival", "respuesta": "ENEMIGO" },
+          { "definicion": "Cosa", "pista": "Lo que se puede tocar", "respuesta": "OBJETO" }
+        ]
+      },
+      "medio": {
+        "palabra": "TETERA",
+        "pista": "Para servir el té",
+        "filas": [
+          { "definicion": "Taza grande sin asa", "pista": "Para la leche del desayuno", "respuesta": "TAZÓN" },
+          { "definicion": "Para sacar zumo", "pista": "De naranjas", "respuesta": "EXPRIMIDOR" },
+          { "definicion": "Cuadradito de azúcar", "pista": "___ de azúcar", "respuesta": "TERRÓN" },
+          { "definicion": "Momento en que hierve un líquido", "pista": "Cien grados", "respuesta": "EBULLICIÓN" },
+          { "definicion": "Descanso, tranquilidad", "pista": "Lo que da una tila", "respuesta": "RELAJACIÓN" },
+          { "definicion": "Olor agradable", "pista": "Perfume", "respuesta": "AROMA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "INFUSIÓN",
+        "pista": "Té o manzanilla",
+        "filas": [
+          { "definicion": "País del té de las cinco", "pista": "Londres", "respuesta": "INGLATERRA" },
+          { "definicion": "Flor amarilla de primavera", "pista": "Se enamoró de su reflejo", "respuesta": "NARCISO" },
+          { "definicion": "Lo que retiene los posos", "pista": "La bolsita del té", "respuesta": "FILTRO" },
+          { "definicion": "Costumbre, uso", "pista": "A la antigua ___", "respuesta": "USANZA" },
+          { "definicion": "Tetera rusa con hornillo", "pista": "Calienta el agua para el té", "respuesta": "SAMOVAR" },
+          { "definicion": "Sin sabor", "pista": "Soso", "respuesta": "INSÍPIDO" },
+          { "definicion": "De Oriente", "pista": "Asiático", "respuesta": "ORIENTAL" },
+          { "definicion": "Dañino", "pista": "Perjudicial", "respuesta": "NOCIVO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-16",
+    "niveles": {
+      "facil": {
+        "palabra": "NOTAS",
+        "pista": "Do, re, mi, fa, sol…",
+        "filas": [
+          { "definicion": "Fiesta del 25 de diciembre", "pista": "Nochebuena y ___", "respuesta": "NAVIDAD" },
+          { "definicion": "Color marrón amarillento", "pista": "Color de la tierra", "respuesta": "OCRE" },
+          { "definicion": "Instrumento de viento de metal", "pista": "Toca diana", "respuesta": "TROMPETA" },
+          { "definicion": "Artista de circo que hace saltos", "pista": "Equilibrista", "respuesta": "ACRÓBATA" },
+          { "definicion": "Se planta para que crezca una planta", "pista": "Pipa", "respuesta": "SEMILLA" }
+        ]
+      },
+      "medio": {
+        "palabra": "SONATA",
+        "pista": "Obra para uno o dos instrumentos",
+        "filas": [
+          { "definicion": "Pérdida del oído", "pista": "La sufrió Beethoven", "respuesta": "SORDERA" },
+          { "definicion": "Grupo de ocho músicos", "pista": "Conjunto de ocho", "respuesta": "OCTETO" },
+          { "definicion": "Noche del 24 de diciembre", "pista": "Se cena en familia", "respuesta": "NOCHEBUENA" },
+          { "definicion": "Soporte para la partitura", "pista": "Lo usa el músico", "respuesta": "ATRIL" },
+          { "definicion": "Tambor de caja metálica semiesférica", "pista": "Percusión de orquesta", "respuesta": "TIMBAL" },
+          { "definicion": "Poner a punto un instrumento", "pista": "Ajustar el tono", "respuesta": "AFINAR" }
+        ]
+      },
+      "dificil": {
+        "palabra": "MELODÍAS",
+        "pista": "Sucesiones de sonidos agradables",
+        "filas": [
+          { "definicion": "Aparato que marca el compás", "pista": "Tic, tac musical", "respuesta": "METRÓNOMO" },
+          { "definicion": "Parte de la canción que se repite", "pista": "La que todos cantan", "respuesta": "ESTRIBILLO" },
+          { "definicion": "Texto de una ópera", "pista": "Guion cantado", "respuesta": "LIBRETO" },
+          { "definicion": "Poema lírico de exaltación", "pista": "«A la Alegría»", "respuesta": "ODA" },
+          { "definicion": "Quien dirige la orquesta", "pista": "Lleva batuta", "respuesta": "DIRECTOR" },
+          { "definicion": "Fuerza, energía", "pista": "Brío", "respuesta": "ÍMPETU" },
+          { "definicion": "Combinación agradable de sonidos", "pista": "Equilibrio", "respuesta": "ARMONÍA" },
+          { "definicion": "Voz femenina más aguda", "pista": "Cantante de ópera", "respuesta": "SOPRANO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-17",
+    "niveles": {
+      "facil": {
+        "palabra": "VUELO",
+        "pista": "Lo que hace un avión",
+        "filas": [
+          { "definicion": "Tira de tela para cubrir heridas", "pista": "Tapa los ojos en la gallinita ciega", "respuesta": "VENDA" },
+          { "definicion": "Ciudad grande", "pista": "Metrópoli", "respuesta": "URBE" },
+          { "definicion": "Parte de atrás del cuerpo", "pista": "Va de los hombros a la cintura", "respuesta": "ESPALDA" },
+          { "definicion": "Envase de metal", "pista": "De conservas", "respuesta": "LATA" },
+          { "definicion": "Contrario", "pista": "Lo que está enfrente", "respuesta": "OPUESTO" }
+        ]
+      },
+      "medio": {
+        "palabra": "HÉLICE",
+        "pista": "Gira y mueve el avión o el barco",
+        "filas": [
+          { "definicion": "Aparato volador con aspas", "pista": "Puede quedarse quieto en el aire", "respuesta": "HELICÓPTERO" },
+          { "definicion": "Distancia entre las puntas de las alas", "pista": "De punta a punta", "respuesta": "ENVERGADURA" },
+          { "definicion": "Nave que va y vuelve del espacio", "pista": "Transbordador", "respuesta": "LANZADERA" },
+          { "definicion": "Ausencia de gravedad", "pista": "Flotar en el espacio", "respuesta": "INGRAVIDEZ" },
+          { "definicion": "Juguete que vuela con el viento", "pista": "Se sujeta con un hilo", "respuesta": "COMETA" },
+          { "definicion": "Capa de la atmósfera por encima de las nubes", "pista": "Allí está la capa de ozono", "respuesta": "ESTRATOSFERA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "AERONAVE",
+        "pista": "Vehículo que vuela",
+        "filas": [
+          { "definicion": "Llegada del avión al suelo", "pista": "Toma de tierra", "respuesta": "ATERRIZAJE" },
+          { "definicion": "Grupo de aviones", "pista": "Formación aérea", "respuesta": "ESCUADRILLA" },
+          { "definicion": "Motor a reacción", "pista": "Avión de chorro", "respuesta": "REACTOR" },
+          { "definicion": "Moverse de un lado a otro", "pista": "Balancearse", "respuesta": "OSCILAR" },
+          { "definicion": "Presencia de nubes", "pista": "Cielo cubierto", "respuesta": "NUBOSIDAD" },
+          { "definicion": "Pequeño aeropuerto", "pista": "Pista de aterrizaje", "respuesta": "AERÓDROMO" },
+          { "definicion": "Rapidez", "pista": "Kilómetros por hora", "respuesta": "VELOCIDAD" },
+          { "definicion": "Acción de subir", "pista": "Ascenso", "respuesta": "ELEVACIÓN" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-18",
+    "niveles": {
+      "facil": {
+        "palabra": "ARROZ",
+        "pista": "Base de la paella",
+        "filas": [
+          { "definicion": "Obrero que construye con ladrillos", "pista": "Viene del árabe, como «arroz»", "respuesta": "ALBAÑIL" },
+          { "definicion": "Cilindro para estirar masa o para pintar", "pista": "Rueda de pintor", "respuesta": "RODILLO" },
+          { "definicion": "Esquina interior", "pista": "Castigado en el ___", "respuesta": "RINCÓN" },
+          { "definicion": "Viaje lleno de aventuras", "pista": "El poema de Ulises", "respuesta": "ODISEA" },
+          { "definicion": "Animal astuto de cola larga", "pista": "Raposo", "respuesta": "ZORRO" }
+        ]
+      },
+      "medio": {
+        "palabra": "AZOTEA",
+        "pista": "Terraza en lo alto de una casa",
+        "filas": [
+          { "definicion": "Depósito de agua de lluvia", "pista": "Cisterna", "respuesta": "ALJIBE" },
+          { "definicion": "Mercado árabe", "pista": "Allí se regatea", "respuesta": "ZOCO" },
+          { "definicion": "Expresa un deseo; viene del árabe", "pista": "¡___ llueva!", "respuesta": "OJALÁ" },
+          { "definicion": "Precio fijado", "pista": "Tabla de precios", "respuesta": "TARIFA" },
+          { "definicion": "Bebida mágica o medicinal", "pista": "Poción", "respuesta": "ELIXIR" },
+          { "definicion": "Fibra blanca para tejer", "pista": "Planta de la camiseta", "respuesta": "ALGODÓN" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ALCANCÍA",
+        "pista": "Hucha",
+        "filas": [
+          { "definicion": "Precursora de la química", "pista": "Buscaba la piedra filosofal", "respuesta": "ALQUIMIA" },
+          { "definicion": "Instrumento de cuerda de origen árabe", "pista": "Parecido a la bandurria", "respuesta": "LAÚD" },
+          { "definicion": "Número", "pista": "Dígito", "respuesta": "CIFRA" },
+          { "definicion": "Canal de riego", "pista": "Zanja para el agua", "respuesta": "ACEQUIA" },
+          { "definicion": "Capa brillante del interior de algunas conchas", "pista": "Madreperla", "respuesta": "NÁCAR" },
+          { "definicion": "Punto del cielo justo sobre el observador", "pista": "Lo contrario del nadir", "respuesta": "CENIT" },
+          { "definicion": "Insigne, célebre", "pista": "Distinguido", "respuesta": "ILUSTRE" },
+          { "definicion": "Calendario con información de cada día", "pista": "Calendario anual", "respuesta": "ALMANAQUE" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-19",
+    "niveles": {
+      "facil": {
+        "palabra": "BELÉN",
+        "pista": "Se monta en Navidad con figuritas",
+        "filas": [
+          { "definicion": "Tripa", "pista": "Donde está el ombligo", "respuesta": "BARRIGA" },
+          { "definicion": "Mueble con baldas para libros", "pista": "Librería", "respuesta": "ESTANTERÍA" },
+          { "definicion": "Legumbre pequeña y redonda", "pista": "Si quieres las tomas y si no las dejas", "respuesta": "LENTEJAS" },
+          { "definicion": "Habitante del Ártico", "pista": "Vive en un iglú", "respuesta": "ESQUIMAL" },
+          { "definicion": "Palabra con la que se llama a alguien", "pista": "Va antes del apellido", "respuesta": "NOMBRE" }
+        ]
+      },
+      "medio": {
+        "palabra": "PESEBRE",
+        "pista": "Comedero de los animales, donde nació el Niño",
+        "filas": [
+          { "definicion": "Tallo seco de cereal", "pista": "Cama del pesebre", "respuesta": "PAJA" },
+          { "definicion": "País al que huyó la Sagrada Familia", "pista": "País de las pirámides", "respuesta": "EGIPTO" },
+          { "definicion": "Digno de veneración", "pista": "Santo", "respuesta": "SAGRADO" },
+          { "definicion": "Lugar cubierto para el ganado", "pista": "Cuadra", "respuesta": "ESTABLO" },
+          { "definicion": "Acompaña a la mula en el portal", "pista": "Toro castrado", "respuesta": "BUEY" },
+          { "definicion": "Planta aromática de flores azules", "pista": "Hierba de los peregrinos", "respuesta": "ROMERO" },
+          { "definicion": "Árbol australiano de hojas aromáticas", "pista": "Lo comen los koalas", "respuesta": "EUCALIPTO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "PASTORES",
+        "pista": "Fueron a adorar al Niño",
+        "filas": [
+          { "definicion": "Piel preparada para escribir", "pista": "Rollo antiguo", "respuesta": "PERGAMINO" },
+          { "definicion": "Culto de reverencia", "pista": "La de los Reyes Magos", "respuesta": "ADORACIÓN" },
+          { "definicion": "Ruego", "pista": "Petición humilde", "respuesta": "SÚPLICA" },
+          { "definicion": "Traslado del ganado según la estación", "pista": "Por la cañada real", "respuesta": "TRASHUMANCIA" },
+          { "definicion": "Artesano del oro y la plata", "pista": "Joyero", "respuesta": "ORFEBRE" },
+          { "definicion": "Grupo de ovejas", "pista": "Lo cuida el pastor", "respuesta": "REBAÑO" },
+          { "definicion": "Cruce de caminos; también, dilema", "pista": "Bifurcación", "respuesta": "ENCRUCIJADA" },
+          { "definicion": "Canto religioso", "pista": "Los del rey David", "respuesta": "SALMO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-20",
+    "niveles": {
+      "facil": {
+        "palabra": "CANTO",
+        "pista": "Lo que hace el pájaro",
+        "filas": [
+          { "definicion": "Reptil de boca enorme", "pista": "Lágrimas de ___", "respuesta": "COCODRILO" },
+          { "definicion": "Sirve para abrir latas", "pista": "Utensilio de cocina", "respuesta": "ABRELATAS" },
+          { "definicion": "Esposa del hijo", "pista": "Hija política", "respuesta": "NUERA" },
+          { "definicion": "Articulación entre la pierna y el pie", "pista": "Se tuerce", "respuesta": "TOBILLO" },
+          { "definicion": "Que olvida las cosas con facilidad", "pista": "Despistado", "respuesta": "OLVIDADIZO" }
+        ]
+      },
+      "medio": {
+        "palabra": "PANDERO",
+        "pista": "Pandereta grande",
+        "filas": [
+          { "definicion": "Ave que se asa en Navidad", "pista": "Gluglú", "respuesta": "PAVO" },
+          { "definicion": "Burro", "pista": "Rebuzna", "respuesta": "ASNO" },
+          { "definicion": "Papá ___", "pista": "Trae regalos el 25", "respuesta": "NOEL" },
+          { "definicion": "Instrumento de viento popular", "pista": "Parecido a la chirimía", "respuesta": "DULZAINA" },
+          { "definicion": "Ruido muy fuerte", "pista": "Estrépito", "respuesta": "ESTRUENDO" },
+          { "definicion": "Toque rápido de campanas", "pista": "Repiqueteo", "respuesta": "REPIQUE" },
+          { "definicion": "Pequeño órgano que se toca con manivela", "pista": "Lo toca el organillero", "respuesta": "ORGANILLO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ZAMBOMBA",
+        "pista": "Instrumento navideño que se frota",
+        "filas": [
+          { "definicion": "Muchacho; también, pastor joven", "pista": "Chaval", "respuesta": "ZAGAL" },
+          { "definicion": "Canción de cuna", "pista": "Nana", "respuesta": "ARRORRÓ" },
+          { "definicion": "Tubo de papel que se desenrolla al soplar", "pista": "Juguete de cotillón", "respuesta": "MATASUEGRAS" },
+          { "definicion": "Instrumento de cuerda pequeño", "pista": "Se toca con púa", "respuesta": "BANDURRIA" },
+          { "definicion": "Que se exhibe con lujo", "pista": "Aparatoso", "respuesta": "OSTENTOSO" },
+          { "definicion": "Recipiente para machacar", "pista": "Almirez de madera o de piedra", "respuesta": "MORTERO" },
+          { "definicion": "Ruido de mucha gente", "pista": "Jaleo", "respuesta": "BULLICIO" },
+          { "definicion": "Expresión de júbilo por una buena noticia", "pista": "¡Qué alegría!", "respuesta": "ALBRICIAS" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-21",
+    "niveles": {
+      "facil": {
+        "palabra": "BRUMA",
+        "pista": "Niebla del mar",
+        "filas": [
+          { "definicion": "Recipiente para el agua o el vino", "pista": "Tiene tapón", "respuesta": "BOTELLA" },
+          { "definicion": "Caída al deslizarse", "pista": "Pisar hielo y caer", "respuesta": "RESBALÓN" },
+          { "definicion": "Persona que usa algo", "pista": "Nombre de ___ y contraseña", "respuesta": "USUARIO" },
+          { "definicion": "Tela gruesa para abrigarse en la cama", "pista": "Frazada", "respuesta": "MANTA" },
+          { "definicion": "Doce meses", "pista": "Feliz ___ nuevo", "respuesta": "AÑO" }
+        ]
+      },
+      "medio": {
+        "palabra": "HELADA",
+        "pista": "Cuando el agua se congela por el frío",
+        "filas": [
+          { "definicion": "Espasmo que se quita con un susto", "pista": "Hip, hip", "respuesta": "HIPO" },
+          { "definicion": "Colcha gruesa de plumas", "pista": "Nórdico", "respuesta": "EDREDÓN" },
+          { "definicion": "Habitante de Laponia", "pista": "De la tierra de Papá Noel", "respuesta": "LAPÓN" },
+          { "definicion": "Zona de altas presiones", "pista": "Trae buen tiempo", "respuesta": "ANTICICLÓN" },
+          { "definicion": "Lo contrario de la noche", "pista": "Veinticuatro horas", "respuesta": "DÍA" },
+          { "definicion": "Aire que se expulsa al respirar", "pista": "En el frío se ve como vaho", "respuesta": "ALIENTO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "ESCARCHA",
+        "pista": "Hielo fino del amanecer",
+        "filas": [
+          { "definicion": "Momento en que el día y la noche duran lo mismo", "pista": "En primavera y en otoño", "respuesta": "EQUINOCCIO" },
+          { "definicion": "Día más corto o más largo del año", "pista": "El de invierno es hoy", "respuesta": "SOLSTICIO" },
+          { "definicion": "Parte de la nevera donde se hace hielo", "pista": "Frío bajo cero", "respuesta": "CONGELADOR" },
+          { "definicion": "Paralizado por el frío", "pista": "Helado de frío", "respuesta": "ATERIDO" },
+          { "definicion": "Muy severo", "pista": "Invierno ___", "respuesta": "RIGUROSO" },
+          { "definicion": "Pedazo de hielo largo y puntiagudo", "pista": "Cuelga del tejado", "respuesta": "CARÁMBANO" },
+          { "definicion": "Pasar el invierno dormido", "pista": "Lo hace el oso", "respuesta": "HIBERNAR" },
+          { "definicion": "Caída de la tarde", "pista": "Ocaso", "respuesta": "ATARDECER" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-22",
+    "niveles": {
+      "facil": {
+        "palabra": "BOMBO",
+        "pista": "De él salen las bolas de la lotería",
+        "filas": [
+          { "definicion": "Ave nocturna de ojos grandes", "pista": "Ulula", "respuesta": "BÚHO" },
+          { "definicion": "Que tiene mucho que hacer", "pista": "Así está el baño si hay alguien", "respuesta": "OCUPADO" },
+          { "definicion": "Arte de los sonidos", "pista": "Canciones y melodías", "respuesta": "MÚSICA" },
+          { "definicion": "Niño muy pequeño", "pista": "Toma biberón", "respuesta": "BEBÉ" },
+          { "definicion": "Precio rebajado", "pista": "Promoción", "respuesta": "OFERTA" }
+        ]
+      },
+      "medio": {
+        "palabra": "DÉCIMO",
+        "pista": "Billete de lotería",
+        "filas": [
+          { "definicion": "Lo que se pide al soplar las velas", "pista": "Anhelo", "respuesta": "DESEO" },
+          { "definicion": "Sentimiento intenso", "pista": "Nervios de alegría", "respuesta": "EMOCIÓN" },
+          { "definicion": "Sin pelo", "pista": "El de los anuncios de la lotería", "respuesta": "CALVO" },
+          { "definicion": "Dinero que se recibe", "pista": "Lo contrario de gasto", "respuesta": "INGRESO" },
+          { "definicion": "Acción de levantarse muy temprano", "pista": "Para hacer cola en la administración", "respuesta": "MADRUGÓN" },
+          { "definicion": "Envite del resto en el mus", "pista": "Echar un ___", "respuesta": "ÓRDAGO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "PREMIADO",
+        "pista": "Que ha ganado un premio",
+        "filas": [
+          { "definicion": "Conjunto de premios menores de la lotería", "pista": "Los premios pequeños del sorteo", "respuesta": "PEDREA" },
+          { "definicion": "Premio que devuelve lo jugado", "pista": "Recuperas lo que pagaste", "respuesta": "REINTEGRO" },
+          { "definicion": "Recuento de votos o de números", "pista": "Comprobación", "respuesta": "ESCRUTINIO" },
+          { "definicion": "Persona con millones", "pista": "Rico", "respuesta": "MILLONARIO" },
+          { "definicion": "Que no se espera", "pista": "Imprevisto", "respuesta": "INESPERADO" },
+          { "definicion": "Que tiene suerte", "pista": "Suertudo", "respuesta": "AFORTUNADO" },
+          { "definicion": "Gasto excesivo", "pista": "Despilfarro", "respuesta": "DERROCHE" },
+          { "definicion": "Abundancia de riquezas", "pista": "Lujo", "respuesta": "OPULENCIA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-23",
+    "niveles": {
+      "facil": {
+        "palabra": "GAMBA",
+        "pista": "Marisco rosado que se pela",
+        "filas": [
+          { "definicion": "Flor amarilla que mira al sol", "pista": "Da pipas", "respuesta": "GIRASOL" },
+          { "definicion": "Libro de mapas", "pista": "También, el gigante que sostiene el mundo", "respuesta": "ATLAS" },
+          { "definicion": "Insecto que zumba", "pista": "Se posa en la comida", "respuesta": "MOSCA" },
+          { "definicion": "Asiento del parque; también, donde se guarda el dinero", "pista": "Para sentarse", "respuesta": "BANCO" },
+          { "definicion": "Color del limón", "pista": "Color del sol", "respuesta": "AMARILLO" }
+        ]
+      },
+      "medio": {
+        "palabra": "MARISCO",
+        "pista": "Gambas, almejas y mejillones",
+        "filas": [
+          { "definicion": "Molusco negro de concha alargada", "pista": "Al vapor", "respuesta": "MEJILLÓN" },
+          { "definicion": "Pez grande de carne roja", "pista": "En lata", "respuesta": "ATÚN" },
+          { "definicion": "Pez de cabeza enorme", "pista": "Para la sopa de pescado", "respuesta": "RAPE" },
+          { "definicion": "Isla pequeña", "pista": "Peñasco en el mar", "respuesta": "ISLOTE" },
+          { "definicion": "Molusco parecido al calamar", "pista": "Da tinta", "respuesta": "SEPIA" },
+          { "definicion": "Cangrejo grande de mar", "pista": "Se come en Navidad", "respuesta": "CENTOLLO" },
+          { "definicion": "Última letra del alfabeto griego", "pista": "Ácidos ___ 3 del pescado azul", "respuesta": "OMEGA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "LANGOSTA",
+        "pista": "Crustáceo de lujo",
+        "filas": [
+          { "definicion": "Pez de mar muy apreciado", "pista": "Róbalo", "respuesta": "LUBINA" },
+          { "definicion": "Lugar donde atracan las barcas", "pista": "Muelle pequeño", "respuesta": "ATRACADERO" },
+          { "definicion": "Cangrejo de mar de patas aplanadas", "pista": "Marisco gallego", "respuesta": "NÉCORA" },
+          { "definicion": "Barco grande de vela antiguo", "pista": "El del tesoro español", "respuesta": "GALEÓN" },
+          { "definicion": "Tapa que cierra la concha de algunos moluscos", "pista": "Tapadera del caracol", "respuesta": "OPÉRCULO" },
+          { "definicion": "Conserva en sal", "pista": "Bacalao en ___", "respuesta": "SALAZÓN" },
+          { "definicion": "Almeja pequeña de concha fina", "pista": "Típica del Mediterráneo", "respuesta": "TELLINA" },
+          { "definicion": "Cría de la anguila", "pista": "Carísima en Navidad", "respuesta": "ANGULA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-24",
+    "niveles": {
+      "facil": {
+        "palabra": "GALLO",
+        "pista": "Misa del ___ (la de Nochebuena)",
+        "filas": [
+          { "definicion": "Lentes para ver mejor", "pista": "Se apoyan en la nariz", "respuesta": "GAFAS" },
+          { "definicion": "Sube y baja por el edificio", "pista": "Elevador", "respuesta": "ASCENSOR" },
+          { "definicion": "Fuego; también, animal de los Andes", "pista": "Del fuego o de Perú", "respuesta": "LLAMA" },
+          { "definicion": "Cerdito que aún mama", "pista": "Cochinillo", "respuesta": "LECHÓN" },
+          { "definicion": "Meta, finalidad; también, la lente de la cámara", "pista": "Propósito", "respuesta": "OBJETIVO" }
+        ]
+      },
+      "medio": {
+        "palabra": "FAMILIA",
+        "pista": "Se reúne en Nochebuena",
+        "filas": [
+          { "definicion": "Mensaje de buenos deseos", "pista": "Tarjeta de Navidad", "respuesta": "FELICITACIÓN" },
+          { "definicion": "Clima de un lugar o de una reunión", "pista": "Buen ___ festivo", "respuesta": "AMBIENTE" },
+          { "definicion": "Tela que cubre la mesa", "pista": "Se pone para comer", "respuesta": "MANTEL" },
+          { "definicion": "Ámbito privado y familiar", "pista": "En la ___ del hogar", "respuesta": "INTIMIDAD" },
+          { "definicion": "Juego de azar con números", "pista": "La de Navidad", "respuesta": "LOTERÍA" },
+          { "definicion": "Resina aromática que se quema", "pista": "Uno de los regalos de los Magos", "respuesta": "INCIENSO" },
+          { "definicion": "Recibimiento, hospitalidad", "pista": "Bienvenida", "respuesta": "ACOGIDA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "CHIMENEA",
+        "pista": "Por ella baja Papá Noel",
+        "filas": [
+          { "definicion": "Comida a la que se invita", "pista": "Banquete", "respuesta": "CONVITE" },
+          { "definicion": "Polvo negro que deja el humo", "pista": "Mancha la chimenea", "respuesta": "HOLLÍN" },
+          { "definicion": "Perdón de una pena", "pista": "El del pavo en EE. UU.", "respuesta": "INDULTO" },
+          { "definicion": "Embutido de sangre", "pista": "De Burgos", "respuesta": "MORCILLA" },
+          { "definicion": "Muy afectuoso", "pista": "Cálido, íntimo", "respuesta": "ENTRAÑABLE" },
+          { "definicion": "Relación de novios", "pista": "Antes de la boda", "respuesta": "NOVIAZGO" },
+          { "definicion": "Que hace espuma", "pista": "Vino con burbujas", "respuesta": "ESPUMOSO" },
+          { "definicion": "Hierro para avivar el fuego", "pista": "Remueve las brasas", "respuesta": "ATIZADOR" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-25",
+    "niveles": {
+      "facil": {
+        "palabra": "RENOS",
+        "pista": "Tiran del trineo de Papá Noel",
+        "filas": [
+          { "definicion": "Sonido molesto", "pista": "Jaleo", "respuesta": "RUIDO" },
+          { "definicion": "Ayudante de Papá Noel", "pista": "Duende de orejas puntiagudas", "respuesta": "ELFO" },
+          { "definicion": "Nube grande y oscura", "pista": "Anuncia tormenta", "respuesta": "NUBARRÓN" },
+          { "definicion": "Mamífero con pico de pato que pone huevos", "pista": "Animal australiano", "respuesta": "ORNITORRINCO" },
+          { "definicion": "Zona a la que no llega el sol", "pista": "La que da un árbol", "respuesta": "SOMBRA" }
+        ]
+      },
+      "medio": {
+        "palabra": "TRINEO",
+        "pista": "Vehículo que se desliza sobre la nieve",
+        "filas": [
+          { "definicion": "Pastel de cumpleaños", "pista": "Con velas", "respuesta": "TARTA" },
+          { "definicion": "Ruido al respirar dormido", "pista": "Lo hace quien ronca", "respuesta": "RONQUIDO" },
+          { "definicion": "Alfiler con cierre", "pista": "Sujeta la tela sin pinchar", "respuesta": "IMPERDIBLE" },
+          { "definicion": "Camiseta de punto", "pista": "Polo", "respuesta": "NIQUI" },
+          { "definicion": "Papel que envuelve un regalo", "pista": "Se rompe al abrir el regalo", "respuesta": "ENVOLTORIO" },
+          { "definicion": "Médico de oído, nariz y garganta", "pista": "Especialista en ORL", "respuesta": "OTORRINO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "NAVIDEÑO",
+        "pista": "Propio de la Navidad",
+        "filas": [
+          { "definicion": "Nacimiento de Jesús", "pista": "Navidad", "respuesta": "NATIVIDAD" },
+          { "definicion": "Regalo o atención con que se obsequia", "pista": "Obsequio", "respuesta": "AGASAJO" },
+          { "definicion": "Canción de Navidad", "pista": "«Los peces en el río»", "respuesta": "VILLANCICO" },
+          { "definicion": "Del invierno", "pista": "Propio del frío", "respuesta": "INVERNAL" },
+          { "definicion": "Ser fantástico y travieso", "pista": "Espíritu de la casa", "respuesta": "DUENDE" },
+          { "definicion": "Tira brillante de adorno", "pista": "Guirnalda de colores", "respuesta": "ESPUMILLÓN" },
+          { "definicion": "Cursilería, cosa sosa", "pista": "Melindre", "respuesta": "ÑOÑERÍA" },
+          { "definicion": "Que llega en buen momento", "pista": "Conveniente", "respuesta": "OPORTUNO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-26",
+    "niveles": {
+      "facil": {
+        "palabra": "SALSA",
+        "pista": "Acompaña a la pasta",
+        "filas": [
+          { "definicion": "Lo que pisamos", "pista": "Se friega", "respuesta": "SUELO" },
+          { "definicion": "Hierro muy duro", "pista": "Metal de los cuchillos", "respuesta": "ACERO" },
+          { "definicion": "Pila del baño para lavarse las manos", "pista": "Tiene grifo", "respuesta": "LAVABO" },
+          { "definicion": "Ausencia de ruido", "pista": "¡Shhh!", "respuesta": "SILENCIO" },
+          { "definicion": "Carretera de varios carriles", "pista": "Hay peaje", "respuesta": "AUTOPISTA" }
+        ]
+      },
+      "medio": {
+        "palabra": "CANELÓN",
+        "pista": "Pasta enrollada y rellena",
+        "filas": [
+          { "definicion": "Recipiente pequeño con mango", "pista": "Para calentar la leche", "respuesta": "CAZO" },
+          { "definicion": "Verdura de tallos largos", "pista": "Va en el caldo", "respuesta": "APIO" },
+          { "definicion": "Raíz blanca comestible", "pista": "Hortaliza del cocido", "respuesta": "NABO" },
+          { "definicion": "Hierba aromática", "pista": "Condimento francés", "respuesta": "ESTRAGÓN" },
+          { "definicion": "Pasta en capas con bechamel", "pista": "La favorita de Garfield", "respuesta": "LASAÑA" },
+          { "definicion": "Guiso de jarrete de ternera", "pista": "Plato italiano", "respuesta": "OSOBUCO" },
+          { "definicion": "Pastel alargado relleno de crema o chocolate", "pista": "Bollo de crema", "respuesta": "NAPOLITANA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "BECHAMEL",
+        "pista": "Salsa blanca de leche y harina",
+        "filas": [
+          { "definicion": "Recipiente plano para servir", "pista": "La lleva el camarero", "respuesta": "BANDEJA" },
+          { "definicion": "Lo que da cuerpo a una salsa", "pista": "Como la maicena", "respuesta": "ESPESANTE" },
+          { "definicion": "Leche cuajada que se toma de postre", "pista": "Con miel", "respuesta": "CUAJADA" },
+          { "definicion": "Cocinar en el horno", "pista": "Asar", "respuesta": "HORNEAR" },
+          { "definicion": "Restaurante de carnes a la brasa", "pista": "Cordero al ___", "respuesta": "ASADOR" },
+          { "definicion": "Grasa de la leche", "pista": "Se unta en la tostada", "respuesta": "MANTEQUILLA" },
+          { "definicion": "Mezcla de líquidos que no se combinan solos", "pista": "Como la mayonesa", "respuesta": "EMULSIÓN" },
+          { "definicion": "Garbanzo, lenteja o judía", "pista": "Fruto en vaina", "respuesta": "LEGUMBRE" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-27",
+    "niveles": {
+      "facil": {
+        "palabra": "VIRUS",
+        "pista": "Microbio que causa la gripe",
+        "filas": [
+          { "definicion": "Flor morada pequeña; también, ese color", "pista": "Color entre el azul y el rojo", "respuesta": "VIOLETA" },
+          { "definicion": "Tubo del aparato digestivo", "pista": "Tripas", "respuesta": "INTESTINO" },
+          { "definicion": "Pájaro de canto bonito", "pista": "Canta de noche", "respuesta": "RUISEÑOR" },
+          { "definicion": "País cuya capital es Montevideo", "pista": "Vecino de Argentina", "respuesta": "URUGUAY" },
+          { "definicion": "Día anterior al domingo", "pista": "Fin de semana", "respuesta": "SÁBADO" }
+        ]
+      },
+      "medio": {
+        "palabra": "VACUNA",
+        "pista": "Protege contra enfermedades",
+        "filas": [
+          { "definicion": "Sustancia necesaria para el cuerpo", "pista": "La C está en la naranja", "respuesta": "VITAMINA" },
+          { "definicion": "Prueba de sangre", "pista": "Se hace en el laboratorio", "respuesta": "ANÁLISIS" },
+          { "definicion": "Transmisión de una enfermedad", "pista": "Se evita con mascarilla", "respuesta": "CONTAGIO" },
+          { "definicion": "Herida que no cicatriza", "pista": "De estómago", "respuesta": "ÚLCERA" },
+          { "definicion": "Ganas de vomitar", "pista": "Mareo", "respuesta": "NÁUSEA" },
+          { "definicion": "Remedio contra un veneno", "pista": "Contraveneno", "respuesta": "ANTÍDOTO" }
+        ]
+      },
+      "dificil": {
+        "palabra": "MICROBIO",
+        "pista": "Ser vivo diminuto",
+        "filas": [
+          { "definicion": "Tapa la nariz y la boca", "pista": "Protege del contagio", "respuesta": "MASCARILLA" },
+          { "definicion": "Entrada de gérmenes en el cuerpo", "pista": "Se cura con antibiótico", "respuesta": "INFECCIÓN" },
+          { "definicion": "Variante de un microbio; también, tronco de la vid", "pista": "Nueva ___ del virus", "respuesta": "CEPA" },
+          { "definicion": "Enfermedad que transmiten los perros", "pista": "Pasteur creó su vacuna", "respuesta": "RABIA" },
+          { "definicion": "Acción de observar", "pista": "Se hace al microscopio", "respuesta": "OBSERVACIÓN" },
+          { "definicion": "Microorganismo de una sola célula", "pista": "Las hay buenas y malas", "respuesta": "BACTERIA" },
+          { "definicion": "Tiempo antes de que aparezcan los síntomas", "pista": "Periodo de ___", "respuesta": "INCUBACIÓN" },
+          { "definicion": "Ser vivo", "pista": "Cuerpo de un ser vivo", "respuesta": "ORGANISMO" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-28",
+    "niveles": {
+      "facil": {
+        "palabra": "BROMA",
+        "pista": "Se gasta el 28 de diciembre",
+        "filas": [
+          { "definicion": "Pieza que cubre el suelo", "pista": "Se pisa", "respuesta": "BALDOSA" },
+          { "definicion": "Pintura o foto de una persona", "pista": "La Mona Lisa lo es", "respuesta": "RETRATO" },
+          { "definicion": "Animal que pone huevos", "pista": "La gallina lo es", "respuesta": "OVÍPARO" },
+          { "definicion": "Gira con el viento y muele el grano", "pista": "Don Quijote lo confundió con un gigante", "respuesta": "MOLINO" },
+          { "definicion": "Electrodoméstico que absorbe el polvo", "pista": "Robot de limpieza", "respuesta": "ASPIRADORA" }
+        ]
+      },
+      "medio": {
+        "palabra": "ENGAÑO",
+        "pista": "Lo que hace el mentiroso",
+        "filas": [
+          { "definicion": "Misterio", "pista": "Acertijo", "respuesta": "ENIGMA" },
+          { "definicion": "Broma que se gasta a los nuevos", "pista": "La sufren los novatos", "respuesta": "NOVATADA" },
+          { "definicion": "Burla, broma", "pista": "Tomarse algo a ___", "respuesta": "GUASA" },
+          { "definicion": "Habilidad para engañar", "pista": "Picardía", "respuesta": "ASTUCIA" },
+          { "definicion": "Tubérculo tropical comestible", "pista": "Parecido a la batata", "respuesta": "ÑAME" },
+          { "definicion": "Idea graciosa", "pista": "Salida ingeniosa", "respuesta": "OCURRENCIA" }
+        ]
+      },
+      "dificil": {
+        "palabra": "INOCENTE",
+        "pista": "Quien cae en la broma",
+        "filas": [
+          { "definicion": "Que tiene ingenio", "pista": "Agudo", "respuesta": "INGENIOSO" },
+          { "definicion": "Tonto", "pista": "Ignorante y terco", "respuesta": "NECIO" },
+          { "definicion": "Escondido", "pista": "Que no se ve", "respuesta": "OCULTO" },
+          { "definicion": "Sencillo, sin malicia", "pista": "Ingenuo", "respuesta": "CÁNDIDO" },
+          { "definicion": "Que engaña a otros", "pista": "Timador", "respuesta": "EMBAUCADOR" },
+          { "definicion": "Cosa sin importancia", "pista": "Fruslería", "respuesta": "NADERÍA" },
+          { "definicion": "___ de pelo", "pista": "Burla", "respuesta": "TOMADURA" },
+          { "definicion": "Engaño hábil", "pista": "Ardid", "respuesta": "ESTRATAGEMA" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-29",
+    "niveles": {
+      "facil": {
+        "palabra": "FECHA",
+        "pista": "Día, mes y año",
+        "filas": [
+          { "definicion": "Instrumento de viento con agujeros", "pista": "La del flautista de Hamelín", "respuesta": "FLAUTA" },
+          { "definicion": "Dirige al equipo", "pista": "Míster", "respuesta": "ENTRENADOR" },
+          { "definicion": "Parte del mueble que se abre tirando", "pista": "El de la mesilla", "respuesta": "CAJÓN" },
+          { "definicion": "Terreno donde se cultivan verduras", "pista": "Huerta pequeña", "respuesta": "HUERTO" },
+          { "definicion": "Dolor muscular tras el ejercicio", "pista": "Al día siguiente del gimnasio", "respuesta": "AGUJETAS" }
+        ]
+      },
+      "medio": {
+        "palabra": "AGENDA",
+        "pista": "Libreta para apuntar citas",
+        "filas": [
+          { "definicion": "Día en que se cumplen años de algo", "pista": "Bodas de oro", "respuesta": "ANIVERSARIO" },
+          { "definicion": "Lugar para hacer ejercicio", "pista": "Gym", "respuesta": "GIMNASIO" },
+          { "definicion": "Acontecimiento que se recuerda en su fecha", "pista": "Aniversario de un hecho", "respuesta": "EFEMÉRIDE" },
+          { "definicion": "Última noche del año", "pista": "Se toman las uvas", "respuesta": "NOCHEVIEJA" },
+          { "definicion": "Reloj que suena para levantarse", "pista": "Ring, ring", "respuesta": "DESPERTADOR" },
+          { "definicion": "El día antes de hoy", "pista": "Lo contrario de mañana", "respuesta": "AYER" }
+        ]
+      },
+      "dificil": {
+        "palabra": "JORNADAS",
+        "pista": "Días de trabajo",
+        "filas": [
+          { "definicion": "Día entre el miércoles y el viernes", "pista": "Cuarto día de la semana", "respuesta": "JUEVES" },
+          { "definicion": "Persona de entre ochenta y ochenta y nueve años", "pista": "Tiene más de ochenta", "respuesta": "OCTOGENARIO" },
+          { "definicion": "Costumbre de hacer las cosas siempre igual", "pista": "Lo de todos los días", "respuesta": "RUTINA" },
+          { "definicion": "Luna nueva", "pista": "Conjunción de la Luna con el Sol", "respuesta": "NOVILUNIO" },
+          { "definicion": "Que ocurre cada año", "pista": "Una vez al año", "respuesta": "ANUAL" },
+          { "definicion": "Diez años", "pista": "Decenio", "respuesta": "DÉCADA" },
+          { "definicion": "En tiempos pasados", "pista": "Hace mucho", "respuesta": "ANTAÑO" },
+          { "definicion": "Seis meses", "pista": "Medio año", "respuesta": "SEMESTRE" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-30",
+    "niveles": {
+      "facil": {
+        "palabra": "BAILE",
+        "pista": "Danza",
+        "filas": [
+          { "definicion": "Botella para dar leche al bebé", "pista": "Tiene tetina", "respuesta": "BIBERÓN" },
+          { "definicion": "Animal con caparazón que se enrolla", "pista": "Mamífero acorazado", "respuesta": "ARMADILLO" },
+          { "definicion": "Lo de dentro", "pista": "Lo contrario de exterior", "respuesta": "INTERIOR" },
+          { "definicion": "Planta aromática morada", "pista": "Espliego", "respuesta": "LAVANDA" },
+          { "definicion": "Pasta larga y fina", "pista": "A la boloñesa", "respuesta": "ESPAGUETI" }
+        ]
+      },
+      "medio": {
+        "palabra": "CONFETI",
+        "pista": "Papelitos de colores que se lanzan",
+        "filas": [
+          { "definicion": "Fiesta de disfraces", "pista": "En febrero", "respuesta": "CARNAVAL" },
+          { "definicion": "Piedra preciosa de reflejos de colores", "pista": "Gema irisada", "respuesta": "ÓPALO" },
+          { "definicion": "Inquietud antes de algo importante", "pista": "Mariposas en el estómago", "respuesta": "NERVIOS" },
+          { "definicion": "Llama que quema", "pista": "Se apaga con agua", "respuesta": "FUEGO" },
+          { "definicion": "Función ante el público", "pista": "Show", "respuesta": "ESPECTÁCULO" },
+          { "definicion": "Aparato para escuchar vinilos", "pista": "Hace girar el disco", "respuesta": "TOCADISCOS" },
+          { "definicion": "Capacidad de imaginar", "pista": "Fantasía", "respuesta": "IMAGINACIÓN" }
+        ]
+      },
+      "dificil": {
+        "palabra": "COTILLÓN",
+        "pista": "Fiesta de Nochevieja con bolsas de sorpresas",
+        "filas": [
+          { "definicion": "Banda de música festiva", "pista": "Orquestina popular", "respuesta": "CHARANGA" },
+          { "definicion": "Quien prepara una fiesta", "pista": "Se encarga de todo", "respuesta": "ORGANIZADOR" },
+          { "definicion": "Diadema de joyas", "pista": "Corona pequeña", "respuesta": "TIARA" },
+          { "definicion": "Que no se puede olvidar", "pista": "Memorable", "respuesta": "INOLVIDABLE" },
+          { "definicion": "Disco pequeño y brillante que se cose a la ropa", "pista": "Brilla en el vestido de fiesta", "respuesta": "LENTEJUELA" },
+          { "definicion": "Pérdida del juicio; también, gran entusiasmo", "pista": "Desenfreno", "respuesta": "LOCURA" },
+          { "definicion": "Lo mejor posible", "pista": "Inmejorable", "respuesta": "ÓPTIMO" },
+          { "definicion": "Digno de atención; también, una nota", "pista": "Entre el bien y el sobresaliente", "respuesta": "NOTABLE" }
+        ]
+      }
+    }
+  },
+  {
+    "fecha": "2026-12-31",
+    "niveles": {
+      "facil": {
+        "palabra": "COPAS",
+        "pista": "Se alzan para brindar",
+        "filas": [
+          { "definicion": "Sirve para lavarse los dientes", "pista": "De dientes o de pelo", "respuesta": "CEPILLO" },
+          { "definicion": "Tienda de gafas", "pista": "Donde se gradúa la vista", "respuesta": "ÓPTICA" },
+          { "definicion": "Bola para jugar", "pista": "Se patea", "respuesta": "PELOTA" },
+          { "definicion": "Último piso de un edificio", "pista": "Con terraza en lo alto", "respuesta": "ÁTICO" },
+          { "definicion": "Gesto alegre de la boca", "pista": "Se dibuja en la cara", "respuesta": "SONRISA" }
+        ]
+      },
+      "medio": {
+        "palabra": "BRINDIS",
+        "pista": "Se hace alzando la copa",
+        "filas": [
+          { "definicion": "Bolita de aire", "pista": "Las del cava", "respuesta": "BURBUJA" },
+          { "definicion": "Lo que queda en la memoria", "pista": "Memoria de algo pasado", "respuesta": "RECUERDO" },
+          { "definicion": "Falta de paciencia", "pista": "Nervios por esperar", "respuesta": "IMPACIENCIA" },
+          { "definicion": "Infancia", "pista": "Etapa de niño", "respuesta": "NIÑEZ" },
+          { "definicion": "Paso de personas en fila", "pista": "El de la cabalgata", "respuesta": "DESFILE" },
+          { "definicion": "Momento brevísimo", "pista": "Segundo", "respuesta": "INSTANTE" },
+          { "definicion": "Fortuna", "pista": "Lo que se desea para el año nuevo", "respuesta": "SUERTE" }
+        ]
+      },
+      "dificil": {
+        "palabra": "CAMPANAS",
+        "pista": "Suenan doce veces a medianoche",
+        "filas": [
+          { "definicion": "Campanadas previas a las doce", "pista": "Los ___, ¡que no son las uvas!", "respuesta": "CUARTOS" },
+          { "definicion": "Alegría grande", "pista": "Júbilo", "respuesta": "ALBOROZO" },
+          { "definicion": "Las doce de la noche", "pista": "Cuando cambia el año", "respuesta": "MEDIANOCHE" },
+          { "definicion": "Lo que uno se propone", "pista": "Los de año nuevo", "respuesta": "PROPÓSITO" },
+          { "definicion": "Presagio", "pista": "De buen o mal ___", "respuesta": "AGÜERO" },
+          { "definicion": "Cosa nueva", "pista": "Lo último", "respuesta": "NOVEDAD" },
+          { "definicion": "Momento culminante", "pista": "Punto álgido", "respuesta": "APOGEO" },
+          { "definicion": "Que crece sin cultivo; también, el santo del 31 de diciembre", "pista": "La carrera de San ___", "respuesta": "SILVESTRE" }
+        ]
+      }
+    }
   }
 ]

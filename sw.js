@@ -1,7 +1,7 @@
 'use strict';
 
 // Sube este número en cada despliegue para que los móviles descarguen la versión nueva.
-const VERSION = 'capitular-v2';
+const VERSION = 'capitular-v3';
 const FUENTES = 'capitular-fuentes';
 
 const ARCHIVOS = [
