@@ -1,0 +1,17 @@
+{
+  "name": "Capitular",
+  "short_name": "Capitular",
+  "description": "Tres acrósticos al día: las iniciales de las respuestas forman la palabra del día.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5EBD8",
+  "theme_color": "#F5EBD8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

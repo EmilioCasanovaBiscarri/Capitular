@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Capitular</title>
+  <meta name="description" content="Capitular: tres acrósticos al día. Resuelve las definiciones y sus iniciales formarán la palabra del día.">
+  <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="icons/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#F5EBD8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1E1A17" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Capitular">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <section class="portada" id="portada" aria-label="Capitular">
+    <svg class="portada-logo" viewBox="0 0 100 100" role="img" aria-label="Logo de Capitular">
+      <rect width="100" height="100" rx="22" fill="#F5EBD8"/>
+      <rect x="16" y="16" width="26" height="68" rx="7" fill="#D4A23A"/>
+      <rect x="21" y="21" width="16" height="14" rx="3" fill="#7A1F2B"/>
+      <rect x="21" y="43" width="16" height="14" rx="3" fill="#7A1F2B"/>
+      <rect x="21" y="65" width="16" height="14" rx="3" fill="#7A1F2B"/>
+      <rect class="barra barra-1" x="46" y="21" width="38" height="14" rx="4" fill="#1E1A17"/>
+      <rect class="barra barra-2" x="46" y="43" width="28" height="14" rx="4" fill="#1E1A17"/>
+      <rect class="barra barra-3" x="46" y="65" width="34" height="14" rx="4" fill="#1E1A17"/>
+    </svg>
+    <p class="portada-titulo">Capitular</p>
+    <p class="portada-lema">Tres acrósticos al día</p>
+  </section>
+
+  <div class="app">
+    <header class="cabecera">
+      <div class="marca">
+        <img src="icons/icon.svg" alt="" width="40" height="40">
+        <h1>Capitular</h1>
+      </div>
+      <nav class="herramientas" aria-label="Menú">
+        <button type="button" class="icono" id="btn-archivo" aria-label="Partidas anteriores">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>
+        </button>
+        <button type="button" class="icono" id="btn-racha" aria-label="Racha y estadísticas">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.8c.9 3.1 5.6 5.4 5.6 10.9a5.6 5.6 0 0 1-11.2 0c0-2.5 1.1-4.3 2.7-5.6.1 1.9.9 3.2 2.1 3.8-.3-3.3.2-6.2.8-9.1z"/><path d="M12 21a2.4 2.4 0 0 1-2.4-2.4c0-1.6 1.3-2.4 2.4-4 1.1 1.6 2.4 2.4 2.4 4A2.4 2.4 0 0 1 12 21z"/></svg>
+        </button>
+        <button type="button" class="icono" id="btn-ayuda" aria-label="Cómo se juega">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M9.3 9.2a2.8 2.8 0 0 1 5.4 1c0 1.9-2.7 2.4-2.7 4.2"/><circle cx="12" cy="17.6" r=".6" class="lleno"/></svg>
+        </button>
+      </nav>
+    </header>
+
+    <main id="principal">
+      <div class="aviso-archivo" id="aviso-archivo" hidden>
+        <span id="aviso-archivo-texto"></span>
+        <button type="button" class="enlace" id="btn-hoy">Volver a hoy</button>
+      </div>
+
+      <section id="juego" hidden>
+        <div class="pestanas" role="tablist" aria-label="Nivel" id="pestanas"></div>
+
+        <div id="panel" role="tabpanel">
+          <div class="franja-bloque">
+            <button type="button" class="franja" id="franja">
+              <span class="franja-casillas" id="franja-casillas" aria-hidden="true"></span>
+            </button>
+            <p class="franja-pista" id="franja-pista"></p>
+            <p class="franja-nota" id="franja-nota"></p>
+          </div>
+          <ol class="filas" id="filas"></ol>
+        </div>
+      </section>
+
+      <section class="vacio" id="vacio" hidden>
+        <img src="icons/icon.svg" alt="" width="72" height="72">
+        <h2>Hoy no hay partida</h2>
+        <p id="vacio-texto">Vuelve mañana.</p>
+        <button type="button" class="btn btn-primario" id="vacio-archivo">Jugar días anteriores</button>
+      </section>
+    </main>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <!-- Ayuda -->
+  <dialog id="dlg-ayuda" aria-labelledby="ayuda-titulo">
+    <div class="dlg-cab">
+      <h2 id="ayuda-titulo">Cómo se juega</h2>
+      <button type="button" class="icono cerrar" data-cerrar aria-label="Cerrar">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <div class="ejemplo" id="ejemplo" aria-hidden="true"></div>
+    <ul class="reglas">
+      <li>Cada día hay tres acrósticos: <b>Fácil</b>, <b>Medio</b> y <b>Difícil</b>. Puedes jugarlos en el orden que quieras.</li>
+      <li>Resuelve las definiciones en el orden que quieras. <b>Sus iniciales, de arriba abajo, forman la palabra del día.</b></li>
+      <li>Las tildes no importan, pero la Ñ no es una N.</li>
+      <li>Con dos fallos en una fila aparece otra pista. También puedes revelar hasta dos letras por nivel, revelar la inicial o rendirte.</li>
+      <li>Toca la franja dorada para adivinar la palabra del día antes de terminar y gana ⭐.</li>
+      <li>🟩 sin fallos ni ayudas · 🟨 con fallos o ayudas · 🟥 rendida</li>
+    </ul>
+    <button type="button" class="btn btn-primario ancho" data-cerrar autofocus>¡A jugar!</button>
+  </dialog>
+
+  <!-- Adivinar la palabra del día -->
+  <dialog id="dlg-adivinar" aria-labelledby="adivinar-titulo">
+    <form id="form-adivinar" novalidate>
+      <div class="dlg-cab">
+        <h2 id="adivinar-titulo">¿Cuál es la palabra del día?</h2>
+        <button type="button" class="icono cerrar" data-cerrar aria-label="Cerrar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
+      </div>
+      <p class="patron" id="adivinar-patron" aria-hidden="true"></p>
+      <p class="suave" id="adivinar-pista"></p>
+      <label class="campo">
+        <span class="sr">Palabra del día</span>
+        <input id="adivinar-entrada" type="text" autocomplete="off" autocorrect="off" autocapitalize="characters" spellcheck="false" enterkeyhint="go">
+      </label>
+      <p class="error-campo" id="adivinar-error" role="alert"></p>
+      <p class="suave pequeno">Si aciertas antes de terminar, ganas ⭐. Si fallas, pierdes el bonus de este nivel pero sigues jugando. Solo hay un intento.</p>
+      <div class="botones">
+        <button type="button" class="btn" data-cerrar>Cancelar</button>
+        <button type="submit" class="btn btn-primario">Probar</button>
+      </div>
+    </form>
+  </dialog>
+
+  <!-- Resumen de nivel -->
+  <dialog id="dlg-resumen" aria-labelledby="resumen-titulo">
+    <div class="dlg-cab">
+      <h2 id="resumen-titulo"></h2>
+      <button type="button" class="icono cerrar" data-cerrar aria-label="Cerrar">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <p class="resumen-palabra" id="resumen-palabra"></p>
+    <p class="resumen-filas" id="resumen-filas"></p>
+    <p class="centrado" id="resumen-estrella"></p>
+    <div class="botones columna">
+      <button type="button" class="btn btn-primario" id="resumen-compartir" autofocus>Compartir</button>
+      <button type="button" class="btn" id="resumen-siguiente"></button>
+      <button type="button" class="btn" id="resumen-estadisticas">Ver racha</button>
+    </div>
+  </dialog>
+
+  <!-- Estadísticas -->
+  <dialog id="dlg-estadisticas" aria-labelledby="estadisticas-titulo">
+    <div class="dlg-cab">
+      <h2 id="estadisticas-titulo">Racha</h2>
+      <button type="button" class="icono cerrar" data-cerrar aria-label="Cerrar">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <dl class="cifras rachas" id="rachas"></dl>
+    <p class="suave pequeno">La racha diaria cuenta los días seguidos completando al menos el nivel Fácil; la de pleno, los tres. Las partidas del archivo no cuentan para las rachas.</p>
+    <h3 class="subtitulo">Estadísticas</h3>
+    <dl class="cifras" id="cifras"></dl>
+    <p class="cuenta-atras" id="cuenta-atras"></p>
+  </dialog>
+
+  <!-- Archivo -->
+  <dialog id="dlg-archivo" aria-labelledby="archivo-titulo">
+    <div class="dlg-cab">
+      <h2 id="archivo-titulo">Partidas anteriores</h2>
+      <button type="button" class="icono cerrar" data-cerrar aria-label="Cerrar">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <ul class="archivo" id="archivo-lista"></ul>
+  </dialog>
+</body>
+</html>
