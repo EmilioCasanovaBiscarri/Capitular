@@ -188,6 +188,27 @@ h1, h2, h3 { font-family: var(--serif); font-weight: 700; margin: 0; }
   fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round;
 }
 .icono svg .lleno { fill: currentColor; }
+/* Racha: llama y número en una píldora; rellena si hoy ya cuenta, discontinua si aún hay que jugar para mantenerla. */
+.herramientas { align-items: center; }
+.racha {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  height: 34px;
+  margin-inline: 4px;
+  padding: 0 12px 0 9px;
+  border: 1px solid var(--borde);
+  border-radius: 999px;
+  background: var(--superficie);
+  color: var(--texto-suave);
+  font: 700 1rem/1 var(--sans);
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+}
+.racha:hover { background: var(--superficie-2); }
+.racha svg { width: 17px; height: 17px; fill: currentColor; }
+.racha.hoy { background: var(--boton); border-color: var(--boton); color: var(--sobre-boton); }
+.racha.pendiente { border: 1px dashed var(--acento); color: var(--acento); }
 
 :focus-visible { outline: 3px solid var(--acento); outline-offset: 2px; }
 

@@ -36,6 +36,8 @@ const esDesarrollo = location.protocol === 'file:' ||
   /^(localhost|127\.0\.0\.1|\[::1\]|10(\.\d+){3}|192\.168(\.\d+){2}|.+\.local)$/.test(location.hostname);
 // ?fecha=AAAA-MM-DD solo funciona en desarrollo (localhost o red local).
 const fechaForzada = esDesarrollo && /^\d{4}-\d{2}-\d{2}$/.test(params.get('fecha') || '') ? params.get('fecha') : null;
+// ?racha=N (solo con ?fecha) marca como completados en su día los N días anteriores, para ver la racha.
+const rachaSimulada = fechaForzada && /^\d+$/.test(params.get('racha') || '') ? Number(params.get('racha')) : 0;
 
 function partesMadrid(fecha = new Date()) {
   const partes = new Intl.DateTimeFormat('en-GB', {
@@ -704,6 +706,7 @@ function comprobarFin() {
   n.terminado = true;
   n.enDia = vista.fecha === hoy;
   guardar();
+  pintarRacha();
   pintarPestanas();
   pintarFranja();
   const nivel = vista.nivel;
@@ -891,6 +894,29 @@ function rachas() {
     return { actual, mejor };
   };
   return { diaria: calcular(['facil']), pleno: calcular(NIVELES.map((n) => n.id)) };
+}
+
+function pintarRacha() {
+  const n = rachas().diaria.actual;
+  const jugadoHoy = terminado('facil', hoy) && !!store.dias[hoy].niveles.facil.enDia;
+  const btn = $('#btn-racha');
+  $('#cifra-racha').textContent = n;
+  btn.className = 'racha' + (jugadoHoy ? ' hoy' : n ? ' pendiente' : '');
+  btn.setAttribute('aria-label', `Racha: ${n} ${n === 1 ? 'día seguido' : 'días seguidos'}${jugadoHoy || !n ? '' : '. Juega hoy para mantenerla'}. Estadísticas`);
+}
+
+function simularRacha(dias) {
+  const anteriores = partidas.map((p) => p.fecha).filter((f) => f < hoy).slice(-dias);
+  for (const fecha of anteriores) {
+    for (const { id } of NIVELES) {
+      const n = estNivel(id, fecha);
+      if (n.terminado) continue;
+      n.filas.forEach((f) => { f.estado = 'resuelta'; });
+      n.terminado = true;
+      n.enDia = true;
+    }
+  }
+  guardar();
 }
 
 function estadisticas() {
@@ -1114,6 +1140,7 @@ document.addEventListener('visibilitychange', () => {
   if (nueva === hoy) return;
   const estabaEnHoy = vista.fecha === hoy;
   hoy = nueva;
+  pintarRacha();
   if (estabaEnHoy) irA(hoy);
 });
 
@@ -1133,6 +1160,8 @@ async function iniciar() {
   }
   partidas.sort((a, b) => a.fecha.localeCompare(b.fecha));
   for (const p of partidas) porFecha.set(p.fecha, p);
+  if (rachaSimulada) simularRacha(rachaSimulada);
+  pintarRacha();
 
   vista.fecha = hoy;
   elegirNivelInicial();

@@ -28,6 +28,7 @@ python3 -m http.server 8000
 Y abre <http://localhost:8000>.
 
 - **Forzar la fecha:** `http://localhost:8000/?fecha=2026-10-25`. Solo funciona en local o en la red de casa (`localhost`, `192.168.x.x`, `10.x.x.x`, `*.local`), nunca en la web publicada. Con la fecha forzada, el progreso se guarda aparte (`capitular-dev`) para no mezclarlo con tus partidas reales.
+- **Simular una racha:** añade `&racha=3` a la fecha forzada (`?fecha=2026-10-25&racha=3`) para dar por completados en su día los tres días anteriores.
 - **Probar desde el móvil:** abre `http://<IP-del-ordenador>:8000/?fecha=2026-10-25` con el móvil en la misma wifi.
 - **Service worker:** en local no se registra (para no servir archivos viejos mientras desarrollas). Para probarlo, añade `?sw` a la URL.
 - **Volver a ver la ayuda inicial:** borra los datos del sitio, o en la consola `localStorage.clear()`.
