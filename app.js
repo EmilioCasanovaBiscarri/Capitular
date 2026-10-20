@@ -90,7 +90,7 @@ let partidas = [];
 const porFecha = new Map();
 const store = cargar();
 let hoy = fechaMadrid();
-const vista = { fecha: null, nivel: 'facil', activa: null };
+const vista = { fecha: null, nivel: 'facil', activa: null, cursor: -1 }; // cursor: casilla de la fila activa
 const vuelos = new Set(); // casillas de la franja con una letra en camino
 
 const partida = (fecha = vista.fecha) => porFecha.get(fecha);
@@ -127,17 +127,36 @@ function celdas(def, e) {
   if (e.estado !== 'pendiente') return sol;
   const ent = letras(e.entrada);
   let k = 0;
-  return sol.map((c, p) => (e.fijas.includes(p) ? c : ent[k++] || ''));
+  return sol.map((c, p) => (e.fijas.includes(p) ? c : (ent[k++] || '').trim()));
 }
 
-const libres = (def, e) => letras(def.respuesta).length - e.fijas.length;
+// Posiciones de las casillas en las que se puede escribir (las no reveladas).
+const abiertas = (def, e) => letras(def.respuesta).map((_, p) => p).filter((p) => !e.fijas.includes(p));
+
+// Guarda las letras de las casillas abiertas; un espacio marca una casilla vacía.
+function componer(def, e, cs) {
+  e.entrada = abiertas(def, e).map((p) => cs[p] || ' ').join('').trimEnd();
+}
 
 // Fija (revela) la letra de la posición p sin descolocar lo ya escrito.
 function fijar(def, e, p) {
   if (e.fijas.includes(p)) return;
   const cs = celdas(def, e);
   e.fijas.push(p);
-  e.entrada = cs.filter((c, q) => !e.fijas.includes(q)).join('');
+  componer(def, e, cs);
+}
+
+// Dónde se pone el cursor al entrar en una fila: la primera casilla vacía o, si no hay, la última.
+function cursorInicial(def, e) {
+  const cs = celdas(def, e);
+  const ps = abiertas(def, e);
+  return ps.find((p) => !cs[p]) ?? ps[ps.length - 1] ?? -1;
+}
+
+// La casilla abierta más cercana a p hacia la derecha (dir = 1) o la izquierda (dir = -1), o -1.
+function vecina(def, e, p, dir) {
+  const ps = abiertas(def, e);
+  return (dir > 0 ? ps.find((q) => q > p) : ps.findLast((q) => q < p)) ?? -1;
 }
 
 function inicialArriba(i, n = estNivel()) {
@@ -340,7 +359,9 @@ function pintarFila(i) {
   const e = n.filas[i];
   const pendiente = e.estado === 'pendiente';
   const cs = celdas(def, e);
-  const cursor = pendiente ? cs.findIndex((c, p) => !c && !e.fijas.includes(p)) : -1;
+  const activa = vista.activa === i && pendiente;
+  if (activa && (vista.cursor < 0 || e.fijas.includes(vista.cursor))) vista.cursor = cursorInicial(def, e);
+  const cursor = activa ? vista.cursor : -1;
 
   $$('.c', li).forEach((s, p) => {
     s.textContent = cs[p];
@@ -363,8 +384,8 @@ function pintarFila(i) {
 
   const input = $('.entrada', li);
   input.disabled = !pendiente;
-  input.maxLength = libres(def, e);
-  if (input.value !== e.entrada) input.value = e.entrada;
+  const valor = pendiente ? VACIO : '';
+  if (input.value !== valor) input.value = valor;
   if (!pendiente) input.setAttribute('aria-label', `Fila ${i + 1}: ${def.respuesta}, ${e.estado}`);
 
   const quedan = MAX_LETRAS - n.letras;
@@ -411,6 +432,7 @@ function activar(i, enfocar) {
   if (vista.activa !== i) {
     const anterior = vista.activa;
     vista.activa = i;
+    vista.cursor = cursorInicial(defFila(i), e);
     if (anterior !== null) pintarFila(anterior);
     pintarFila(i);
     filaEl(i).scrollIntoView({ block: 'nearest', behavior: reducido() ? 'auto' : 'smooth' });
@@ -437,17 +459,77 @@ function siguientePendiente(desde) {
   document.activeElement?.blur();
 }
 
+// El <input> solo guarda este espacio: si desaparece es que se ha borrado, y lo que llegue
+// además son letras nuevas. Las letras de verdad viven en las casillas.
+const VACIO = ' ';
+
 function leerEntrada(i) {
+  const input = $('.entrada', filaEl(i));
+  const valor = input.value;
+  input.value = VACIO;
+  if (estFila(i).estado !== 'pendiente') return;
+  if (valor.length < VACIO.length) borrar(i, true);
+  else for (const c of soloLetras(valor)) escribir(i, c);
+  guardar();
+  pintarFila(i);
+}
+
+// Escribe en la casilla del cursor y avanza: a la siguiente vacía (o a la primera vacía
+// que quede antes) y, si ya no hay vacías, a la casilla de al lado.
+function escribir(i, letra) {
   const def = defFila(i);
   const e = estFila(i);
-  const input = $('.entrada', filaEl(i));
-  const limpio = soloLetras(input.value).slice(0, libres(def, e)).join('');
-  if (input.value !== limpio) input.value = limpio;
-  if (e.entrada !== limpio) {
-    e.entrada = limpio;
-    guardar();
+  const p = vista.cursor;
+  if (p < 0 || e.fijas.includes(p)) return;
+  const cs = celdas(def, e);
+  cs[p] = letra;
+  componer(def, e, cs);
+  const ps = abiertas(def, e);
+  vista.cursor = ps.find((q) => q > p && !cs[q]) ?? ps.find((q) => !cs[q]) ?? ps.find((q) => q > p) ?? p;
+}
+
+// Borra la letra del cursor; con la tecla de borrar, si la casilla ya está vacía, la de la izquierda.
+function borrar(i, atras) {
+  const def = defFila(i);
+  const e = estFila(i);
+  let p = vista.cursor;
+  if (p < 0) return;
+  const cs = celdas(def, e);
+  if (atras && !cs[p]) {
+    p = vecina(def, e, p, -1);
+    if (p < 0) return;
   }
+  cs[p] = '';
+  vista.cursor = p;
+  componer(def, e, cs);
+}
+
+function moverCursor(i, dir) {
+  const q = vecina(defFila(i), estFila(i), vista.cursor, dir);
+  if (q < 0) return;
+  vista.cursor = q;
   pintarFila(i);
+}
+
+// Al tocar una casilla revelada, el cursor va a la abierta de su derecha (o de su izquierda).
+function elegirCasilla(i, p) {
+  const def = defFila(i);
+  const e = estFila(i);
+  if (e.estado !== 'pendiente') return;
+  if (e.fijas.includes(p)) {
+    const derecha = vecina(def, e, p, 1);
+    p = derecha >= 0 ? derecha : vecina(def, e, p, -1);
+  }
+  if (p < 0) return;
+  vista.cursor = p;
+  pintarFila(i);
+}
+
+// Las casillas quedan debajo del <input>, así que se mira en cuál cae la x del toque.
+function casillaEn(li, x) {
+  const cs = $$('.c', li);
+  const k = cs.findIndex((c) => x < c.getBoundingClientRect().right);
+  return k < 0 ? cs.length - 1 : k;
 }
 
 const correcta = (def, e) => {
@@ -559,7 +641,12 @@ el.filas.addEventListener('click', (ev) => {
   const i = indiceDe(ev.target);
   if (Number.isNaN(i)) return;
   const boton = ev.target.closest('[data-accion]');
-  if (!boton) { activar(i, true); return; }
+  if (!boton) {
+    activar(i, true);
+    // ev.detail es 0 cuando el clic no viene de un toque o del ratón
+    if (ev.target.classList.contains('entrada') && ev.detail) elegirCasilla(i, casillaEn(filaEl(i), ev.clientX));
+    return;
+  }
   switch (boton.dataset.accion) {
     case 'comprobar': comprobar(i); break;
     case 'letra': revelarLetra(i); break;
@@ -588,13 +675,22 @@ el.filas.addEventListener('compositionend', (ev) => {
 
 el.filas.addEventListener('keydown', (ev) => {
   if (!ev.target.classList.contains('entrada')) return;
+  const i = indiceDe(ev.target);
   if (ev.key === 'Enter') {
     ev.preventDefault();
-    comprobar(indiceDe(ev.target));
+    comprobar(i);
+  } else if (ev.key === 'ArrowLeft' || ev.key === 'ArrowRight') {
+    ev.preventDefault();
+    moverCursor(i, ev.key === 'ArrowRight' ? 1 : -1);
+  } else if (ev.key === 'Delete') {
+    ev.preventDefault();
+    borrar(i, false);
+    guardar();
+    pintarFila(i);
   }
 });
 
-// El cursor siempre al final: se escribe de izquierda a derecha.
+// El cursor del <input> siempre al final, detrás del espacio; el que se ve es el de las casillas.
 document.addEventListener('selectionchange', () => {
   const a = document.activeElement;
   if (a?.classList?.contains('entrada') && a.selectionStart !== a.value.length) alFinal(a);
