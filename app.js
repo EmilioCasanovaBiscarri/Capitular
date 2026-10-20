@@ -1142,6 +1142,18 @@ async function iniciar() {
   if (fechaForzada) avisar(`Modo desarrollo: fecha ${fechaForzada}`, 3000);
 }
 
+/* ---------- Pie ---------- */
+
+// El año de los derechos es el actual. El correo se monta aquí, a trozos, para que no aparezca entero en los archivos.
+$('#anio-derechos').textContent = new Date().getFullYear();
+{
+  const correo = 'ecasanovabisc' + '@' + ['gmail', 'com'].join('.');
+  const enlace = document.createElement('a');
+  enlace.href = 'mailto:' + correo;
+  enlace.textContent = correo;
+  $('#contacto').append(' · ', enlace);
+}
+
 iniciar();
 
 // En desarrollo el service worker solo se registra con ?sw, para no servir archivos viejos.
